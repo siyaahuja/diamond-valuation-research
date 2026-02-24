@@ -1,0 +1,2501 @@
+productID,price_usd,is_lab,carat,depth_pct,table_pct,color_id,color_name,cut_id,cut_name,clarity_id,clarity_name,lab_cert,fluorescence,symmetry,polish,shape
+27692481,200,False,0.3,59.8,61.0,8,K,2,Excellent,7,SI1,IGI,NN,VG,EX,round
+27692480,200,False,0.3,61.3,56.0,8,K,3,Very Good,7,SI1,IGI,NN,VG,VG,round
+27459510,200,False,0.34,63.5,58.0,8,K,2,Excellent,7,SI1,IGI,S,EX,EX,round
+27459520,200,False,0.3,62.9,54.0,8,K,2,Excellent,7,SI1,IGI,NN,EX,EX,round
+28034096,200,False,0.3,61.5,57.0,8,K,2,Excellent,7,SI1,IGI,NN,EX,EX,round
+25640198,210,False,0.33,62.2,60.0,8,K,2,Excellent,7,SI1,IGI,NN,EX,EX,round
+27689597,210,False,0.3,62.0,60.0,8,K,3,Very Good,5,VS1,IGI,NN,VG,VG,round
+27457622,210,False,0.33,62.0,58.0,7,J,2,Excellent,7,SI1,IGI,S,VG,VG,round
+28546488,210,False,0.3,61.8,60.0,8,K,2,Excellent,7,SI1,IGI,NN,EX,EX,round
+28034092,210,False,0.3,63.1,56.0,8,K,2,Excellent,7,SI1,IGI,NN,VG,VG,round
+27491350,220,False,0.31,62.2,56.0,8,K,2,Excellent,6,VS2,IGI,NN,EX,EX,round
+27690126,220,False,0.31,62.8,56.0,8,K,2,Excellent,7,SI1,IGI,NN,EX,EX,round
+27690156,220,False,0.35,62.8,57.0,8,K,2,Excellent,6,VS2,IGI,NN,EX,EX,round
+26623709,220,False,0.31,61.0,58.0,8,K,2,Excellent,6,VS2,IGI,SLT,EX,EX,round
+27458589,220,False,0.3,62.7,59.0,8,K,2,Excellent,5,VS1,IGI,SLT,EX,EX,round
+27459512,220,False,0.3,61.0,61.0,8,K,2,Excellent,7,SI1,IGI,NN,EX,EX,round
+27459517,220,False,0.31,62.2,57.0,8,K,2,Excellent,6,VS2,IGI,S,EX,EX,round
+27459513,220,False,0.3,60.7,58.0,8,K,2,Excellent,6,VS2,IGI,SLT,EX,EX,round
+27014891,220,False,0.35,62.3,58.0,8,K,2,Excellent,7,SI1,IGI,NN,EX,EX,round
+27707840,220,False,0.3,63.1,57.0,8,K,3,Very Good,7,SI1,IGI,SLT,VG,EX,round
+27722495,220,False,0.3,61.6,58.0,8,K,2,Excellent,7,SI1,IGI,NN,EX,EX,round
+28040810,220,False,0.32,62.1,58.0,8,K,2,Excellent,4,VVS2,IGI,NN,EX,EX,round
+28034077,220,False,0.35,61.1,58.0,8,K,2,Excellent,6,VS2,IGI,NN,VG,VG,round
+28034085,220,False,0.37,58.8,61.0,8,K,3,Very Good,7,SI1,IGI,NN,EX,EX,round
+28034093,220,False,0.35,61.0,57.0,8,K,2,Excellent,7,SI1,IGI,NN,EX,VG,round
+18877128,230,False,0.37,60.9,58.0,8,K,2,Excellent,7,SI1,IGI,NN,EX,EX,round
+21887560,230,False,0.4,61.4,58.0,8,K,2,Excellent,7,SI1,IGI,NN,VG,EX,round
+24319422,230,False,0.31,60.6,58.0,8,K,2,Excellent,6,VS2,IGI,NN,EX,EX,round
+24265808,230,False,0.38,61.6,54.0,7,J,2,Excellent,7,SI1,IGI,NN,VG,EX,round
+27533853,230,False,0.3,61.5,59.0,8,K,2,Excellent,6,VS2,IGI,NN,EX,EX,round
+27692469,230,False,0.32,62.9,57.0,8,K,2,Excellent,7,SI1,IGI,NN,EX,EX,round
+26622026,230,False,0.31,62.2,57.0,7,J,2,Excellent,2,IF,IGI,SLT,EX,EX,round
+27459545,230,False,0.36,63.2,57.0,8,K,3,Very Good,7,SI1,IGI,NN,EX,EX,round
+27667240,230,False,0.3,62.1,57.0,8,K,1,Ideal,7,SI1,IGI,NN,EX,EX,round
+27658949,230,False,0.3,61.3,60.0,8,K,2,Excellent,7,SI1,IGI,NN,EX,EX,round
+27661411,230,False,0.31,62.6,58.0,8,K,2,Excellent,7,SI1,IGI,NN,EX,EX,round
+27707819,230,False,0.31,60.8,57.0,8,K,2,Excellent,7,SI1,IGI,SLT,EX,EX,round
+27707828,230,False,0.3,60.7,59.0,8,K,2,Excellent,5,VS1,IGI,NN,EX,EX,round
+27707814,230,False,0.3,60.8,59.0,8,K,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+27722377,230,False,0.36,59.6,60.0,8,K,2,Excellent,7,SI1,IGI,NN,VG,VG,round
+28546490,230,False,0.34,62.8,52.0,8,K,2,Excellent,5,VS1,IGI,NN,EX,EX,round
+28034082,230,False,0.35,59.6,61.0,8,K,2,Excellent,6,VS2,IGI,NN,EX,EX,round
+28043367,230,False,0.4,62.8,54.0,8,K,2,Excellent,7,SI1,IGI,NN,EX,EX,round
+28043378,230,False,0.4,62.6,57.0,8,K,2,Excellent,7,SI1,IGI,NN,EX,VG,round
+19183690,240,False,0.34,60.2,62.0,8,K,3,Very Good,7,SI1,GIA,M,EX,VG,round
+16688562,240,False,0.3,64.5,56.0,2,E,3,Very Good,9,I1,GIA,NN,VG,EX,round
+25640142,240,False,0.4,63.7,57.0,8,K,2,Excellent,7,SI1,IGI,NN,VG,EX,round
+25639881,240,False,0.31,61.1,58.0,7,J,2,Excellent,4,VVS2,IGI,NN,EX,EX,round
+25613942,240,False,0.3,58.2,60.0,7,J,2,Excellent,6,VS2,IGI,SLT,EX,EX,round
+25721956,240,False,0.32,62.8,56.0,8,K,2,Excellent,5,VS1,IGI,SLT,EX,EX,round
+24170831,240,False,0.4,60.8,58.0,8,K,2,Excellent,7,SI1,IGI,NN,EX,EX,round
+24453222,240,False,0.4,60.7,60.0,8,K,2,Excellent,7,SI1,IGI,NN,EX,EX,round
+24453280,240,False,0.3,61.6,60.0,6,I,2,Excellent,7,SI1,IGI,NN,EX,EX,round
+24453250,240,False,0.4,62.9,55.0,8,K,2,Excellent,7,SI1,IGI,NN,EX,EX,round
+24453400,240,False,0.31,62.9,55.0,7,J,2,Excellent,4,VVS2,IGI,NN,EX,EX,round
+24453596,240,False,0.41,62.4,57.0,8,K,2,Excellent,7,SI1,IGI,SLT,EX,VG,round
+24499703,240,False,0.41,63.6,56.0,8,K,2,Excellent,7,SI1,IGI,NN,EX,VG,round
+24499665,240,False,0.34,63.1,56.0,7,J,2,Excellent,7,SI1,IGI,SLT,EX,EX,round
+24994324,240,False,0.3,63.9,59.0,8,K,3,Very Good,7,SI1,GIA,NN,VG,EX,round
+25978074,240,False,0.33,62.6,61.0,6,I,3,Very Good,7,SI1,IGI,NN,EX,EX,round
+25978703,240,False,0.33,59.6,59.0,7,J,2,Excellent,4,VVS2,IGI,NN,EX,EX,round
+27689609,240,False,0.34,59.8,60.0,8,K,2,Excellent,5,VS1,IGI,NN,EX,EX,round
+27692681,240,False,0.3,63.4,56.0,6,I,2,Excellent,7,SI1,IGI,NN,EX,EX,round
+26622960,240,False,0.3,61.7,59.0,6,I,2,Excellent,7,SI1,IGI,NN,VG,EX,round
+26622268,240,False,0.4,62.1,59.0,8,K,2,Excellent,7,SI1,IGI,SLT,VG,VG,round
+26621990,240,False,0.3,62.3,57.0,6,I,2,Excellent,7,SI1,IGI,NN,VG,VG,round
+26622263,240,False,0.37,62.8,57.0,7,J,2,Excellent,7,SI1,IGI,NN,EX,VG,round
+26622264,240,False,0.4,60.7,59.0,8,K,2,Excellent,7,SI1,IGI,NN,EX,VG,round
+27459775,240,False,0.3,58.7,60.0,6,I,2,Excellent,7,SI1,IGI,NN,VG,EX,round
+27458828,240,False,0.4,62.2,56.0,8,K,2,Excellent,7,SI1,IGI,NN,EX,EX,round
+27458253,240,False,0.32,62.8,58.0,6,I,2,Excellent,7,SI1,IGI,NN,EX,EX,round
+27458027,240,False,0.3,63.3,58.0,6,I,2,Excellent,7,SI1,IGI,NN,EX,EX,round
+27458257,240,False,0.32,62.9,56.0,6,I,2,Excellent,7,SI1,IGI,NN,EX,EX,round
+27459347,240,False,0.3,60.4,61.0,6,I,2,Excellent,7,SI1,IGI,NN,EX,EX,round
+27459619,240,False,0.3,61.8,56.0,6,I,2,Excellent,7,SI1,IGI,NN,EX,EX,round
+27459618,240,False,0.3,62.7,58.0,6,I,2,Excellent,7,SI1,IGI,NN,EX,EX,round
+27459564,240,False,0.3,61.1,58.0,7,J,2,Excellent,7,SI1,IGI,NN,EX,EX,round
+27459624,240,False,0.3,63.5,57.0,6,I,2,Excellent,7,SI1,IGI,NN,EX,EX,round
+27658946,240,False,0.33,62.9,56.0,8,K,2,Excellent,7,SI1,IGI,NN,EX,EX,round
+27659072,240,False,0.31,62.1,58.0,8,K,2,Excellent,5,VS1,IGI,NN,EX,EX,round
+27659063,240,False,0.31,62.3,58.0,8,K,2,Excellent,5,VS1,IGI,NN,EX,EX,round
+27661407,240,False,0.32,63.2,57.0,8,K,2,Excellent,7,SI1,IGI,NN,EX,EX,round
+27661509,240,False,0.3,62.9,57.0,7,J,2,Excellent,7,SI1,IGI,SLT,EX,EX,round
+26124448,240,False,0.3,64.5,57.0,7,J,3,Very Good,9,I1,GIA,NN,VG,EX,round
+27015298,240,False,0.4,61.4,60.0,8,K,2,Excellent,7,SI1,IGI,NN,EX,EX,round
+27015947,240,False,0.3,63.3,55.0,6,I,2,Excellent,7,SI1,IGI,NN,VG,EX,round
+27753887,240,False,0.31,63.4,56.0,8,K,2,Excellent,5,VS1,IGI,NN,EX,EX,round
+27707781,240,False,0.3,62.7,57.0,7,J,2,Excellent,7,SI1,IGI,SLT,EX,EX,round
+27707847,240,False,0.31,62.0,57.0,8,K,2,Excellent,6,VS2,IGI,NN,EX,EX,round
+27722395,240,False,0.34,62.5,57.0,7,J,2,Excellent,7,SI1,IGI,NN,VG,VG,round
+28546729,240,False,0.33,62.1,57.0,7,J,2,Excellent,7,SI1,IGI,NN,EX,EX,round
+28546489,240,False,0.35,61.5,58.0,8,K,2,Excellent,5,VS1,IGI,NN,EX,EX,round
+28034014,240,False,0.3,60.3,57.0,6,I,2,Excellent,7,SI1,IGI,NN,EX,EX,round
+28034012,240,False,0.3,61.3,60.0,6,I,2,Excellent,7,SI1,IGI,NN,EX,EX,round
+28043014,240,False,0.3,62.6,59.0,6,I,2,Excellent,7,SI1,IGI,NN,VG,VG,round
+28043011,240,False,0.3,60.9,60.0,6,I,3,Very Good,7,SI1,IGI,NN,EX,EX,round
+28043368,240,False,0.43,62.8,57.0,8,K,2,Excellent,7,SI1,IGI,NN,EX,EX,round
+28043370,240,False,0.4,62.5,59.0,8,K,2,Excellent,7,SI1,IGI,NN,EX,EX,round
+28043369,240,False,0.4,59.4,60.0,8,K,2,Excellent,7,SI1,IGI,NN,EX,EX,round
+28043372,240,False,0.41,63.0,56.0,8,K,2,Excellent,7,SI1,IGI,NN,EX,EX,round
+28546489,240,False,0.35,61.5,58.0,8,K,2,Excellent,5,VS1,IGI,NN,EX,EX,round
+18878887,250,False,0.42,62.6,56.0,8,K,2,Excellent,6,VS2,IGI,NN,EX,EX,round
+20339165,250,False,0.4,59.4,61.0,8,K,2,Excellent,5,VS1,IGI,NN,EX,EX,round
+20456449,250,False,0.42,62.7,58.0,8,K,2,Excellent,7,SI1,IGI,NN,EX,EX,round
+21144898,250,False,0.31,62.6,59.0,8,K,2,Excellent,3,VVS1,IGI,SLT,EX,EX,round
+22731974,250,False,0.4,61.6,57.0,8,K,2,Excellent,6,VS2,IGI,NN,EX,EX,round
+22732075,250,False,0.4,60.4,58.0,8,K,2,Excellent,7,SI1,IGI,NN,EX,EX,round
+22731964,250,False,0.41,63.3,58.0,8,K,2,Excellent,6,VS2,IGI,NN,EX,EX,round
+12729525,250,False,0.3,63.8,57.0,6,I,3,Very Good,8,SI2,GIA,F,VG,VG,round
+24170158,250,False,0.4,62.2,58.0,8,K,2,Excellent,6,VS2,IGI,NN,EX,EX,round
+24170178,250,False,0.4,60.6,64.0,8,K,3,Very Good,6,VS2,IGI,NN,VG,EX,round
+24170176,250,False,0.4,62.5,54.0,8,K,2,Excellent,6,VS2,IGI,NN,EX,EX,round
+24453577,250,False,0.4,63.9,57.0,8,K,3,Very Good,6,VS2,IGI,NN,EX,EX,round
+24614974,250,False,0.4,63.1,59.0,8,K,2,Excellent,7,SI1,IGI,SLT,EX,EX,round
+24626148,250,False,0.41,63.1,57.0,8,K,2,Excellent,7,SI1,IGI,NN,VG,VG,round
+25517899,250,False,0.44,59.1,61.0,8,K,2,Excellent,7,SI1,IGI,NN,EX,EX,round
+25519157,250,False,0.4,62.1,57.0,8,K,2,Excellent,7,SI1,IGI,NN,EX,EX,round
+25628337,250,False,0.3,62.6,57.0,8,K,2,Excellent,2,IF,IGI,NN,EX,EX,round
+25639846,250,False,0.3,63.0,57.0,6,I,2,Excellent,7,SI1,IGI,NN,EX,EX,round
+25639854,250,False,0.3,63.6,54.0,6,I,2,Excellent,7,SI1,IGI,NN,EX,EX,round
+25613964,250,False,0.3,61.8,59.0,7,J,1,Ideal,5,VS1,IGI,SLT,EX,EX,round
+25721822,250,False,0.3,59.0,60.0,7,J,2,Excellent,5,VS1,IGI,SLT,EX,EX,round
+25937193,250,False,0.3,64.9,62.0,6,I,3,Very Good,7,SI1,IGI,SLT,VG,VG,round
+25937194,250,False,0.3,63.6,60.0,6,I,3,Very Good,7,SI1,IGI,NN,VG,VG,round
+25977928,250,False,0.4,59.1,62.0,8,K,2,Excellent,7,SI1,IGI,NN,VG,EX,round
+25978166,250,False,0.3,62.6,58.0,6,I,2,Excellent,7,SI1,IGI,NN,VG,EX,round
+25978546,250,False,0.3,61.8,58.0,6,I,2,Excellent,7,SI1,IGI,NN,EX,EX,round
+26143478,250,False,0.3,59.1,62.0,6,I,2,Excellent,7,SI1,IGI,NN,EX,EX,round
+26137063,250,False,0.35,62.2,56.0,8,K,2,Excellent,3,VVS1,IGI,NN,EX,EX,round
+26621641,250,False,0.3,61.9,59.0,6,I,2,Excellent,7,SI1,IGI,NN,EX,EX,round
+26621998,250,False,0.3,58.8,61.0,6,I,2,Excellent,7,SI1,IGI,NN,EX,EX,round
+26622003,250,False,0.3,61.4,59.0,6,I,2,Excellent,7,SI1,IGI,NN,EX,EX,round
+26621982,250,False,0.3,63.1,55.0,6,I,2,Excellent,7,SI1,IGI,NN,VG,VG,round
+26622808,250,False,0.3,60.8,60.0,6,I,2,Excellent,7,SI1,IGI,NN,EX,EX,round
+26622831,250,False,0.3,61.8,58.0,6,I,2,Excellent,7,SI1,IGI,NN,EX,EX,round
+26622916,250,False,0.3,60.8,56.0,6,I,2,Excellent,7,SI1,IGI,NN,VG,EX,round
+26622844,250,False,0.3,61.0,60.0,6,I,2,Excellent,7,SI1,IGI,NN,EX,EX,round
+26622749,250,False,0.31,60.1,57.0,6,I,2,Excellent,7,SI1,IGI,NN,EX,EX,round
+26621996,250,False,0.3,63.2,55.0,6,I,2,Excellent,7,SI1,IGI,NN,EX,EX,round
+26623577,250,False,0.3,59.0,63.0,6,I,3,Very Good,5,VS1,IGI,NN,EX,EX,round
+26426646,250,False,0.3,63.3,59.0,7,J,2,Excellent,5,VS1,IGI,NN,VG,EX,round
+27608577,250,False,0.3,62.7,58.0,7,J,2,Excellent,5,VS1,IGI,NN,EX,EX,round
+27658921,250,False,0.3,62.5,57.0,7,J,2,Excellent,7,SI1,IGI,NN,EX,EX,round
+27658948,250,False,0.3,62.3,58.0,7,J,2,Excellent,7,SI1,IGI,NN,EX,EX,round
+27659026,250,False,0.31,62.4,58.0,8,K,2,Excellent,4,VVS2,IGI,NN,EX,EX,round
+27659065,250,False,0.34,62.9,56.0,8,K,2,Excellent,5,VS1,IGI,NN,EX,EX,round
+27658997,250,False,0.31,60.5,58.0,8,K,2,Excellent,3,VVS1,IGI,NN,EX,EX,round
+27659040,250,False,0.31,62.4,57.0,8,K,2,Excellent,4,VVS2,IGI,NN,EX,EX,round
+27659085,250,False,0.32,60.7,60.0,7,J,2,Excellent,6,VS2,IGI,NN,EX,EX,round
+27659069,250,False,0.33,62.4,57.0,8,K,2,Excellent,5,VS1,IGI,NN,EX,EX,round
+27661415,250,False,0.3,64.1,55.0,6,I,3,Very Good,7,SI1,IGI,NN,EX,EX,round
+27661481,250,False,0.32,61.0,56.0,8,K,1,Ideal,4,VVS2,IGI,NN,EX,EX,round
+27661510,250,False,0.3,62.6,58.0,7,J,2,Excellent,7,SI1,IGI,NN,EX,EX,round
+27661488,250,False,0.3,60.7,58.0,7,J,2,Excellent,6,VS2,IGI,NN,EX,EX,round
+27458514,250,False,0.3,60.9,58.0,3,F,2,Excellent,7,SI1,IGI,S,VG,EX,round
+27458806,250,False,0.4,61.0,59.0,8,K,2,Excellent,7,SI1,IGI,SLT,VG,EX,round
+27458823,250,False,0.42,60.6,59.0,8,K,2,Excellent,7,SI1,IGI,NN,EX,EX,round
+27457748,250,False,0.33,61.6,59.0,7,J,2,Excellent,6,VS2,IGI,NN,VG,VG,round
+27458018,250,False,0.3,59.6,59.0,6,I,2,Excellent,7,SI1,IGI,NN,EX,EX,round
+27458028,250,False,0.31,62.7,55.0,6,I,2,Excellent,7,SI1,IGI,NN,EX,EX,round
+27458021,250,False,0.3,60.3,58.0,6,I,2,Excellent,7,SI1,IGI,NN,EX,EX,round
+27458255,250,False,0.32,61.6,57.0,6,I,2,Excellent,7,SI1,IGI,NN,EX,EX,round
+27458145,250,False,0.3,62.3,63.0,5,H,2,Excellent,7,SI1,IGI,NN,VG,VG,round
+27463413,250,False,0.3,61.5,62.0,6,I,2,Excellent,7,SI1,IGI,NN,EX,EX,round
+27459345,250,False,0.3,62.2,55.0,6,I,2,Excellent,7,SI1,IGI,NN,EX,EX,round
+27459620,250,False,0.3,61.4,56.0,6,I,2,Excellent,7,SI1,IGI,NN,EX,EX,round
+27459336,250,False,0.3,63.1,57.0,6,I,2,Excellent,7,SI1,IGI,SLT,EX,EX,round
+27459622,250,False,0.3,62.2,58.0,6,I,2,Excellent,7,SI1,IGI,NN,EX,EX,round
+27015004,250,False,0.3,61.7,55.0,6,I,2,Excellent,7,SI1,IGI,NN,EX,EX,round
+27015057,250,False,0.31,59.7,58.0,7,J,2,Excellent,6,VS2,IGI,NN,VG,EX,round
+27015301,250,False,0.4,62.5,56.0,8,K,2,Excellent,7,SI1,IGI,NN,EX,EX,round
+27015297,250,False,0.4,62.5,55.0,8,K,2,Excellent,7,SI1,IGI,SLT,EX,EX,round
+27015435,250,False,0.32,61.2,57.0,7,J,2,Excellent,7,SI1,IGI,NN,EX,EX,round
+27015739,250,False,0.3,62.3,57.0,6,I,2,Excellent,7,SI1,IGI,NN,EX,EX,round
+27015672,250,False,0.4,63.8,56.0,8,K,3,Very Good,7,SI1,IGI,SLT,EX,EX,round
+27015940,250,False,0.31,61.3,58.0,6,I,2,Excellent,7,SI1,IGI,NN,VG,EX,round
+27689482,250,False,0.3,60.4,59.0,6,I,2,Excellent,7,SI1,IGI,NN,EX,EX,round
+27689521,250,False,0.3,62.7,57.0,7,J,2,Excellent,5,VS1,IGI,NN,EX,VG,round
+27689519,250,False,0.3,62.2,58.0,6,I,2,Excellent,7,SI1,IGI,NN,EX,EX,round
+27692624,250,False,0.3,62.1,57.0,7,J,2,Excellent,6,VS2,IGI,NN,VG,EX,round
+27692515,250,False,0.39,61.8,57.0,8,K,2,Excellent,6,VS2,IGI,NN,EX,EX,round
+27722370,250,False,0.4,60.3,61.0,7,J,3,Very Good,7,SI1,IGI,SLT,GD,GD,round
+27722440,250,False,0.31,61.1,60.0,6,I,2,Excellent,7,SI1,IGI,NN,EX,EX,round
+27713874,250,False,0.3,61.8,59.0,6,I,2,Excellent,5,VS1,IGI,SLT,VG,EX,round
+28069547,250,False,0.32,62.0,58.0,6,I,2,Excellent,6,VS2,IGI,SLT,EX,EX,round
+28367082,250,False,0.3,62.9,58.0,8,K,3,Very Good,8,SI2,GIA,NN,VG,EX,round
+28043013,250,False,0.3,62.9,58.0,6,I,2,Excellent,7,SI1,IGI,NN,VG,VG,round
+28043376,250,False,0.4,62.9,57.5,8,K,2,Excellent,7,SI1,IGI,SLT,EX,EX,round
+28042193,250,False,0.32,62.4,58.0,4,G,2,Excellent,8,SI2,GIA,F,EX,EX,round
+28039522,250,False,0.4,59.2,62.0,8,K,2,Excellent,6,VS2,IGI,NN,EX,EX,round
+28041317,250,False,0.3,59.9,59.0,6,I,2,Excellent,7,SI1,IGI,NN,EX,EX,round
+28041288,250,False,0.3,61.5,54.0,6,I,2,Excellent,7,SI1,IGI,NN,EX,EX,round
+28033789,250,False,0.3,60.7,63.0,6,I,2,Excellent,7,SI1,IGI,NN,EX,EX,round
+28034040,250,False,0.3,62.6,57.0,6,I,2,Excellent,7,SI1,IGI,NN,VG,EX,round
+28034081,250,False,0.37,60.9,61.0,8,K,2,Excellent,7,SI1,IGI,NN,EX,EX,round
+28543408,250,False,0.3,60.3,63.0,4,G,3,Very Good,7,SI1,IGI,NN,EX,EX,round
+28686643,250,False,0.3,61.8,57.0,7,J,2,Excellent,8,SI2,GIA,F,EX,EX,round
+20339187,260,False,0.42,63.2,57.0,8,K,2,Excellent,6,VS2,IGI,NN,EX,EX,round
+20339162,260,False,0.41,58.6,60.0,8,K,2,Excellent,5,VS1,IGI,NN,EX,EX,round
+14939407,260,False,0.31,62.4,59.0,3,F,3,Very Good,9,I1,GIA,NN,VG,VG,round
+21229467,260,False,0.41,62.6,62.0,8,K,2,Excellent,5,VS1,IGI,NN,EX,EX,round
+20339187,260,False,0.42,63.2,57.0,8,K,2,Excellent,6,VS2,IGI,NN,EX,EX,round
+20339162,260,False,0.41,58.6,60.0,8,K,2,Excellent,5,VS1,IGI,NN,EX,EX,round
+21564003,260,False,0.3,62.9,56.0,4,G,2,Excellent,8,SI2,GIA,F,EX,EX,round
+21989234,260,False,0.3,61.6,61.0,4,G,3,Very Good,7,SI1,GIA,NN,GD,EX,round
+23922424,260,False,0.3,63.0,56.0,6,I,2,Excellent,9,I1,GIA,F,EX,EX,round
+23922329,260,False,0.3,62.3,58.0,6,I,2,Excellent,9,I1,GIA,NN,EX,EX,round
+24170177,260,False,0.4,63.3,55.0,8,K,2,Excellent,6,VS2,IGI,NN,EX,EX,round
+25983993,260,False,0.32,61.2,58.0,6,I,2,Excellent,7,SI1,IGI,NN,EX,EX,round
+25978462,260,False,0.45,61.6,57.0,8,K,2,Excellent,7,SI1,IGI,NN,EX,EX,round
+25978827,260,False,0.39,61.9,60.0,7,J,2,Excellent,7,SI1,IGI,NN,VG,VG,round
+24453534,260,False,0.4,61.2,57.0,8,K,2,Excellent,6,VS2,IGI,NN,EX,EX,round
+24453581,260,False,0.3,62.3,57.0,5,H,2,Excellent,7,SI1,IGI,NN,EX,EX,round
+24453251,260,False,0.41,62.3,59.0,8,K,2,Excellent,7,SI1,IGI,NN,EX,EX,round
+24615470,260,False,0.4,58.4,61.0,7,J,2,Excellent,7,SI1,IGI,NN,VG,EX,round
+25613961,260,False,0.34,62.9,56.0,7,J,2,Excellent,6,VS2,IGI,SLT,EX,EX,round
+25518815,260,False,0.35,62.8,59.0,6,I,2,Excellent,6,VS2,IGI,NN,EX,VG,round
+25517912,260,False,0.4,61.3,57.0,8,K,2,Excellent,6,VS2,IGI,NN,EX,EX,round
+25721825,260,False,0.32,63.2,56.0,7,J,2,Excellent,5,VS1,IGI,SLT,EX,EX,round
+24994280,260,False,0.35,61.9,57.0,8,K,2,Excellent,7,SI1,GIA,F,VG,EX,round
+24992348,260,False,0.3,62.6,60.0,8,K,3,Very Good,4,VVS2,GIA,NN,GD,EX,round
+22967651,260,False,0.33,62.1,55.0,7,J,2,Excellent,5,VS1,IGI,NN,EX,EX,round
+23745515,260,False,0.41,61.2,58.0,8,K,2,Excellent,6,VS2,IGI,NN,VG,VG,round
+23745531,260,False,0.3,63.2,57.0,1,D,3,Very Good,7,SI1,IGI,SLT,GD,EX,round
+23802993,260,False,0.31,61.0,60.0,6,I,3,Very Good,5,VS1,IGI,SLT,VG,EX,round
+27459873,260,False,0.33,60.5,61.0,7,J,2,Excellent,7,SI1,IGI,NN,EX,EX,round
+27458808,260,False,0.4,61.1,60.0,8,K,2,Excellent,7,SI1,IGI,SLT,EX,EX,round
+27458987,260,False,0.31,62.3,56.0,7,J,2,Excellent,5,VS1,IGI,NN,EX,VG,round
+27458805,260,False,0.4,63.6,55.0,8,K,2,Excellent,6,VS2,IGI,NN,EX,EX,round
+27458814,260,False,0.4,59.0,62.0,8,K,2,Excellent,6,VS2,IGI,NN,EX,EX,round
+27457715,260,False,0.32,62.2,57.0,7,J,2,Excellent,6,VS2,IGI,NN,EX,VG,round
+27458241,260,False,0.36,59.2,61.0,6,I,2,Excellent,7,SI1,IGI,NN,EX,EX,round
+27458249,260,False,0.33,62.0,58.0,6,I,2,Excellent,7,SI1,IGI,NN,EX,EX,round
+27459177,260,False,0.3,62.8,57.0,2,E,3,Very Good,7,SI1,IGI,SLT,GD,VG,round
+27459431,260,False,0.31,61.7,57.0,5,H,2,Excellent,7,SI1,IGI,NN,EX,VG,round
+27519051,260,False,0.3,63.8,57.0,6,I,3,Very Good,6,VS2,IGI,NN,EX,EX,round
+27472334,260,False,0.31,61.9,58.0,6,I,2,Excellent,7,SI1,IGI,NN,EX,EX,round
+26233552,260,False,0.3,63.4,58.0,4,G,3,Very Good,9,I1,GIA,NN,VG,VG,round
+26137098,260,False,0.3,60.8,60.0,6,I,2,Excellent,7,SI1,IGI,NN,EX,EX,round
+26137100,260,False,0.3,63.3,56.0,6,I,2,Excellent,7,SI1,IGI,NN,EX,EX,round
+26143477,260,False,0.31,63.3,59.0,6,I,2,Excellent,7,SI1,IGI,NN,EX,EX,round
+26768959,260,False,0.3,63.3,61.0,8,K,3,Very Good,3,VVS1,GIA,NN,VG,GD,round
+26622466,260,False,0.33,62.5,52.0,6,I,2,Excellent,7,SI1,IGI,NN,EX,EX,round
+26623630,260,False,0.4,63.5,52.0,8,K,2,Excellent,7,SI1,IGI,NN,EX,EX,round
+27016246,260,False,0.31,63.3,55.0,6,I,2,Excellent,7,SI1,IGI,NN,EX,EX,round
+27016228,260,False,0.32,62.0,59.0,6,I,2,Excellent,7,SI1,IGI,NN,VG,VG,round
+27015002,260,False,0.3,62.5,58.0,6,I,2,Excellent,7,SI1,IGI,NN,EX,EX,round
+27015006,260,False,0.3,62.6,57.0,6,I,2,Excellent,7,SI1,IGI,NN,EX,EX,round
+27015001,260,False,0.3,60.8,62.0,6,I,2,Excellent,7,SI1,IGI,NN,EX,EX,round
+27015059,260,False,0.33,61.5,61.0,7,J,2,Excellent,6,VS2,IGI,NN,EX,VG,round
+27015001,260,False,0.3,60.8,62.0,6,I,2,Excellent,7,SI1,IGI,NN,EX,EX,round
+27015059,260,False,0.33,61.5,61.0,7,J,2,Excellent,6,VS2,IGI,NN,EX,VG,round
+27015130,260,False,0.32,61.1,59.0,6,I,2,Excellent,7,SI1,IGI,NN,EX,EX,round
+27015128,260,False,0.32,61.4,58.0,6,I,2,Excellent,7,SI1,IGI,NN,EX,EX,round
+26768959,260,False,0.3,63.3,61.0,8,K,3,Very Good,3,VVS1,GIA,NN,VG,GD,round
+27689489,260,False,0.3,59.1,62.0,6,I,2,Excellent,7,SI1,IGI,NN,EX,EX,round
+27689499,260,False,0.3,62.4,55.0,6,I,2,Excellent,7,SI1,IGI,NN,EX,EX,round
+27689504,260,False,0.3,61.0,59.0,6,I,2,Excellent,7,SI1,IGI,NN,EX,EX,round
+27692618,260,False,0.34,62.2,58.0,7,J,2,Excellent,7,SI1,IGI,NN,EX,EX,round
+27692506,260,False,0.31,62.5,58.0,6,I,2,Excellent,7,SI1,IGI,NN,EX,EX,round
+27692534,260,False,0.31,63.2,57.0,6,I,2,Excellent,7,SI1,IGI,NN,VG,VG,round
+27692476,260,False,0.32,59.7,61.0,7,J,2,Excellent,7,SI1,IGI,NN,EX,EX,round
+27753883,260,False,0.34,62.1,58.0,8,K,2,Excellent,4,VVS2,IGI,SLT,EX,EX,round
+27908744,260,False,0.3,62.2,59.0,8,K,2,Excellent,7,SI1,GIA,NN,VG,EX,round
+28087539,260,False,0.3,62.2,56.0,8,K,3,Very Good,6,VS2,GIA,NN,VG,EX,round
+28089496,260,False,0.32,61.1,59.0,8,K,2,Excellent,7,SI1,GIA,F,EX,EX,round
+28118279,260,False,0.3,62.3,58.0,8,K,2,Excellent,6,VS2,GIA,NN,EX,VG,round
+28069533,260,False,0.3,63.4,57.0,6,I,2,Excellent,4,VVS2,IGI,SLT,VG,EX,round
+28069536,260,False,0.3,61.0,62.0,6,I,2,Excellent,3,VVS1,IGI,SLT,EX,EX,round
+28069539,260,False,0.3,59.3,58.0,6,I,2,Excellent,4,VVS2,IGI,SLT,EX,EX,round
+28093962,260,False,0.3,63.9,57.0,5,H,3,Very Good,7,SI1,IGI,NN,GD,VG,round
+28439648,260,False,0.3,62.8,58.0,8,K,3,Very Good,8,SI2,GIA,F,VG,GD,round
+28043374,260,False,0.4,62.7,58.0,8,K,3,Very Good,6,VS2,IGI,NN,EX,EX,round
+28039329,260,False,0.38,61.9,58.0,6,I,2,Excellent,7,SI1,IGI,NN,EX,EX,round
+28037621,260,False,0.31,62.7,57.0,6,I,2,Excellent,7,SI1,IGI,NN,EX,EX,round
+28038408,260,False,0.33,60.7,59.0,7,J,2,Excellent,4,VVS2,IGI,NN,EX,EX,round
+28620179,260,False,0.3,60.9,58.0,5,H,2,Excellent,8,SI2,GIA,S,EX,EX,round
+28087662,260,False,0.3,60.5,59.0,4,G,2,Excellent,8,SI2,GIA,F,EX,EX,round
+20899973,270,False,0.34,60.9,56.5,8,K,2,Excellent,6,VS2,IGI,NN,EX,EX,round
+17413252,270,False,0.3,64.2,57.0,7,J,3,Very Good,9,I1,GIA,NN,EX,EX,round
+19582010,270,False,0.3,63.3,57.0,3,F,2,Excellent,8,SI2,GIA,NN,VG,EX,round
+22731348,270,False,0.4,63.2,59.0,7,J,3,Very Good,7,SI1,IGI,NN,VG,GD,round
+22731341,270,False,0.4,60.1,60.0,7,J,2,Excellent,7,SI1,IGI,NN,EX,EX,round
+22854340,270,False,0.3,64.2,56.0,2,E,3,Very Good,8,SI2,GIA,NN,VG,EX,round
+22939506,270,False,0.31,64.3,60.0,2,E,3,Very Good,8,SI2,GIA,NN,VG,EX,round
+12729454,270,False,0.3,62.7,58.0,8,K,3,Very Good,8,SI2,GIA,F,GD,GD,round
+12729408,270,False,0.3,62.0,58.0,6,I,2,Excellent,8,SI2,GIA,F,EX,VG,round
+12729473,270,False,0.32,63.5,57.0,7,J,3,Very Good,8,SI2,GIA,F,GD,VG,round
+12729522,270,False,0.3,61.9,59.0,3,F,3,Very Good,8,SI2,GIA,NN,VG,VG,round
+22441629,270,False,0.38,62.5,58.0,6,I,2,Excellent,8,SI2,GIA,F,EX,EX,round
+4713395,270,False,0.3,64.0,59.0,4,G,3,Very Good,9,I1,GIA,NN,VG,VG,round
+24170318,270,False,0.44,58.4,60.0,8,K,2,Excellent,6,VS2,IGI,NN,EX,EX,round
+24171133,270,False,0.4,61.3,59.0,7,J,3,Very Good,6,VS2,IGI,NN,VG,GD,round
+24171070,270,False,0.31,61.3,56.0,5,H,2,Excellent,7,SI1,IGI,NN,EX,EX,round
+23745521,270,False,0.3,64.5,55.0,1,D,3,Very Good,7,SI1,IGI,NN,GD,GD,round
+24353213,270,False,0.31,62.1,57.0,5,H,2,Excellent,8,SI2,GIA,F,EX,EX,round
+24992360,270,False,0.32,59.8,60.0,8,K,3,Very Good,4,VVS2,GIA,NN,GD,VG,round
+24992278,270,False,0.34,62.4,56.0,7,J,2,Excellent,7,SI1,GIA,NN,VG,EX,round
+24993223,270,False,0.35,63.0,59.0,8,K,3,Very Good,6,VS2,GIA,S,EX,VG,round
+24993882,270,False,0.34,63.1,57.0,7,J,2,Excellent,7,SI1,GIA,M,EX,EX,round
+25721862,270,False,0.31,62.3,55.0,6,I,2,Excellent,6,VS2,IGI,NN,EX,EX,round
+25937157,270,False,0.3,64.0,56.0,5,H,3,Very Good,7,SI1,IGI,NN,VG,EX,round
+25937168,270,False,0.3,62.1,61.0,5,H,3,Very Good,7,SI1,IGI,NN,VG,VG,round
+25937166,270,False,0.3,64.6,58.0,5,H,3,Very Good,7,SI1,IGI,NN,VG,VG,round
+25937149,270,False,0.3,63.6,58.0,5,H,3,Very Good,7,SI1,IGI,NN,GD,EX,round
+25937171,270,False,0.3,63.3,62.0,5,H,3,Very Good,7,SI1,IGI,NN,GD,VG,round
+25937173,270,False,0.3,63.5,59.0,5,H,3,Very Good,7,SI1,IGI,NN,VG,VG,round
+25937172,270,False,0.3,64.2,63.0,5,H,3,Very Good,7,SI1,IGI,NN,VG,VG,round
+25937169,270,False,0.3,59.3,62.0,5,H,3,Very Good,7,SI1,IGI,NN,GD,VG,round
+25937214,270,False,0.3,64.2,61.0,5,H,3,Very Good,7,SI1,IGI,NN,GD,VG,round
+25937175,270,False,0.3,64.2,57.0,5,H,3,Very Good,7,SI1,IGI,NN,VG,VG,round
+25937210,270,False,0.3,64.7,63.0,5,H,3,Very Good,7,SI1,IGI,NN,VG,EX,round
+25937217,270,False,0.3,64.8,59.0,5,H,3,Very Good,7,SI1,IGI,NN,GD,VG,round
+25937176,270,False,0.3,61.9,60.0,5,H,3,Very Good,7,SI1,IGI,NN,VG,VG,round
+25937170,270,False,0.3,64.7,60.0,5,H,3,Very Good,7,SI1,IGI,NN,VG,VG,round
+25937167,270,False,0.3,64.4,62.0,5,H,3,Very Good,7,SI1,IGI,SLT,VG,VG,round
+24993223,270,False,0.35,63.0,59.0,8,K,3,Very Good,6,VS2,GIA,S,EX,VG,round
+24993882,270,False,0.34,63.1,57.0,7,J,2,Excellent,7,SI1,GIA,M,EX,EX,round
+24992360,270,False,0.32,59.8,60.0,8,K,3,Very Good,4,VVS2,GIA,NN,GD,VG,round
+24992278,270,False,0.34,62.4,56.0,7,J,2,Excellent,7,SI1,GIA,NN,VG,EX,round
+22441629,270,False,0.38,62.5,58.0,6,I,2,Excellent,8,SI2,GIA,F,EX,EX,round
+22854340,270,False,0.3,64.2,56.0,2,E,3,Very Good,8,SI2,GIA,NN,VG,EX,round
+23745046,270,False,0.3,60.0,58.0,3,F,2,Excellent,7,SI1,IGI,NN,VG,VG,round
+23745521,270,False,0.3,64.5,55.0,1,D,3,Very Good,7,SI1,IGI,NN,GD,GD,round
+23803034,270,False,0.3,59.1,61.0,6,I,3,Very Good,4,VVS2,IGI,SLT,GD,VG,round
+26097993,270,False,0.3,62.1,55.0,7,J,2,Excellent,9,I1,GIA,F,EX,EX,round
+27458745,270,False,0.31,61.6,56.0,5,H,2,Excellent,7,SI1,IGI,NN,EX,EX,round
+27457682,270,False,0.31,63.0,57.0,6,I,2,Excellent,6,VS2,IGI,SLT,EX,EX,round
+27457694,270,False,0.32,60.7,56.0,6,I,2,Excellent,6,VS2,IGI,NN,EX,VG,round
+27463369,270,False,0.35,60.8,59.0,6,I,2,Excellent,7,SI1,IGI,NN,EX,EX,round
+27459528,270,False,0.3,62.0,54.0,5,H,2,Excellent,7,SI1,IGI,NN,EX,EX,round
+27459534,270,False,0.3,62.3,57.0,5,H,2,Excellent,7,SI1,IGI,NN,EX,EX,round
+27545201,270,False,0.3,60.2,59.0,7,J,2,Excellent,3,VVS1,IGI,NN,EX,EX,round
+27156982,270,False,0.3,62.9,61.0,7,J,3,Very Good,7,SI1,GIA,NN,VG,VG,round
+26622462,270,False,0.33,60.5,58.0,6,I,2,Excellent,7,SI1,IGI,NN,EX,EX,round
+26622348,270,False,0.3,60.0,61.0,5,H,2,Excellent,7,SI1,IGI,NN,EX,EX,round
+26621651,270,False,0.32,62.0,59.0,6,I,2,Excellent,7,SI1,IGI,NN,EX,EX,round
+26621759,270,False,0.4,61.4,58.0,7,J,2,Excellent,7,SI1,IGI,NN,EX,EX,round
+26623443,270,False,0.34,63.0,57.0,6,I,2,Excellent,7,SI1,IGI,NN,EX,EX,round
+26622460,270,False,0.34,61.9,58.0,6,I,2,Excellent,7,SI1,IGI,NN,EX,EX,round
+26623485,270,False,0.36,61.7,60.0,7,J,2,Excellent,5,VS1,IGI,NN,EX,EX,round
+27015408,270,False,0.4,63.7,59.0,7,J,3,Very Good,7,SI1,IGI,NN,EX,EX,round
+27015300,270,False,0.4,63.0,58.0,8,K,2,Excellent,6,VS2,IGI,NN,EX,EX,round
+27016538,270,False,0.36,60.3,54.0,6,I,2,Excellent,7,SI1,IGI,NN,EX,EX,round
+27658951,270,False,0.3,61.3,58.0,7,J,2,Excellent,3,VVS1,IGI,NN,EX,EX,round
+27658957,270,False,0.3,61.1,57.0,6,I,2,Excellent,7,SI1,IGI,NN,EX,EX,round
+27659003,270,False,0.3,63.0,55.0,7,J,2,Excellent,3,VVS1,IGI,NN,EX,EX,round
+27658996,270,False,0.3,63.1,58.0,7,J,2,Excellent,3,VVS1,IGI,NN,EX,EX,round
+27658975,270,False,0.31,63.5,57.0,6,I,2,Excellent,7,SI1,IGI,NN,EX,EX,round
+27659010,270,False,0.3,61.1,61.0,7,J,2,Excellent,3,VVS1,IGI,NN,EX,EX,round
+27545201,270,False,0.3,60.2,59.0,7,J,2,Excellent,3,VVS1,IGI,NN,EX,EX,round
+27156982,270,False,0.3,62.9,61.0,7,J,3,Very Good,7,SI1,GIA,NN,VG,VG,round
+27016538,270,False,0.36,60.3,54.0,6,I,2,Excellent,7,SI1,IGI,NN,EX,EX,round
+27015408,270,False,0.4,63.7,59.0,7,J,3,Very Good,7,SI1,IGI,NN,EX,EX,round
+27015300,270,False,0.4,63.0,58.0,8,K,2,Excellent,6,VS2,IGI,NN,EX,EX,round
+27689539,270,False,0.3,59.8,63.0,4,G,3,Very Good,7,SI1,IGI,NN,GD,VG,round
+27689585,270,False,0.3,63.3,53.0,5,H,2,Excellent,7,SI1,IGI,NN,EX,EX,round
+27689151,270,False,0.31,59.7,58.0,3,F,2,Excellent,7,SI1,IGI,S,EX,VG,round
+27689258,270,False,0.3,63.6,56.0,6,I,3,Very Good,5,VS1,IGI,NN,EX,EX,round
+27722428,270,False,0.4,60.7,57.0,8,K,2,Excellent,6,VS2,IGI,SLT,EX,EX,round
+27722402,270,False,0.36,62.8,56.0,7,J,2,Excellent,7,SI1,IGI,NN,EX,EX,round
+27722403,270,False,0.32,59.0,60.0,4,G,3,Very Good,7,SI1,IGI,NN,VG,GD,round
+27722404,270,False,0.34,62.9,57.0,7,J,2,Excellent,6,VS2,IGI,NN,VG,VG,round
+27707837,270,False,0.3,63.7,56.0,5,H,3,Very Good,7,SI1,IGI,SLT,VG,EX,round
+27707818,270,False,0.3,62.3,56.0,6,I,2,Excellent,6,VS2,IGI,NN,EX,EX,round
+27766220,270,False,0.3,62.5,57.0,2,E,3,Very Good,9,I1,GIA,M,EX,GD,round
+28290403,270,False,0.4,64.3,56.0,7,J,3,Very Good,8,SI2,GIA,M,EX,EX,round
+28069537,270,False,0.32,61.5,60.0,6,I,3,Very Good,4,VVS2,IGI,SLT,EX,EX,round
+28069538,270,False,0.3,59.7,60.0,6,I,2,Excellent,3,VVS1,IGI,NN,EX,EX,round
+28439335,270,False,0.3,63.1,60.0,8,K,3,Very Good,4,VVS2,GIA,S,VG,EX,round
+28439654,270,False,0.31,60.6,60.0,8,K,2,Excellent,6,VS2,GIA,NN,EX,EX,round
+28423343,270,False,0.3,62.1,58.0,8,K,2,Excellent,6,VS2,GIA,F,EX,EX,round
+28043380,270,False,0.4,61.3,57.0,8,K,2,Excellent,7,SI1,IGI,NN,EX,EX,round
+28042596,270,False,0.4,62.4,58.0,7,J,2,Excellent,7,SI1,IGI,NN,EX,VG,round
+28043489,270,False,0.33,61.3,59.0,5,H,2,Excellent,7,SI1,IGI,NN,EX,EX,round
+28039511,270,False,0.43,60.5,59.0,8,K,2,Excellent,6,VS2,IGI,NN,EX,EX,round
+28039519,270,False,0.4,62.1,56.0,8,K,2,Excellent,5,VS1,IGI,SLT,EX,EX,round
+28034402,270,False,0.4,59.8,57.0,7,J,2,Excellent,7,SI1,IGI,NN,EX,EX,round
+28034374,270,False,0.4,61.6,62.0,7,J,2,Excellent,7,SI1,IGI,NN,EX,EX,round
+28586518,270,False,0.3,63.9,56.0,7,J,3,Very Good,7,SI1,GIA,F,EX,EX,round
+28512472,270,False,0.3,61.4,59.0,8,K,2,Excellent,5,VS1,GIA,F,EX,VG,round
+28513254,270,False,0.3,60.6,58.0,8,K,2,Excellent,5,VS1,GIA,NN,VG,EX,round
+28547324,270,False,0.41,61.4,58.0,8,K,2,Excellent,7,SI1,IGI,NN,EX,EX,round
+28938650,270,False,0.34,62.0,59.0,6,I,2,Excellent,5,VS1,IGI,NN,EX,EX,round
+27199716,270,False,0.3,62.9,60.0,3,F,3,Very Good,8,SI2,GIA,NN,VG,EX,round
+27470363,270,False,0.32,59.0,62.0,3,F,3,Very Good,8,SI2,GIA,NN,EX,VG,round
+27005466,270,False,0.3,62.6,62.0,2,E,3,Very Good,8,SI2,GIA,NN,VG,EX,round
+21091985,280,False,0.3,64.7,56.0,2,E,3,Very Good,8,SI2,GIA,NN,VG,VG,round
+11843460,280,False,0.35,64.5,55.0,7,J,3,Very Good,7,SI1,GIA,NN,VG,GD,round
+15190860,280,False,0.34,62.8,56.0,4,G,2,Excellent,9,I1,GIA,NN,EX,EX,round
+23264346,280,False,0.3,60.2,59.0,5,H,2,Excellent,9,I1,GIA,NN,EX,EX,round
+23302002,280,False,0.3,62.1,58.0,4,G,3,Very Good,8,SI2,GIA,F,VG,GD,round
+12138104,280,False,0.3,63.8,57.0,6,I,3,Very Good,8,SI2,GIA,F,GD,GD,round
+13725839,280,False,0.3,64.3,55.0,2,E,3,Very Good,8,SI2,GIA,NN,VG,GD,round
+14371627,280,False,0.35,62.2,57.0,6,I,2,Excellent,8,SI2,GIA,F,EX,EX,round
+22480964,280,False,0.31,62.6,57.0,3,F,2,Excellent,8,SI2,GIA,NN,EX,EX,round
+7110070,280,False,0.3,63.9,55.0,8,K,3,Very Good,4,VVS2,GIA,F,VG,EX,round
+24170310,280,False,0.42,61.3,57.0,8,K,2,Excellent,6,VS2,IGI,NN,EX,EX,round
+23745518,280,False,0.3,63.7,55.0,1,D,3,Very Good,7,SI1,IGI,NN,GD,VG,round
+24993485,280,False,0.3,64.5,55.0,7,J,3,Very Good,4,VVS2,GIA,NN,GD,VG,round
+24993716,280,False,0.3,63.5,56.0,7,J,3,Very Good,5,VS1,GIA,NN,VG,GD,round
+24993875,280,False,0.34,62.3,57.0,7,J,2,Excellent,7,SI1,GIA,F,EX,EX,round
+24994313,280,False,0.34,59.4,60.0,8,K,2,Excellent,8,SI2,GIA,NN,EX,EX,round
+24994517,280,False,0.32,59.9,59.0,7,J,2,Excellent,6,VS2,GIA,F,EX,EX,round
+23942945,280,False,0.3,63.0,54.0,4,G,3,Very Good,7,SI1,IGI,NN,GD,EX,round
+24102248,280,False,0.41,62.1,58.0,8,K,2,Excellent,6,VS2,IGI,NN,EX,EX,round
+24412830,280,False,0.33,62.1,61.0,7,J,3,Very Good,3,VVS1,IGI,SLT,VG,VG,round
+24413408,280,False,0.32,59.6,59.0,7,J,2,Excellent,3,VVS1,IGI,SLT,EX,EX,round
+24453305,280,False,0.4,62.7,56.0,7,J,2,Excellent,7,SI1,IGI,NN,EX,EX,round
+24639507,280,False,0.41,62.4,57.0,6,I,2,Excellent,7,SI1,IGI,SLT,EX,VG,round
+26004271,280,False,0.3,59.1,65.0,8,K,3,Very Good,3,VVS1,IGI,NN,VG,EX,round
+26041242,280,False,0.31,60.3,58.0,7,J,2,Excellent,3,VVS1,IGI,NN,EX,EX,round
+26011940,280,False,0.32,62.3,57.0,7,J,2,Excellent,3,VVS1,IGI,NN,EX,EX,round
+25641192,280,False,0.3,61.8,60.0,8,K,3,Very Good,7,SI1,GIA,NN,VG,EX,round
+25613986,280,False,0.31,61.3,60.0,7,J,2,Excellent,3,VVS1,IGI,NN,EX,EX,round
+25639792,280,False,0.31,62.4,56.0,5,H,2,Excellent,7,SI1,IGI,NN,EX,EX,round
+25639741,280,False,0.4,62.2,54.0,7,J,2,Excellent,7,SI1,IGI,SLT,EX,EX,round
+25937197,280,False,0.31,63.6,57.0,5,H,3,Very Good,7,SI1,IGI,NN,VG,EX,round
+25977898,280,False,0.3,60.2,60.0,5,H,2,Excellent,7,SI1,IGI,NN,EX,EX,round
+25978070,280,False,0.4,61.0,60.0,8,K,3,Very Good,6,VS2,IGI,NN,VG,VG,round
+25978410,280,False,0.31,61.5,60.0,5,H,2,Excellent,7,SI1,IGI,NN,EX,EX,round
+25820504,280,False,0.31,62.9,58.0,7,J,2,Excellent,3,VVS1,IGI,NN,EX,EX,round
+25820489,280,False,0.31,61.4,60.0,7,J,2,Excellent,3,VVS1,IGI,NN,EX,EX,round
+26136471,280,False,0.3,62.2,57.0,5,H,2,Excellent,7,SI1,IGI,NN,EX,EX,round
+26137306,280,False,0.31,61.8,58.0,5,H,2,Excellent,7,SI1,IGI,NN,EX,EX,round
+26137114,280,False,0.34,61.1,62.0,6,I,2,Excellent,7,SI1,IGI,NN,EX,EX,round
+26317376,280,False,0.3,61.8,58.0,4,G,2,Excellent,9,I1,GIA,NN,EX,EX,round
+26621760,280,False,0.4,59.4,60.0,7,J,2,Excellent,7,SI1,IGI,NN,EX,EX,round
+26622375,280,False,0.3,60.6,58.0,5,H,2,Excellent,7,SI1,IGI,NN,EX,EX,round
+26622141,280,False,0.3,63.1,54.0,3,F,2,Excellent,7,SI1,IGI,NN,VG,VG,round
+26621788,280,False,0.4,62.3,58.0,7,J,2,Excellent,7,SI1,IGI,SLT,EX,EX,round
+26622781,280,False,0.31,59.0,62.0,3,F,2,Excellent,7,SI1,IGI,NN,EX,EX,round
+26623448,280,False,0.35,63.4,54.0,6,I,2,Excellent,7,SI1,IGI,NN,EX,EX,round
+26623804,280,False,0.31,62.9,55.0,5,H,2,Excellent,7,SI1,IGI,NN,EX,EX,round
+26623784,280,False,0.31,62.5,56.0,5,H,2,Excellent,7,SI1,IGI,NN,EX,EX,round
+26622349,280,False,0.3,62.9,56.0,5,H,2,Excellent,7,SI1,IGI,NN,EX,EX,round
+27401404,280,False,0.3,61.7,62.0,7,J,3,Very Good,6,VS2,GIA,NN,VG,EX,round
+27608581,280,False,0.31,61.9,58.0,7,J,2,Excellent,3,VVS1,IGI,NN,EX,EX,round
+27658919,280,False,0.32,61.9,57.0,6,I,2,Excellent,7,SI1,IGI,NN,EX,EX,round
+27658963,280,False,0.31,63.2,58.0,7,J,2,Excellent,3,VVS1,IGI,NN,EX,EX,round
+27659052,280,False,0.38,63.0,58.0,8,K,2,Excellent,5,VS1,IGI,NN,EX,EX,round
+27659023,280,False,0.32,62.1,58.0,7,J,2,Excellent,3,VVS1,IGI,NN,EX,EX,round
+27458767,280,False,0.31,62.9,57.0,5,H,2,Excellent,7,SI1,IGI,NN,EX,EX,round
+27458795,280,False,0.32,62.9,56.0,5,H,2,Excellent,7,SI1,IGI,NN,EX,EX,round
+27472338,280,False,0.31,60.5,61.0,3,F,2,Excellent,7,SI1,IGI,NN,EX,VG,round
+27459108,280,False,0.3,62.6,57.0,5,H,2,Excellent,7,SI1,IGI,NN,EX,EX,round
+27459445,280,False,0.3,61.4,59.0,5,H,2,Excellent,7,SI1,IGI,NN,EX,EX,round
+27459514,280,False,0.3,62.9,59.0,5,H,2,Excellent,7,SI1,IGI,NN,EX,EX,round
+27459454,280,False,0.3,61.4,58.0,5,H,2,Excellent,7,SI1,IGI,NN,EX,EX,round
+27459525,280,False,0.3,61.8,59.0,5,H,2,Excellent,7,SI1,IGI,NN,EX,EX,round
+26622349,280,False,0.3,62.9,56.0,5,H,2,Excellent,7,SI1,IGI,NN,EX,EX,round
+27015038,280,False,0.3,62.6,58.0,5,H,2,Excellent,7,SI1,IGI,NN,EX,EX,round
+27015048,280,False,0.3,62.2,58.0,5,H,2,Excellent,7,SI1,IGI,NN,EX,EX,round
+27015062,280,False,0.3,62.1,58.0,5,H,2,Excellent,7,SI1,IGI,NN,EX,EX,round
+27015036,280,False,0.3,62.2,58.0,5,H,2,Excellent,7,SI1,IGI,NN,EX,EX,round
+27015050,280,False,0.3,62.3,56.0,5,H,2,Excellent,7,SI1,IGI,NN,EX,EX,round
+27015049,280,False,0.3,62.5,56.0,5,H,2,Excellent,7,SI1,IGI,NN,EX,EX,round
+27015095,280,False,0.31,61.8,57.0,5,H,2,Excellent,7,SI1,IGI,NN,EX,EX,round
+27015515,280,False,0.41,63.1,56.0,7,J,2,Excellent,7,SI1,IGI,NN,EX,EX,round
+27015524,280,False,0.4,61.9,57.0,7,J,2,Excellent,7,SI1,IGI,NN,EX,EX,round
+27015818,280,False,0.34,62.3,57.0,6,I,2,Excellent,7,SI1,IGI,NN,EX,EX,round
+27015991,280,False,0.32,61.1,59.0,5,H,2,Excellent,7,SI1,IGI,NN,EX,EX,round
+27608581,280,False,0.31,61.9,58.0,7,J,2,Excellent,3,VVS1,IGI,NN,EX,EX,round
+27658919,280,False,0.32,61.9,57.0,6,I,2,Excellent,7,SI1,IGI,NN,EX,EX,round
+27658963,280,False,0.31,63.2,58.0,7,J,2,Excellent,3,VVS1,IGI,NN,EX,EX,round
+27659052,280,False,0.38,63.0,58.0,8,K,2,Excellent,5,VS1,IGI,NN,EX,EX,round
+27659023,280,False,0.32,62.1,58.0,7,J,2,Excellent,3,VVS1,IGI,NN,EX,EX,round
+27689581,280,False,0.4,60.7,56.0,7,J,3,Very Good,7,SI1,IGI,NN,EX,VG,round
+27689724,280,False,0.3,59.3,58.0,2,E,2,Excellent,7,SI1,IGI,SLT,VG,VG,round
+27689152,280,False,0.3,60.9,59.0,3,F,2,Excellent,7,SI1,IGI,NN,EX,VG,round
+27690090,280,False,0.3,62.1,56.0,3,F,2,Excellent,7,SI1,IGI,S,EX,EX,round
+27692489,280,False,0.35,62.7,55.0,6,I,2,Excellent,7,SI1,IGI,NN,EX,EX,round
+27692485,280,False,0.37,60.6,61.0,7,J,2,Excellent,7,SI1,IGI,SLT,EX,EX,round
+27722479,280,False,0.3,61.9,57.0,5,H,2,Excellent,7,SI1,IGI,NN,EX,EX,round
+28034430,280,False,0.31,61.3,60.0,2,E,2,Excellent,7,SI1,IGI,S,EX,EX,round
+28034422,280,False,0.42,61.8,59.0,7,J,2,Excellent,7,SI1,IGI,SLT,EX,EX,round
+28036676,280,False,0.31,62.2,62.0,5,H,2,Excellent,7,SI1,IGI,NN,EX,EX,round
+28036675,280,False,0.31,62.7,57.0,5,H,2,Excellent,7,SI1,IGI,NN,EX,EX,round
+28034375,280,False,0.4,62.1,56.0,7,J,2,Excellent,7,SI1,IGI,NN,EX,EX,round
+28030739,280,False,0.3,64.4,59.0,8,K,3,Very Good,6,VS2,GIA,F,VG,EX,round
+28304641,280,False,0.3,62.6,56.0,8,K,2,Excellent,4,VVS2,GIA,NN,VG,EX,round
+28512274,280,False,0.3,61.8,59.0,8,K,2,Excellent,5,VS1,GIA,NN,EX,VG,round
+28513164,280,False,0.3,62.5,61.0,8,K,3,Very Good,4,VVS2,GIA,NN,VG,VG,round
+28512919,280,False,0.3,62.1,57.0,7,J,2,Excellent,7,SI1,GIA,NN,EX,EX,round
+28513018,280,False,0.3,61.7,60.0,8,K,2,Excellent,5,VS1,GIA,F,VG,EX,round
+27958902,280,False,0.3,63.5,60.0,8,K,3,Very Good,5,VS1,GIA,NN,EX,EX,round
+28043375,280,False,0.41,61.3,60.0,8,K,2,Excellent,7,SI1,IGI,NN,EX,EX,round
+28043379,280,False,0.4,62.5,56.0,8,K,2,Excellent,7,SI1,IGI,NN,EX,EX,round
+28039536,280,False,0.4,62.8,57.0,8,K,2,Excellent,6,VS2,IGI,NN,EX,EX,round
+28040464,280,False,0.3,62.2,59.0,5,H,2,Excellent,7,SI1,IGI,NN,EX,EX,round
+28040466,280,False,0.3,62.4,57.0,5,H,2,Excellent,7,SI1,IGI,NN,EX,EX,round
+28040487,280,False,0.3,61.1,59.0,5,H,2,Excellent,7,SI1,IGI,NN,EX,EX,round
+28586493,280,False,0.3,62.2,58.0,7,J,2,Excellent,7,SI1,GIA,F,EX,EX,round
+28586514,280,False,0.3,64.2,56.0,8,K,3,Very Good,7,SI1,GIA,NN,EX,EX,round
+28877659,280,False,0.3,60.4,59.0,7,J,2,Excellent,7,SI1,GIA,S,EX,EX,round
+25762752,280,False,0.34,60.2,59.0,7,J,2,Excellent,8,SI2,GIA,NN,EX,EX,round
+23354139,280,False,0.35,62.3,57.0,8,K,2,Excellent,8,SI2,GIA,F,EX,VG,round
+28971816,280,False,0.3,61.9,58.0,2,E,3,Very Good,9,I1,GIA,NN,GD,EX,round
+28971861,280,False,0.3,62.7,56.0,2,E,3,Very Good,9,I1,GIA,NN,VG,VG,round
+10718328,290,False,0.34,62.3,57.5,8,K,2,Excellent,5,VS1,IGI,NN,EX,EX,round
+12138103,290,False,0.31,60.9,59.0,6,I,3,Very Good,8,SI2,GIA,F,VG,GD,round
+12138153,290,False,0.3,63.7,55.0,7,J,3,Very Good,8,SI2,GIA,F,GD,VG,round
+12103431,290,False,0.3,62.2,57.0,6,I,2,Excellent,8,SI2,GIA,F,EX,EX,round
+11277529,290,False,0.3,59.9,61.0,6,I,2,Excellent,8,SI2,GIA,F,VG,VG,round
+11277547,290,False,0.3,60.5,60.0,6,I,2,Excellent,8,SI2,GIA,F,VG,VG,round
+11277517,290,False,0.3,64.3,54.0,7,J,3,Very Good,8,SI2,GIA,F,VG,VG,round
+10521624,290,False,0.3,61.0,58.0,6,I,2,Excellent,8,SI2,GIA,F,EX,VG,round
+12729438,290,False,0.32,62.6,56.0,5,H,3,Very Good,8,SI2,GIA,F,VG,GD,round
+12729477,290,False,0.32,60.6,60.0,6,I,2,Excellent,8,SI2,GIA,F,EX,VG,round
+12729491,290,False,0.3,63.9,59.0,4,G,3,Very Good,8,SI2,GIA,NN,VG,VG,round
+12213374,290,False,0.3,60.7,61.0,7,J,3,Very Good,8,SI2,GIA,F,EX,EX,round
+14371705,290,False,0.31,62.5,57.0,3,F,2,Excellent,8,SI2,GIA,NN,EX,EX,round
+21074675,290,False,0.32,62.8,56.0,7,J,2,Excellent,2,IF,IGI,S,EX,EX,round
+21074676,290,False,0.31,62.3,59.0,7,J,2,Excellent,2,IF,IGI,SLT,EX,EX,round
+21725174,290,False,0.3,61.0,61.0,8,K,2,Excellent,7,SI1,GIA,NN,EX,EX,round
+21743440,290,False,0.3,63.1,56.0,4,G,3,Very Good,8,SI2,GIA,NN,GD,VG,round
+20269718,290,False,0.33,61.7,57.0,2,E,2,Excellent,9,I1,GIA,NN,EX,VG,round
+22648399,290,False,0.32,61.9,59.0,5,H,2,Excellent,8,SI2,GIA,NN,EX,EX,round
+22239185,290,False,0.32,62.5,58.0,3,F,2,Excellent,8,SI2,GIA,NN,EX,EX,round
+24096050,290,False,0.3,61.7,58.5,8,K,2,Excellent,6,VS2,IGI,NN,VG,VG,round
+24327323,290,False,0.3,61.7,59.0,2,E,3,Very Good,7,SI1,IGI,NN,VG,VG,round
+25145161,290,False,0.3,62.0,57.0,7,J,2,Excellent,8,SI2,GIA,F,EX,EX,round
+25964950,290,False,0.32,62.2,58.0,8,K,2,Excellent,4,VVS2,GIA,F,EX,EX,round
+26003419,290,False,0.31,62.8,60.0,8,K,2,Excellent,3,VVS1,IGI,NN,VG,EX,round
+25977890,290,False,0.4,60.7,56.0,7,J,2,Excellent,7,SI1,IGI,NN,EX,EX,round
+25978393,290,False,0.3,60.3,57.0,5,H,2,Excellent,7,SI1,IGI,NN,EX,EX,round
+25978800,290,False,0.37,62.0,60.0,6,I,2,Excellent,7,SI1,IGI,NN,EX,EX,round
+25978775,290,False,0.33,61.3,59.0,6,I,2,Excellent,6,VS2,IGI,NN,EX,VG,round
+23988751,290,False,0.33,60.6,57.0,7,J,2,Excellent,5,VS1,GIA,S,EX,EX,round
+25518055,290,False,0.41,61.5,59.0,7,J,2,Excellent,7,SI1,IGI,NN,EX,EX,round
+25721877,290,False,0.3,62.8,58.0,7,J,2,Excellent,2,IF,IGI,NN,EX,EX,round
+25937120,290,False,0.3,63.5,63.0,5,H,3,Very Good,6,VS2,IGI,NN,GD,VG,round
+25937114,290,False,0.3,63.9,59.0,5,H,3,Very Good,6,VS2,IGI,NN,VG,EX,round
+25937115,290,False,0.3,63.1,58.0,5,H,3,Very Good,6,VS2,IGI,NN,VG,VG,round
+24993439,290,False,0.34,63.3,57.0,8,K,3,Very Good,3,VVS1,GIA,F,VG,GD,round
+24993927,290,False,0.3,64.6,57.0,7,J,3,Very Good,3,VVS1,GIA,NN,GD,EX,round
+24994581,290,False,0.4,61.9,60.0,7,J,3,Very Good,7,SI1,GIA,F,GD,VG,round
+24992870,290,False,0.4,61.0,61.0,7,J,3,Very Good,7,SI1,GIA,NN,VG,EX,round
+22481032,290,False,0.32,62.1,60.0,5,H,2,Excellent,8,SI2,GIA,NN,EX,EX,round
+22522708,290,False,0.32,61.4,61.0,3,F,2,Excellent,8,SI2,GIA,NN,EX,EX,round
+23745871,290,False,0.45,62.4,55.0,8,K,2,Excellent,6,VS2,IGI,NN,EX,EX,round
+23803030,290,False,0.33,62.4,57.0,6,I,2,Excellent,4,VVS2,IGI,SLT,EX,EX,round
+27257350,290,False,0.3,61.4,62.0,8,K,3,Very Good,5,VS1,GIA,NN,VG,VG,round
+27458505,290,False,0.3,61.5,56.0,1,D,2,Excellent,7,SI1,IGI,S,EX,EX,round
+27458594,290,False,0.3,62.5,57.0,5,H,2,Excellent,7,SI1,IGI,NN,EX,EX,round
+27458802,290,False,0.32,62.4,57.0,6,I,2,Excellent,5,VS1,IGI,SLT,EX,EX,round
+27459011,290,False,0.4,62.4,58.0,7,J,2,Excellent,7,SI1,IGI,NN,EX,EX,round
+27457844,290,False,0.41,62.7,55.0,7,J,2,Excellent,7,SI1,IGI,NN,EX,EX,round
+27463298,290,False,0.4,62.7,54.0,8,K,2,Excellent,4,VVS2,IGI,NN,EX,EX,round
+27459154,290,False,0.33,61.6,57.0,6,I,2,Excellent,4,VVS2,IGI,SLT,EX,EX,round
+27692565,290,False,0.3,60.5,57.0,5,H,2,Excellent,7,SI1,IGI,NN,EX,EX,round
+26623350,290,False,0.42,63.5,56.0,7,J,2,Excellent,7,SI1,IGI,NN,EX,EX,round
+26623728,290,False,0.3,61.9,59.0,4,G,2,Excellent,7,SI1,IGI,NN,EX,EX,round
+26621750,290,False,0.4,60.8,56.0,7,J,2,Excellent,7,SI1,IGI,NN,EX,EX,round
+26621769,290,False,0.4,62.3,58.0,7,J,2,Excellent,7,SI1,IGI,NN,EX,EX,round
+26622393,290,False,0.31,62.1,60.0,4,G,2,Excellent,7,SI1,IGI,NN,EX,EX,round
+26621747,290,False,0.4,61.0,57.0,7,J,2,Excellent,7,SI1,IGI,NN,EX,EX,round
+27257350,290,False,0.3,61.4,62.0,8,K,3,Very Good,5,VS1,GIA,NN,VG,VG,round
+27458505,290,False,0.3,61.5,56.0,1,D,2,Excellent,7,SI1,IGI,S,EX,EX,round
+27458594,290,False,0.3,62.5,57.0,5,H,2,Excellent,7,SI1,IGI,NN,EX,EX,round
+27458802,290,False,0.32,62.4,57.0,6,I,2,Excellent,5,VS1,IGI,SLT,EX,EX,round
+27459011,290,False,0.4,62.4,58.0,7,J,2,Excellent,7,SI1,IGI,NN,EX,EX,round
+27457844,290,False,0.41,62.7,55.0,7,J,2,Excellent,7,SI1,IGI,NN,EX,EX,round
+27463298,290,False,0.4,62.7,54.0,8,K,2,Excellent,4,VVS2,IGI,NN,EX,EX,round
+27459154,290,False,0.33,61.6,57.0,6,I,2,Excellent,4,VVS2,IGI,SLT,EX,EX,round
+27459726,290,False,0.43,60.8,62.0,8,K,2,Excellent,6,VS2,IGI,NN,EX,EX,round
+27459706,290,False,0.43,62.8,56.0,8,K,2,Excellent,6,VS2,IGI,NN,EX,EX,round
+27661429,290,False,0.3,60.0,58.0,5,H,2,Excellent,7,SI1,IGI,NN,EX,EX,round
+27667239,290,False,0.35,61.2,57.0,7,J,2,Excellent,5,VS1,IGI,NN,EX,EX,round
+27667229,290,False,0.3,62.6,56.0,5,H,2,Excellent,7,SI1,IGI,NN,EX,EX,round
+27659060,290,False,0.33,61.1,59.0,7,J,2,Excellent,3,VVS1,IGI,NN,EX,EX,round
+27659058,290,False,0.33,62.8,56.0,7,J,2,Excellent,3,VVS1,IGI,NN,EX,EX,round
+27660096,290,False,0.3,60.1,60.0,5,H,2,Excellent,7,SI1,IGI,NN,EX,EX,round
+26003419,290,False,0.31,62.8,60.0,8,K,2,Excellent,3,VVS1,IGI,NN,VG,EX,round
+26136492,290,False,0.3,63.0,57.0,5,H,2,Excellent,7,SI1,IGI,NN,EX,EX,round
+26137330,290,False,0.31,63.1,56.0,3,F,2,Excellent,7,SI1,IGI,NN,EX,VG,round
+26136500,290,False,0.41,63.1,54.0,8,K,2,Excellent,6,VS2,IGI,NN,EX,EX,round
+26836002,290,False,0.31,63.0,58.0,7,J,3,Very Good,8,SI2,GIA,S,VG,GD,round
+27015411,290,False,0.43,60.1,57.0,8,K,2,Excellent,6,VS2,IGI,NN,EX,EX,round
+27015673,290,False,0.4,61.1,61.0,8,K,2,Excellent,6,VS2,IGI,NN,EX,EX,round
+27015772,290,False,0.4,58.0,62.0,8,K,2,Excellent,4,VVS2,IGI,NN,EX,EX,round
+27753973,290,False,0.3,60.8,56.0,5,H,2,Excellent,7,SI1,IGI,NN,EX,EX,round
+27753855,290,False,0.3,62.5,59.0,5,H,2,Excellent,7,SI1,IGI,NN,EX,EX,round
+27707776,290,False,0.3,59.6,61.0,4,G,2,Excellent,7,SI1,IGI,SLT,EX,EX,round
+27722475,290,False,0.32,60.5,58.0,5,H,2,Excellent,7,SI1,IGI,NN,EX,EX,round
+28151926,290,False,0.31,61.4,60.0,7,J,2,Excellent,8,SI2,GIA,NN,EX,EX,round
+27958897,290,False,0.3,60.9,62.0,8,K,3,Very Good,4,VVS2,GIA,NN,VG,VG,round
+28236443,290,False,0.3,63.4,60.0,8,K,3,Very Good,4,VVS2,GIA,NN,VG,VG,round
+28254421,290,False,0.3,62.0,58.0,7,J,2,Excellent,4,VVS2,GIA,F,EX,EX,round
+28370936,290,False,0.31,60.8,59.0,8,K,2,Excellent,6,VS2,GIA,M,EX,EX,round
+28371037,290,False,0.4,62.9,56.0,8,K,3,Very Good,5,VS1,GIA,M,GD,EX,round
+28439395,290,False,0.3,61.7,60.0,8,K,2,Excellent,5,VS1,GIA,F,EX,EX,round
+28439476,290,False,0.3,62.5,59.0,8,K,2,Excellent,4,VVS2,GIA,F,EX,EX,round
+28439565,290,False,0.3,63.4,61.0,8,K,3,Very Good,3,VVS1,GIA,NN,VG,VG,round
+28451812,290,False,0.32,62.6,57.0,8,K,2,Excellent,6,VS2,GIA,F,EX,EX,round
+28094059,290,False,0.3,64.4,61.0,6,I,3,Very Good,4,VVS2,IGI,NN,VG,VG,round
+28229677,290,False,0.31,61.7,58.0,8,K,2,Excellent,6,VS2,GIA,M,EX,EX,round
+28512681,290,False,0.3,62.2,58.0,6,I,2,Excellent,8,SI2,GIA,NN,VG,EX,round
+28512349,290,False,0.3,60.4,59.0,8,K,2,Excellent,6,VS2,GIA,F,EX,EX,round
+28513409,290,False,0.31,60.7,59.0,8,K,2,Excellent,5,VS1,GIA,F,EX,EX,round
+28547217,290,False,0.34,60.2,58.0,7,J,2,Excellent,5,VS1,IGI,NN,EX,EX,round
+27852624,290,False,0.3,61.0,58.0,4,G,3,Very Good,7,SI1,GIA,NN,VG,GD,round
+28039518,290,False,0.42,61.9,56.0,8,K,2,Excellent,6,VS2,IGI,NN,EX,EX,round
+28040461,290,False,0.3,61.6,59.0,5,H,2,Excellent,7,SI1,IGI,NN,EX,EX,round
+28039341,290,False,0.37,61.5,54.0,6,I,2,Excellent,7,SI1,IGI,NN,EX,EX,round
+28038627,290,False,0.4,58.0,59.0,8,K,3,Very Good,3,VVS1,IGI,NN,EX,EX,round
+28030799,290,False,0.32,62.8,58.0,8,K,2,Excellent,7,SI1,GIA,F,EX,EX,round
+28034382,290,False,0.41,62.3,56.0,7,J,2,Excellent,7,SI1,IGI,NN,EX,EX,round
+28034198,290,False,0.31,60.9,59.0,6,I,2,Excellent,4,VVS2,IGI,SLT,EX,EX,round
+28034196,290,False,0.35,61.7,59.0,6,I,2,Excellent,4,VVS2,IGI,S,EX,EX,round
+28034428,290,False,0.36,62.7,57.0,2,E,2,Excellent,7,SI1,IGI,S,VG,VG,round
+28036678,290,False,0.31,62.3,59.0,5,H,2,Excellent,7,SI1,IGI,NN,EX,EX,round
+28036680,290,False,0.31,63.1,56.0,5,H,2,Excellent,7,SI1,IGI,NN,EX,EX,round
+28038310,290,False,0.32,61.4,58.0,5,H,2,Excellent,7,SI1,IGI,NN,VG,VG,round
+28038624,290,False,0.4,62.0,57.0,8,K,2,Excellent,3,VVS1,IGI,NN,EX,EX,round
+28043104,290,False,0.3,62.1,58.0,5,H,2,Excellent,7,SI1,IGI,NN,EX,EX,round
+28043371,290,False,0.44,62.7,56.0,8,K,2,Excellent,6,VS2,IGI,SLT,EX,EX,round
+28041940,290,False,0.3,62.1,57.0,2,E,2,Excellent,8,SI2,GIA,S,EX,EX,round
+28619786,290,False,0.3,63.0,60.0,8,K,3,Very Good,4,VVS2,GIA,NN,VG,VG,round
+28619958,290,False,0.3,60.8,60.0,8,K,2,Excellent,5,VS1,GIA,F,EX,EX,round
+28690192,290,False,0.31,60.4,59.0,5,H,2,Excellent,8,SI2,GIA,NN,EX,EX,round
+28701136,290,False,0.3,59.9,59.0,7,J,2,Excellent,8,SI2,GIA,F,EX,VG,round
+28700877,290,False,0.3,62.3,58.0,8,K,2,Excellent,6,VS2,GIA,NN,EX,EX,round
+28702380,290,False,0.3,61.7,60.0,8,K,2,Excellent,6,VS2,GIA,NN,EX,EX,round
+26261388,290,False,0.41,62.7,56.0,7,J,3,Very Good,8,SI2,GIA,NN,EX,EX,round
+26478541,290,False,0.41,61.3,56.0,7,J,2,Excellent,8,SI2,GIA,S,EX,EX,round
+26346871,290,False,0.37,63.4,56.0,7,J,3,Very Good,8,SI2,GIA,S,EX,VG,round
+14371740,300,False,0.32,62.5,58.0,2,E,2,Excellent,8,SI2,GIA,NN,EX,EX,round
+14457171,300,False,0.33,61.8,59.0,2,E,2,Excellent,9,I1,GIA,NN,EX,EX,round
+12465340,300,False,0.3,61.9,57.0,2,E,2,Excellent,8,SI2,GIA,NN,EX,EX,round
+12567773,300,False,0.3,62.7,58.0,5,H,3,Very Good,8,SI2,GIA,F,VG,EX,round
+13752604,300,False,0.3,61.6,57.0,5,H,2,Excellent,8,SI2,GIA,NN,VG,EX,round
+13887895,300,False,0.33,62.7,58.0,3,F,2,Excellent,8,SI2,GIA,NN,EX,EX,round
+13951396,300,False,0.4,64.1,57.0,6,I,3,Very Good,8,SI2,GIA,F,VG,EX,round
+13951394,300,False,0.4,61.0,61.0,8,K,3,Very Good,8,SI2,GIA,F,GD,GD,round
+12729431,300,False,0.31,62.0,57.0,3,F,3,Very Good,8,SI2,GIA,NN,GD,VG,round
+12729435,300,False,0.3,63.9,56.0,5,H,3,Very Good,8,SI2,GIA,F,EX,VG,round
+12729453,300,False,0.31,63.8,58.0,2,E,3,Very Good,8,SI2,GIA,NN,VG,VG,round
+12729480,300,False,0.32,63.7,57.0,5,H,3,Very Good,8,SI2,GIA,NN,EX,VG,round
+12729502,300,False,0.3,62.4,58.0,3,F,3,Very Good,8,SI2,GIA,F,VG,VG,round
+14033096,300,False,0.4,63.8,56.0,6,I,3,Very Good,8,SI2,GIA,F,VG,GD,round
+8715294,300,False,0.3,62.6,54.0,6,I,2,Excellent,8,SI2,GIA,F,VG,EX,round
+10371582,300,False,0.31,60.3,61.0,6,I,2,Excellent,8,SI2,GIA,F,EX,EX,round
+12138024,300,False,0.3,59.8,62.0,7,J,3,Very Good,7,SI1,GIA,F,VG,GD,round
+12138119,300,False,0.31,62.1,59.0,7,J,3,Very Good,8,SI2,GIA,F,VG,GD,round
+12138207,300,False,0.32,64.0,58.0,6,I,3,Very Good,8,SI2,GIA,F,VG,VG,round
+20462139,300,False,0.3,60.1,58.0,2,E,2,Excellent,9,I1,GIA,NN,EX,EX,round
+21574156,300,False,0.33,63.1,57.0,7,J,2,Excellent,7,SI1,GIA,M,EX,EX,round
+21570308,300,False,0.31,63.6,61.0,4,G,3,Very Good,8,SI2,GIA,NN,VG,GD,round
+22342474,300,False,0.3,62.7,59.0,5,H,3,Very Good,8,SI2,GIA,S,VG,VG,round
+22441621,300,False,0.31,61.8,58.0,6,I,2,Excellent,7,SI1,GIA,NN,EX,EX,round
+25628338,300,False,0.35,62.3,58.0,7,J,2,Excellent,2,IF,IGI,NN,EX,EX,round
+25673847,300,False,0.4,62.2,55.0,7,J,2,Excellent,7,SI1,IGI,NN,EX,EX,round
+25693848,300,False,0.3,64.5,62.0,7,J,3,Very Good,6,VS2,GIA,F,VG,EX,round
+25721812,300,False,0.3,59.4,62.0,6,I,2,Excellent,3,VVS1,IGI,SLT,EX,EX,round
+25721828,300,False,0.34,63.4,56.0,7,J,2,Excellent,3,VVS1,IGI,NN,EX,EX,round
+25721870,300,False,0.35,63.3,56.0,8,K,2,Excellent,3,VVS1,IGI,NN,EX,EX,round
+25518000,300,False,0.32,63.0,56.0,6,I,2,Excellent,3,VVS1,IGI,NN,EX,EX,round
+24113276,300,False,0.3,61.4,58.0,3,F,2,Excellent,9,I1,GIA,NN,EX,EX,round
+23683739,300,False,0.4,64.0,57.0,7,J,3,Very Good,8,SI2,GIA,F,EX,EX,round
+23683774,300,False,0.3,62.1,59.0,6,I,2,Excellent,7,SI1,GIA,M,EX,EX,round
+23018268,300,False,0.33,62.7,57.0,4,G,2,Excellent,8,SI2,GIA,NN,EX,EX,round
+22858836,300,False,0.3,63.1,55.0,2,E,3,Very Good,8,SI2,GIA,NN,EX,EX,round
+24993767,300,False,0.4,61.7,58.0,7,J,2,Excellent,8,SI2,GIA,NN,EX,EX,round
+24993953,300,False,0.35,61.1,61.0,8,K,2,Excellent,4,VVS2,GIA,NN,EX,EX,round
+24994580,300,False,0.4,62.1,58.0,7,J,3,Very Good,7,SI1,GIA,F,EX,VG,round
+24992274,300,False,0.35,62.7,58.0,8,K,2,Excellent,5,VS1,GIA,NN,VG,EX,round
+24992283,300,False,0.35,63.1,56.0,8,K,3,Very Good,5,VS1,GIA,NN,EX,EX,round
+24992655,300,False,0.4,64.6,58.0,7,J,3,Very Good,7,SI1,GIA,NN,VG,EX,round
+24992622,300,False,0.3,63.9,58.0,8,K,3,Very Good,2,IF,GIA,NN,VG,VG,round
+24992911,300,False,0.4,60.9,58.0,8,K,2,Excellent,7,SI1,GIA,NN,VG,EX,round
+25978423,300,False,0.31,61.4,61.0,5,H,2,Excellent,7,SI1,IGI,NN,EX,EX,round
+25978220,300,False,0.41,62.5,58.0,7,J,2,Excellent,7,SI1,IGI,NN,EX,EX,round
+25937138,300,False,0.3,64.3,55.0,4,G,3,Very Good,7,SI1,IGI,NN,VG,EX,round
+25937142,300,False,0.3,64.4,57.0,4,G,3,Very Good,7,SI1,IGI,NN,VG,EX,round
+25937144,300,False,0.3,62.5,62.0,4,G,3,Very Good,7,SI1,IGI,NN,VG,EX,round
+25978424,300,False,0.31,63.3,58.0,5,H,2,Excellent,7,SI1,IGI,NN,EX,EX,round
+26706951,300,False,0.3,62.3,57.0,8,K,2,Excellent,3,VVS1,GIA,M,VG,EX,round
+26979452,300,False,0.3,64.0,59.0,7,J,3,Very Good,5,VS1,GIA,F,EX,EX,round
+27362297,300,False,0.31,62.8,58.0,6,I,2,Excellent,4,VVS2,IGI,NN,EX,EX,round
+27519078,300,False,0.3,62.6,57.0,4,G,3,Very Good,7,SI1,IGI,NN,EX,EX,round
+27519077,300,False,0.31,62.0,58.0,5,H,2,Excellent,7,SI1,IGI,NN,EX,EX,round
+27689728,300,False,0.3,63.1,58.0,2,E,2,Excellent,7,SI1,IGI,SLT,EX,VG,round
+27689840,300,False,0.3,62.0,58.0,5,H,2,Excellent,7,SI1,IGI,NN,EX,EX,round
+27689969,300,False,0.31,63.4,55.0,5,H,2,Excellent,7,SI1,IGI,NN,EX,EX,round
+27689991,300,False,0.31,62.2,57.0,5,H,2,Excellent,7,SI1,IGI,NN,EX,EX,round
+27689978,300,False,0.31,62.9,58.0,5,H,2,Excellent,7,SI1,IGI,NN,EX,EX,round
+27689170,300,False,0.3,60.5,59.0,5,H,2,Excellent,7,SI1,IGI,NN,EX,EX,round
+27690158,300,False,0.41,64.6,57.0,7,J,3,Very Good,6,VS2,IGI,SLT,VG,VG,round
+26233535,300,False,0.3,64.6,56.0,5,H,3,Very Good,8,SI2,GIA,NN,VG,VG,round
+26400357,300,False,0.3,64.7,58.0,4,G,3,Very Good,8,SI2,GIA,NN,GD,EX,round
+26400349,300,False,0.3,62.6,57.0,3,F,2,Excellent,9,I1,GIA,NN,VG,VG,round
+26622438,300,False,0.31,62.6,56.0,1,D,2,Excellent,7,SI1,IGI,SLT,VG,VG,round
+26622440,300,False,0.32,60.4,57.0,1,D,2,Excellent,7,SI1,IGI,S,EX,EX,round
+26623362,300,False,0.42,63.3,55.0,7,J,2,Excellent,7,SI1,IGI,NN,EX,EX,round
+27459891,300,False,0.33,61.0,59.0,5,H,2,Excellent,7,SI1,IGI,NN,EX,EX,round
+27459893,300,False,0.33,61.3,55.0,5,H,2,Excellent,7,SI1,IGI,NN,EX,EX,round
+27458496,300,False,0.31,62.3,58.0,1,D,2,Excellent,7,SI1,IGI,S,EX,EX,round
+27458787,300,False,0.32,61.2,58.0,5,H,2,Excellent,7,SI1,IGI,NN,EX,EX,round
+27458785,300,False,0.32,62.7,56.0,5,H,2,Excellent,7,SI1,IGI,NN,EX,EX,round
+27459281,300,False,0.3,60.6,58.0,4,G,2,Excellent,7,SI1,IGI,NN,VG,VG,round
+27459376,300,False,0.34,60.4,58.0,5,H,2,Excellent,7,SI1,IGI,NN,EX,EX,round
+27519078,300,False,0.3,62.6,57.0,4,G,3,Very Good,7,SI1,IGI,NN,EX,EX,round
+27519077,300,False,0.31,62.0,58.0,5,H,2,Excellent,7,SI1,IGI,NN,EX,EX,round
+26233535,300,False,0.3,64.6,56.0,5,H,3,Very Good,8,SI2,GIA,NN,VG,VG,round
+27016432,300,False,0.31,63.0,60.0,2,E,2,Excellent,7,SI1,IGI,SLT,VG,VG,round
+27016000,300,False,0.31,63.2,55.0,3,F,3,Very Good,7,SI1,IGI,NN,GD,VG,round
+27016330,300,False,0.33,61.9,60.0,5,H,2,Excellent,7,SI1,IGI,NN,EX,EX,round
+27015094,300,False,0.31,62.8,55.0,5,H,2,Excellent,7,SI1,IGI,NN,EX,EX,round
+27015121,300,False,0.37,62.8,56.0,6,I,2,Excellent,7,SI1,IGI,NN,EX,EX,round
+27015989,300,False,0.32,61.3,56.0,5,H,2,Excellent,7,SI1,IGI,NN,EX,EX,round
+26706951,300,False,0.3,62.3,57.0,8,K,2,Excellent,3,VVS1,GIA,M,VG,EX,round
+26979452,300,False,0.3,64.0,59.0,7,J,3,Very Good,5,VS1,GIA,F,EX,EX,round
+27689728,300,False,0.3,63.1,58.0,2,E,2,Excellent,7,SI1,IGI,SLT,EX,VG,round
+27689840,300,False,0.3,62.0,58.0,5,H,2,Excellent,7,SI1,IGI,NN,EX,EX,round
+27689969,300,False,0.31,63.4,55.0,5,H,2,Excellent,7,SI1,IGI,NN,EX,EX,round
+27689991,300,False,0.31,62.2,57.0,5,H,2,Excellent,7,SI1,IGI,NN,EX,EX,round
+27689978,300,False,0.31,62.9,58.0,5,H,2,Excellent,7,SI1,IGI,NN,EX,EX,round
+27689170,300,False,0.3,60.5,59.0,5,H,2,Excellent,7,SI1,IGI,NN,EX,EX,round
+27690158,300,False,0.41,64.6,57.0,7,J,3,Very Good,6,VS2,IGI,SLT,VG,VG,round
+27722360,300,False,0.41,62.2,60.0,7,J,2,Excellent,7,SI1,IGI,NN,VG,VG,round
+27707831,300,False,0.34,61.9,57.0,7,J,2,Excellent,3,VVS1,IGI,NN,EX,EX,round
+27753927,300,False,0.37,62.1,58.0,7,J,2,Excellent,5,VS1,IGI,NN,EX,EX,round
+27753897,300,False,0.3,64.2,57.0,6,I,3,Very Good,3,VVS1,IGI,NN,EX,EX,round
+28439391,300,False,0.3,63.9,59.0,7,J,3,Very Good,2,IF,GIA,M,EX,EX,round
+28439339,300,False,0.3,62.6,60.0,8,K,2,Excellent,3,VVS1,GIA,NN,VG,EX,round
+28439667,300,False,0.3,61.8,56.0,8,K,2,Excellent,4,VVS2,GIA,F,EX,EX,round
+28043083,300,False,0.3,59.5,61.0,1,D,3,Very Good,8,SI2,GIA,NN,VG,GD,round
+28042405,300,False,0.31,61.9,58.0,5,H,2,Excellent,7,SI1,IGI,NN,EX,EX,round
+28042597,300,False,0.4,59.1,57.0,7,J,2,Excellent,7,SI1,IGI,NN,EX,VG,round
+28041932,300,False,0.38,60.0,59.0,5,H,2,Excellent,8,SI2,GIA,NN,EX,EX,round
+28039328,300,False,0.38,59.0,60.0,6,I,2,Excellent,7,SI1,IGI,NN,EX,EX,round
+28039242,300,False,0.4,60.1,58.0,8,K,2,Excellent,5,VS1,IGI,NN,EX,EX,round
+28033885,300,False,0.33,62.9,57.0,5,H,2,Excellent,7,SI1,IGI,NN,EX,EX,round
+28033905,300,False,0.32,61.3,57.0,5,H,2,Excellent,7,SI1,IGI,NN,EX,EX,round
+28033907,300,False,0.32,62.3,57.0,5,H,2,Excellent,7,SI1,IGI,NN,EX,EX,round
+28034411,300,False,0.4,62.2,56.0,7,J,2,Excellent,7,SI1,IGI,NN,EX,EX,round
+28034199,300,False,0.33,62.1,58.0,6,I,2,Excellent,4,VVS2,IGI,SLT,EX,EX,round
+28034429,300,False,0.3,62.5,59.0,2,E,2,Excellent,7,SI1,IGI,SLT,VG,EX,round
+28037553,300,False,0.4,63.2,54.0,7,J,3,Very Good,6,VS2,IGI,NN,VG,VG,round
+28037615,300,False,0.35,61.1,58.0,6,I,2,Excellent,7,SI1,IGI,NN,EX,EX,round
+28038485,300,False,0.38,61.9,60.0,7,J,2,Excellent,5,VS1,IGI,NN,VG,EX,round
+28619717,300,False,0.3,60.4,58.0,8,K,2,Excellent,6,VS2,GIA,NN,EX,EX,round
+28620009,300,False,0.3,62.5,57.0,8,K,2,Excellent,5,VS1,GIA,F,EX,EX,round
+28620182,300,False,0.3,61.8,58.0,8,K,2,Excellent,5,VS1,GIA,F,EX,EX,round
+28620306,300,False,0.3,62.3,56.0,8,K,2,Excellent,6,VS2,GIA,F,EX,EX,round
+28620206,300,False,0.3,60.9,56.0,6,I,2,Excellent,5,VS1,GIA,F,EX,EX,round
+28620302,300,False,0.3,61.0,59.0,8,K,2,Excellent,5,VS1,GIA,F,EX,EX,round
+28547383,300,False,0.38,62.3,59.0,7,J,2,Excellent,4,VVS2,IGI,NN,EX,EX,round
+28701041,300,False,0.3,62.4,58.0,8,K,2,Excellent,4,VVS2,GIA,M,EX,EX,round
+28701046,300,False,0.3,62.4,59.0,8,K,3,Very Good,4,VVS2,GIA,NN,EX,VG,round
+28700758,300,False,0.3,62.1,59.0,8,K,2,Excellent,6,VS2,GIA,NN,EX,EX,round
+28658727,300,False,0.32,61.8,58.0,6,I,2,Excellent,4,VVS2,IGI,NN,EX,EX,round
+28631640,300,False,0.3,61.9,57.0,8,K,2,Excellent,8,SI2,GIA,F,EX,EX,round
+28892163,300,False,0.31,62.8,56.0,8,K,3,Very Good,6,VS2,GIA,NN,EX,EX,round
+27659174,300,False,0.31,62.9,57.0,6,I,2,Excellent,4,VVS2,IGI,NN,EX,EX,round
+27154455,300,False,0.3,64.4,57.0,5,H,3,Very Good,7,SI1,GIA,NN,GD,VG,round
+22018320,300,False,0.4,61.7,59.0,6,I,2,Excellent,7,SI1,GIA,S,VG,EX,round
+21862599,300,False,0.36,61.2,57.0,8,K,2,Excellent,8,SI2,GIA,F,EX,EX,round
+28698644,300,False,0.3,61.7,58.0,6,I,2,Excellent,8,SI2,GIA,F,VG,EX,round
+27513126,300,False,0.3,62.6,56.0,1,D,3,Very Good,8,SI2,GIA,F,GD,VG,round
+28527391,300,False,0.3,61.2,60.0,7,J,2,Excellent,4,VVS2,GIA,S,EX,EX,round
+14371729,310,False,0.3,61.9,57.0,2,E,3,Very Good,8,SI2,GIA,NN,EX,EX,round
+14371633,310,False,0.4,62.3,57.0,6,I,2,Excellent,8,SI2,GIA,F,VG,EX,round
+6881358,310,False,0.3,62.5,59.0,8,K,3,Very Good,3,VVS1,GIA,M,VG,EX,round
+11202081,310,False,0.33,63.6,58.0,6,I,3,Very Good,8,SI2,GIA,F,VG,GD,round
+12465338,310,False,0.3,64.0,61.0,2,E,3,Very Good,8,SI2,GIA,NN,VG,EX,round
+12567746,310,False,0.3,62.8,57.0,3,F,3,Very Good,8,SI2,GIA,NN,VG,EX,round
+13752628,310,False,0.3,63.0,55.0,2,E,3,Very Good,8,SI2,GIA,NN,VG,EX,round
+13752619,310,False,0.3,64.6,57.0,2,E,3,Very Good,8,SI2,GIA,NN,VG,EX,round
+13951436,310,False,0.4,63.5,60.0,6,I,3,Very Good,8,SI2,GIA,NN,GD,EX,round
+13951448,310,False,0.4,62.3,57.0,7,J,3,Very Good,8,SI2,GIA,F,VG,EX,round
+12729395,310,False,0.3,60.4,58.0,2,E,3,Very Good,8,SI2,GIA,NN,VG,VG,round
+12729452,310,False,0.32,61.3,61.0,5,H,3,Very Good,8,SI2,GIA,NN,GD,GD,round
+12729385,310,False,0.3,62.3,58.0,4,G,3,Very Good,7,SI1,GIA,F,GD,GD,round
+12729404,310,False,0.32,63.6,57.0,2,E,3,Very Good,8,SI2,GIA,NN,VG,VG,round
+12729426,310,False,0.31,62.7,57.0,3,F,3,Very Good,8,SI2,GIA,NN,EX,VG,round
+12729514,310,False,0.3,63.5,55.0,2,E,3,Very Good,8,SI2,GIA,NN,VG,GD,round
+12729493,310,False,0.33,62.5,59.0,4,G,3,Very Good,8,SI2,GIA,NN,VG,VG,round
+14119692,310,False,0.38,57.8,59.0,7,J,3,Very Good,8,SI2,GIA,F,VG,EX,round
+14119689,310,False,0.34,62.0,57.0,5,H,2,Excellent,8,SI2,GIA,F,EX,EX,round
+18023178,310,False,0.3,63.8,62.0,8,K,3,Very Good,2,IF,GIA,NN,VG,EX,round
+5774023,310,False,0.3,62.2,57.0,8,K,3,Very Good,3,VVS1,GIA,S,EX,VG,round
+10178357,310,False,0.32,61.9,57.0,6,I,2,Excellent,8,SI2,GIA,F,EX,VG,round
+12138022,310,False,0.32,62.8,59.0,7,J,3,Very Good,7,SI1,GIA,F,VG,GD,round
+12138082,310,False,0.3,62.1,55.0,5,H,3,Very Good,8,SI2,GIA,NN,GD,GD,round
+12138149,310,False,0.3,63.6,57.0,5,H,3,Very Good,8,SI2,GIA,F,VG,VG,round
+12138179,310,False,0.32,62.8,59.0,7,J,3,Very Good,7,SI1,GIA,F,VG,GD,round
+12201641,310,False,0.3,62.8,55.0,5,H,2,Excellent,8,SI2,GIA,F,EX,EX,round
+12201643,310,False,0.3,62.7,56.0,2,E,2,Excellent,8,SI2,GIA,NN,VG,VG,round
+16210697,310,False,0.31,64.6,58.0,8,K,3,Very Good,4,VVS2,GIA,NN,VG,VG,round
+16494497,310,False,0.3,60.2,55.0,3,F,3,Very Good,7,SI1,GIA,NN,VG,GD,round
+16839010,310,False,0.33,63.5,57.0,7,J,3,Very Good,8,SI2,GIA,F,VG,VG,round
+21532501,310,False,0.3,62.6,58.0,7,J,3,Very Good,6,VS2,GIA,NN,VG,EX,round
+22483460,310,False,0.4,60.9,62.0,8,K,2,Excellent,5,VS1,IGI,S,EX,EX,round
+22126671,310,False,0.3,60.8,61.0,1,D,3,Very Good,8,SI2,GIA,NN,VG,GD,round
+25721939,310,False,0.3,62.2,57.0,6,I,2,Excellent,3,VVS1,IGI,NN,EX,EX,round
+23745661,310,False,0.42,60.8,58.0,6,I,2,Excellent,7,SI1,IGI,NN,VG,VG,round
+23769603,310,False,0.34,61.6,59.0,6,I,2,Excellent,4,VVS2,IGI,SLT,EX,EX,round
+21879552,310,False,0.3,62.4,56.0,3,F,3,Very Good,8,SI2,GIA,M,VG,GD,round
+22967657,310,False,0.35,63.2,57.0,8,K,2,Excellent,2,IF,IGI,NN,EX,EX,round
+22967588,310,False,0.35,62.5,57.0,6,I,2,Excellent,5,VS1,IGI,NN,EX,EX,round
+22967594,310,False,0.34,62.1,56.0,7,J,2,Excellent,2,IF,IGI,SLT,EX,EX,round
+23631123,310,False,0.3,62.6,57.0,4,G,2,Excellent,8,SI2,GIA,M,EX,EX,round
+23384240,310,False,0.3,60.4,60.0,3,F,2,Excellent,9,I1,GIA,NN,EX,EX,round
+24808257,310,False,0.35,62.9,57.0,2,E,2,Excellent,8,SI2,GIA,NN,EX,EX,round
+24993577,310,False,0.4,63.1,57.0,8,K,2,Excellent,5,VS1,GIA,F,EX,EX,round
+24993970,310,False,0.4,64.0,56.0,8,K,3,Very Good,7,SI1,GIA,NN,EX,VG,round
+24993869,310,False,0.34,62.9,58.0,7,J,2,Excellent,5,VS1,GIA,M,EX,EX,round
+24994092,310,False,0.34,62.8,56.0,8,K,2,Excellent,3,VVS1,GIA,F,EX,EX,round
+24994223,310,False,0.35,62.9,55.0,8,K,2,Excellent,4,VVS2,GIA,F,EX,VG,round
+24994575,310,False,0.4,64.0,59.0,7,J,3,Very Good,7,SI1,GIA,NN,GD,EX,round
+24994591,310,False,0.4,59.6,61.0,7,J,3,Very Good,7,SI1,GIA,NN,GD,VG,round
+24992285,310,False,0.35,62.1,58.0,8,K,2,Excellent,6,VS2,GIA,NN,EX,VG,round
+24992684,310,False,0.34,63.1,56.0,7,J,2,Excellent,4,VVS2,GIA,F,EX,EX,round
+24992888,310,False,0.4,61.2,60.0,7,J,2,Excellent,7,SI1,GIA,F,VG,VG,round
+25937102,310,False,0.31,62.8,59.0,5,H,3,Very Good,5,VS1,IGI,NN,GD,VG,round
+25937242,310,False,0.38,63.4,61.0,5,H,3,Very Good,7,SI1,IGI,NN,GD,VG,round
+25978853,310,False,0.37,60.4,57.0,4,G,2,Excellent,7,SI1,IGI,SLT,EX,EX,round
+27113777,310,False,0.4,64.1,57.0,8,K,3,Very Good,5,VS1,IGI,NN,EX,EX,round
+27127074,310,False,0.37,61.9,57.0,7,J,2,Excellent,9,I1,GIA,NN,EX,EX,round
+27343524,310,False,0.3,62.5,57.0,8,K,2,Excellent,5,VS1,GIA,NN,EX,VG,round
+27524780,310,False,0.3,60.7,61.0,7,J,2,Excellent,5,VS1,GIA,F,EX,EX,round
+27689739,310,False,0.3,63.2,57.0,2,E,3,Very Good,7,SI1,IGI,SLT,VG,VG,round
+27690004,310,False,0.3,61.2,62.0,1,D,3,Very Good,7,SI1,IGI,NN,VG,VG,round
+27689157,310,False,0.3,61.8,54.0,3,F,2,Excellent,7,SI1,IGI,NN,EX,VG,round
+27690017,310,False,0.3,64.8,57.0,1,D,3,Very Good,7,SI1,IGI,NN,VG,VG,round
+27692690,310,False,0.33,62.4,56.0,5,H,2,Excellent,7,SI1,IGI,NN,EX,EX,round
+27692640,310,False,0.3,61.2,57.0,2,E,2,Excellent,7,SI1,IGI,NN,EX,VG,round
+26365363,310,False,0.4,62.8,57.0,8,K,2,Excellent,8,SI2,GIA,S,VG,EX,round
+26622418,310,False,0.31,62.2,58.0,1,D,2,Excellent,7,SI1,IGI,NN,EX,EX,round
+26623067,310,False,0.37,60.4,60.0,5,H,2,Excellent,7,SI1,IGI,NN,EX,EX,round
+27458486,310,False,0.31,60.8,58.0,1,D,2,Excellent,7,SI1,IGI,NN,EX,EX,round
+27458946,310,False,0.3,62.4,58.0,2,E,2,Excellent,7,SI1,IGI,NN,EX,VG,round
+27458899,310,False,0.47,61.8,60.0,8,K,2,Excellent,7,SI1,IGI,NN,EX,EX,round
+27457988,310,False,0.35,61.1,59.0,5,H,2,Excellent,7,SI1,IGI,NN,EX,EX,round
+27457993,310,False,0.35,62.6,56.0,5,H,2,Excellent,7,SI1,IGI,NN,EX,EX,round
+27463297,310,False,0.41,62.8,56.0,8,K,2,Excellent,4,VVS2,IGI,NN,EX,EX,round
+27463289,310,False,0.44,60.3,57.0,8,K,2,Excellent,5,VS1,IGI,NN,EX,EX,round
+27467445,310,False,0.34,59.9,60.0,6,I,2,Excellent,3,VVS1,IGI,NN,EX,EX,round
+27459247,310,False,0.3,63.1,59.0,1,D,3,Very Good,7,SI1,IGI,SLT,GD,EX,round
+27459357,310,False,0.34,63.0,57.0,5,H,2,Excellent,7,SI1,IGI,NN,EX,EX,round
+27459371,310,False,0.34,58.7,61.0,5,H,2,Excellent,7,SI1,IGI,NN,EX,EX,round
+27459430,310,False,0.3,63.1,56.0,5,H,2,Excellent,4,VVS2,IGI,NN,VG,EX,round
+27459320,310,False,0.33,60.1,63.0,5,H,2,Excellent,5,VS1,IGI,NN,VG,VG,round
+27459149,310,False,0.34,62.3,58.0,6,I,2,Excellent,3,VVS1,IGI,NN,EX,EX,round
+27658988,310,False,0.34,61.6,60.0,6,I,2,Excellent,5,VS1,IGI,SLT,EX,EX,round
+27661375,310,False,0.33,60.7,62.0,7,J,2,Excellent,2,IF,IGI,NN,EX,EX,round
+27661451,310,False,0.3,62.3,59.0,4,G,2,Excellent,7,SI1,IGI,NN,EX,EX,round
+27661453,310,False,0.3,61.7,57.0,4,G,1,Ideal,7,SI1,IGI,NN,EX,EX,round
+27661453,310,False,0.3,61.7,57.0,4,G,1,Ideal,7,SI1,IGI,NN,EX,EX,round
+27692640,310,False,0.3,61.2,57.0,2,E,2,Excellent,7,SI1,IGI,NN,EX,VG,round
+27689739,310,False,0.3,63.2,57.0,2,E,3,Very Good,7,SI1,IGI,SLT,VG,VG,round
+27690004,310,False,0.3,61.2,62.0,1,D,3,Very Good,7,SI1,IGI,NN,VG,VG,round
+27689157,310,False,0.3,61.8,54.0,3,F,2,Excellent,7,SI1,IGI,NN,EX,VG,round
+27690017,310,False,0.3,64.8,57.0,1,D,3,Very Good,7,SI1,IGI,NN,VG,VG,round
+27692690,310,False,0.33,62.4,56.0,5,H,2,Excellent,7,SI1,IGI,NN,EX,EX,round
+27707783,310,False,0.31,60.4,57.0,4,G,2,Excellent,7,SI1,IGI,SLT,EX,EX,round
+27707754,310,False,0.32,61.2,60.0,5,H,2,Excellent,6,VS2,IGI,SLT,EX,EX,round
+27722474,310,False,0.32,61.4,59.0,5,H,2,Excellent,7,SI1,IGI,NN,EX,EX,round
+27722468,310,False,0.36,63.1,55.0,3,F,2,Excellent,7,SI1,IGI,S,EX,EX,round
+28036109,310,False,0.4,63.1,56.0,6,I,2,Excellent,7,SI1,IGI,SLT,EX,EX,round
+28033880,310,False,0.33,62.2,58.0,5,H,2,Excellent,7,SI1,IGI,NN,EX,EX,round
+28034409,310,False,0.4,59.0,62.0,7,J,2,Excellent,7,SI1,IGI,NN,EX,EX,round
+28381773,310,False,0.33,62.3,59.0,8,K,2,Excellent,3,VVS1,GIA,S,EX,EX,round
+28404200,310,False,0.32,62.5,58.0,8,K,2,Excellent,3,VVS1,GIA,S,EX,EX,round
+28361102,310,False,0.3,63.0,58.0,8,K,3,Very Good,5,VS1,GIA,NN,EX,EX,round
+28439468,310,False,0.3,61.9,59.0,8,K,2,Excellent,3,VVS1,GIA,NN,VG,EX,round
+28439666,310,False,0.3,62.0,59.0,8,K,2,Excellent,3,VVS1,GIA,NN,VG,VG,round
+28547084,310,False,0.32,63.4,55.0,5,H,3,Very Good,6,VS2,IGI,NN,EX,EX,round
+28306455,310,False,0.3,62.2,58.0,7,J,2,Excellent,5,VS1,GIA,NN,EX,VG,round
+28463698,310,False,0.3,63.4,56.0,6,I,2,Excellent,3,VVS1,IGI,NN,EX,EX,round
+28279014,310,False,0.31,62.4,56.0,8,K,2,Excellent,5,VS1,GIA,F,EX,EX,round
+27860554,310,False,0.35,62.4,57.0,7,J,3,Very Good,7,SI1,GIA,NN,EX,EX,round
+27828650,310,False,0.3,62.3,56.0,8,K,2,Excellent,7,SI1,GIA,NN,EX,EX,round
+28512258,310,False,0.3,63.4,59.0,8,K,3,Very Good,3,VVS1,GIA,NN,EX,EX,round
+28512323,310,False,0.3,61.1,59.0,8,K,2,Excellent,3,VVS1,GIA,NN,EX,VG,round
+28512413,310,False,0.3,60.8,59.0,7,J,2,Excellent,4,VVS2,GIA,F,VG,EX,round
+28513159,310,False,0.32,60.8,59.0,8,K,2,Excellent,3,VVS1,GIA,S,EX,EX,round
+28513371,310,False,0.3,60.2,60.0,8,K,2,Excellent,3,VVS1,GIA,F,EX,EX,round
+27975267,310,False,0.3,64.5,57.0,7,J,3,Very Good,5,VS1,GIA,F,EX,EX,round
+28043178,310,False,0.45,59.6,60.0,8,K,2,Excellent,7,SI1,IGI,NN,EX,EX,round
+28043495,310,False,0.34,62.6,56.0,5,H,2,Excellent,7,SI1,IGI,NN,EX,EX,round
+28039626,310,False,0.31,63.6,57.0,5,H,3,Very Good,4,VVS2,IGI,NN,EX,EX,round
+28040358,310,False,0.36,62.3,57.0,3,F,2,Excellent,7,SI1,IGI,S,EX,EX,round
+28040364,310,False,0.3,63.0,59.0,3,F,2,Excellent,7,SI1,IGI,NN,VG,EX,round
+27984005,310,False,0.3,61.9,59.0,8,K,2,Excellent,5,VS1,GIA,F,EX,EX,round
+28152207,310,False,0.3,61.4,59.0,2,E,3,Very Good,6,VS2,GIA,S,VG,EX,round
+28667852,310,False,0.33,60.7,61.0,6,I,2,Excellent,3,VVS1,IGI,SLT,EX,EX,round
+28701053,310,False,0.31,62.0,57.0,8,K,2,Excellent,6,VS2,GIA,F,EX,EX,round
+28700744,310,False,0.3,61.7,57.0,7,J,2,Excellent,6,VS2,GIA,F,EX,EX,round
+28702693,310,False,0.3,62.1,57.0,7,J,2,Excellent,6,VS2,GIA,NN,VG,EX,round
+28878187,310,False,0.3,63.6,58.0,1,D,3,Very Good,8,SI2,GIA,NN,VG,VG,round
+28878189,310,False,0.3,62.7,58.0,7,J,2,Excellent,5,VS1,GIA,F,VG,EX,round
+28878520,310,False,0.3,63.9,61.0,7,J,3,Very Good,5,VS1,GIA,F,VG,EX,round
+28917048,310,False,0.31,61.9,57.0,7,J,2,Excellent,6,VS2,GIA,F,EX,EX,round
+28917053,310,False,0.3,60.5,59.0,7,J,2,Excellent,6,VS2,GIA,F,EX,EX,round
+21886532,310,False,0.3,61.4,60.0,1,D,3,Very Good,8,SI2,GIA,NN,EX,GD,round
+22382027,310,False,0.3,64.2,57.0,4,G,3,Very Good,7,SI1,GIA,NN,GD,GD,round
+14807872,320,False,0.3,60.3,60.0,7,J,3,Very Good,6,VS2,GIA,NN,VG,EX,round
+14371739,320,False,0.3,62.7,55.0,2,E,2,Excellent,8,SI2,GIA,NN,EX,EX,round
+14371749,320,False,0.3,61.1,59.0,2,E,2,Excellent,8,SI2,GIA,NN,VG,EX,round
+14281545,320,False,0.3,62.0,57.0,8,K,2,Excellent,6,VS2,GIA,NN,EX,EX,round
+14807872,320,False,0.3,60.3,60.0,7,J,3,Very Good,6,VS2,GIA,NN,VG,EX,round
+14807882,320,False,0.3,64.3,55.0,7,J,3,Very Good,6,VS2,GIA,F,GD,EX,round
+10820225,320,False,0.3,60.6,62.0,8,K,2,Excellent,3,VVS1,GIA,NN,VG,EX,round
+11202109,320,False,0.3,61.3,60.0,2,E,3,Very Good,8,SI2,GIA,NN,VG,GD,round
+11202115,320,False,0.3,62.5,54.0,3,F,3,Very Good,8,SI2,GIA,NN,GD,GD,round
+11202080,320,False,0.3,57.9,63.0,3,F,3,Very Good,8,SI2,GIA,NN,VG,EX,round
+11277466,320,False,0.3,60.7,59.0,3,F,3,Very Good,8,SI2,GIA,F,VG,GD,round
+11277471,320,False,0.35,63.5,57.0,6,I,3,Very Good,8,SI2,GIA,F,GD,VG,round
+11277494,320,False,0.33,61.6,55.0,6,I,2,Excellent,8,SI2,GIA,F,VG,VG,round
+11277237,320,False,0.3,63.4,58.0,3,F,3,Very Good,8,SI2,GIA,NN,EX,EX,round
+11277510,320,False,0.3,63.4,55.0,3,F,3,Very Good,8,SI2,GIA,NN,GD,GD,round
+11277469,320,False,0.3,64.5,58.0,3,F,3,Very Good,8,SI2,GIA,NN,VG,GD,round
+13089597,320,False,0.3,62.4,57.0,8,K,2,Excellent,6,VS2,GIA,F,VG,EX,round
+13089209,320,False,0.3,61.0,60.0,8,K,2,Excellent,6,VS2,GIA,F,EX,EX,round
+12567763,320,False,0.3,63.6,59.0,8,K,3,Very Good,4,VVS2,GIA,NN,EX,EX,round
+13887827,320,False,0.35,61.9,56.0,6,I,2,Excellent,8,SI2,GIA,F,EX,EX,round
+13887932,320,False,0.34,58.9,60.0,2,E,2,Excellent,8,SI2,GIA,NN,EX,EX,round
+13887891,320,False,0.36,61.5,57.0,3,F,2,Excellent,8,SI2,GIA,NN,EX,EX,round
+13887883,320,False,0.36,62.5,57.0,3,F,2,Excellent,8,SI2,GIA,NN,EX,EX,round
+13887865,320,False,0.36,64.2,58.0,5,H,3,Very Good,8,SI2,GIA,NN,EX,VG,round
+13951429,320,False,0.38,62.5,59.0,3,F,3,Very Good,8,SI2,GIA,NN,GD,GD,round
+13951417,320,False,0.38,62.2,56.0,3,F,3,Very Good,8,SI2,GIA,NN,GD,GD,round
+13951387,320,False,0.37,60.2,56.0,3,F,3,Very Good,8,SI2,GIA,NN,VG,VG,round
+13951408,320,False,0.38,62.8,55.0,3,F,3,Very Good,8,SI2,GIA,NN,GD,GD,round
+13951391,320,False,0.4,63.1,55.0,7,J,3,Very Good,8,SI2,GIA,F,EX,VG,round
+12729400,320,False,0.3,63.5,59.0,2,E,3,Very Good,7,SI1,GIA,NN,VG,VG,round
+14033119,320,False,0.37,63.7,56.0,3,F,3,Very Good,8,SI2,GIA,NN,VG,EX,round
+14033095,320,False,0.4,62.2,56.0,6,I,2,Excellent,8,SI2,GIA,F,VG,EX,round
+8400237,320,False,0.32,60.1,58.0,8,K,2,Excellent,4,VVS2,GIA,S,EX,EX,round
+10178317,320,False,0.3,59.9,62.0,2,E,3,Very Good,8,SI2,GIA,NN,VG,GD,round
+10178356,320,False,0.31,61.4,58.0,6,I,3,Very Good,7,SI1,GIA,F,VG,EX,round
+12138035,320,False,0.3,62.0,56.0,3,F,3,Very Good,8,SI2,GIA,NN,GD,VG,round
+12138020,320,False,0.3,63.4,55.0,3,F,3,Very Good,8,SI2,GIA,NN,GD,VG,round
+12138051,320,False,0.3,60.8,62.0,5,H,3,Very Good,8,SI2,GIA,F,GD,GD,round
+12138107,320,False,0.35,64.2,57.0,6,I,3,Very Good,8,SI2,GIA,F,VG,VG,round
+12138112,320,False,0.3,63.4,56.0,3,F,3,Very Good,8,SI2,GIA,NN,VG,GD,round
+12138110,320,False,0.3,63.9,58.0,3,F,3,Very Good,8,SI2,GIA,NN,GD,VG,round
+12138123,320,False,0.3,60.8,56.0,3,F,3,Very Good,8,SI2,GIA,NN,GD,VG,round
+12138158,320,False,0.3,64.3,59.0,3,F,3,Very Good,8,SI2,GIA,NN,VG,VG,round
+12138168,320,False,0.3,64.0,56.0,6,I,3,Very Good,7,SI1,GIA,NN,VG,EX,round
+12138163,320,False,0.3,59.8,60.0,2,E,3,Very Good,8,SI2,GIA,NN,GD,VG,round
+12138189,320,False,0.3,61.0,61.0,6,I,3,Very Good,7,SI1,GIA,F,VG,VG,round
+12103478,320,False,0.35,63.1,56.0,7,J,3,Very Good,8,SI2,GIA,F,EX,EX,round
+12138191,320,False,0.3,63.1,56.0,3,F,3,Very Good,8,SI2,GIA,NN,VG,VG,round
+12138198,320,False,0.3,64.2,56.0,6,I,3,Very Good,7,SI1,GIA,F,VG,VG,round
+12162334,320,False,0.3,62.1,58.0,5,H,2,Excellent,8,SI2,GIA,F,VG,EX,round
+12213377,320,False,0.33,62.9,57.0,6,I,2,Excellent,8,SI2,GIA,F,EX,EX,round
+12213376,320,False,0.3,62.7,57.0,5,H,2,Excellent,8,SI2,GIA,F,VG,EX,round
+12213381,320,False,0.3,61.7,59.0,6,I,2,Excellent,7,SI1,GIA,F,EX,EX,round
+15726330,320,False,0.3,63.2,57.0,1,D,3,Very Good,9,I1,GIA,NN,VG,EX,round
+15376334,320,False,0.3,60.7,60.0,8,K,2,Excellent,6,VS2,GIA,NN,VG,EX,round
+21946661,320,False,0.34,62.8,55.0,2,E,2,Excellent,8,SI2,GIA,NN,EX,EX,round
+25613975,320,False,0.4,63.1,58.0,8,K,3,Very Good,6,VS2,IGI,SLT,VG,EX,round
+25697390,320,False,0.31,62.3,56.0,8,K,2,Excellent,8,SI2,GIA,NN,EX,EX,round
+25721900,320,False,0.3,62.5,59.0,6,I,2,Excellent,2,IF,IGI,SLT,EX,EX,round
+25721916,320,False,0.3,60.4,57.0,6,I,2,Excellent,2,IF,IGI,SLT,EX,EX,round
+25831616,320,False,0.34,61.3,57.5,8,K,2,Excellent,3,VVS1,IGI,NN,EX,EX,round
+23769630,320,False,0.37,63.3,56.0,7,J,2,Excellent,3,VVS1,IGI,NN,EX,EX,round
+23922439,320,False,0.3,60.4,58.0,6,I,2,Excellent,8,SI2,GIA,NN,EX,EX,round
+23683746,320,False,0.4,62.9,55.0,6,I,3,Very Good,8,SI2,GIA,NN,EX,EX,round
+25853720,320,False,0.3,61.3,55.0,7,J,2,Excellent,7,SI1,GIA,NN,EX,EX,round
+24887096,320,False,0.4,64.5,58.0,7,J,3,Very Good,9,I1,GIA,M,VG,VG,round
+24992897,320,False,0.4,62.7,57.0,8,K,2,Excellent,7,SI1,GIA,NN,VG,EX,round
+24993417,320,False,0.34,62.6,55.0,7,J,2,Excellent,3,VVS1,GIA,F,EX,EX,round
+24993362,320,False,0.4,62.1,61.0,8,K,2,Excellent,8,SI2,GIA,NN,EX,EX,round
+24993961,320,False,0.4,62.7,55.0,7,J,2,Excellent,7,SI1,GIA,NN,EX,EX,round
+24992289,320,False,0.39,64.2,56.0,8,K,3,Very Good,6,VS2,GIA,NN,EX,EX,round
+24992382,320,False,0.31,63.0,56.0,7,J,2,Excellent,3,VVS1,GIA,NN,EX,VG,round
+25978244,320,False,0.41,61.3,59.0,6,I,2,Excellent,7,SI1,IGI,NN,EX,VG,round
+25937208,320,False,0.3,63.7,62.0,3,F,3,Very Good,7,SI1,IGI,NN,GD,VG,round
+25937202,320,False,0.37,64.4,57.0,5,H,3,Very Good,7,SI1,IGI,NN,VG,VG,round
+25937233,320,False,0.33,63.4,58.0,4,G,3,Very Good,7,SI1,IGI,NN,VG,VG,round
+25937241,320,False,0.31,63.8,59.0,2,E,3,Very Good,7,SI1,IGI,SLT,VG,VG,round
+27515714,320,False,0.3,62.5,56.0,6,I,2,Excellent,3,VVS1,IGI,NN,EX,EX,round
+27689732,320,False,0.3,61.8,61.0,2,E,2,Excellent,7,SI1,IGI,NN,EX,VG,round
+27689191,320,False,0.3,63.5,57.0,4,G,2,Excellent,7,SI1,IGI,NN,EX,EX,round
+27690067,320,False,0.4,61.7,57.0,6,I,2,Excellent,7,SI1,IGI,SLT,EX,EX,round
+27692561,320,False,0.36,63.1,57.0,5,H,2,Excellent,7,SI1,IGI,NN,EX,EX,round
+26405369,320,False,0.41,62.8,57.0,8,K,2,Excellent,3,VVS1,IGI,NN,EX,EX,round
+26623097,320,False,0.38,62.0,57.0,5,H,2,Excellent,7,SI1,IGI,NN,EX,EX,round
+27458504,320,False,0.3,62.2,59.0,1,D,2,Excellent,7,SI1,IGI,S,EX,EX,round
+27458527,320,False,0.4,63.0,55.0,6,I,2,Excellent,7,SI1,IGI,NN,EX,EX,round
+27458580,320,False,0.34,62.7,57.0,5,H,2,Excellent,5,VS1,IGI,NN,VG,VG,round
+27458606,320,False,0.4,62.9,55.0,7,J,2,Excellent,6,VS2,IGI,SLT,EX,EX,round
+27457986,320,False,0.36,61.0,62.0,5,H,2,Excellent,7,SI1,IGI,NN,EX,EX,round
+27458248,320,False,0.37,58.6,60.0,6,I,2,Excellent,7,SI1,IGI,NN,EX,EX,round
+27459348,320,False,0.33,61.6,59.0,5,H,2,Excellent,5,VS1,IGI,NN,VG,VG,round
+27459138,320,False,0.34,61.0,59.0,6,I,2,Excellent,4,VVS2,IGI,NN,EX,EX,round
+27459418,320,False,0.38,61.7,57.0,5,H,2,Excellent,7,SI1,IGI,NN,EX,VG,round
+27459710,320,False,0.34,62.2,55.0,5,H,2,Excellent,7,SI1,IGI,NN,EX,EX,round
+27649578,320,False,0.3,64.0,56.0,8,K,3,Very Good,4,VVS2,GIA,NN,EX,EX,round
+27658927,320,False,0.34,61.4,60.0,7,J,2,Excellent,2,IF,IGI,NN,EX,EX,round
+27658944,320,False,0.33,61.4,61.0,6,I,2,Excellent,4,VVS2,IGI,NN,EX,EX,round
+27658989,320,False,0.35,62.0,58.0,6,I,2,Excellent,5,VS1,IGI,NN,EX,EX,round
+27660101,320,False,0.31,61.4,61.0,4,G,2,Excellent,7,SI1,IGI,NN,EX,EX,round
+25984008,320,False,0.41,62.6,57.0,7,J,2,Excellent,7,SI1,IGI,NN,EX,EX,round
+26004336,320,False,0.3,64.7,57.0,4,G,3,Very Good,7,SI1,IGI,SLT,VG,VG,round
+26136705,320,False,0.34,63.2,56.0,6,I,2,Excellent,4,VVS2,IGI,NN,EX,EX,round
+26124465,320,False,0.3,63.2,58.0,3,F,3,Very Good,8,SI2,GIA,NN,VG,EX,round
+26084686,320,False,0.3,61.0,59.0,8,K,2,Excellent,6,VS2,GIA,F,EX,EX,round
+27016353,320,False,0.4,63.9,60.0,7,J,3,Very Good,5,VS1,IGI,NN,VG,EX,round
+27014716,320,False,0.39,61.7,58.0,6,I,2,Excellent,6,VS2,IGI,NN,EX,EX,round
+27015034,320,False,0.41,62.9,58.0,8,K,2,Excellent,4,VVS2,IGI,NN,EX,EX,round
+27015588,320,False,0.33,60.8,58.0,5,H,2,Excellent,5,VS1,IGI,SLT,EX,EX,round
+27753945,320,False,0.41,62.6,57.0,8,K,2,Excellent,7,SI1,IGI,NN,EX,EX,round
+27707780,320,False,0.31,62.2,56.0,4,G,1,Ideal,7,SI1,IGI,NN,EX,EX,round
+27722454,320,False,0.4,61.7,64.0,6,I,3,Very Good,6,VS2,IGI,NN,EX,EX,round
+28309809,320,False,0.3,63.6,58.0,7,J,3,Very Good,4,VVS2,GIA,NN,VG,EX,round
+27921338,320,False,0.3,62.3,57.0,4,G,2,Excellent,8,SI2,GIA,NN,EX,EX,round
+27958891,320,False,0.3,63.4,57.0,7,J,3,Very Good,3,VVS1,GIA,NN,EX,EX,round
+27975334,320,False,0.3,62.4,58.0,8,K,3,Very Good,4,VVS2,GIA,NN,EX,EX,round
+28255205,320,False,0.31,62.4,57.0,7,J,2,Excellent,3,VVS1,GIA,M,EX,EX,round
+28254873,320,False,0.3,62.5,55.0,7,J,3,Very Good,3,VVS1,GIA,NN,EX,EX,round
+28255048,320,False,0.37,60.3,60.0,8,K,2,Excellent,5,VS1,GIA,F,EX,EX,round
+28236418,320,False,0.3,62.4,59.0,8,K,2,Excellent,4,VVS2,GIA,F,EX,EX,round
+28254578,320,False,0.3,60.5,58.0,7,J,2,Excellent,3,VVS1,GIA,NN,VG,VG,round
+28231286,320,False,0.34,59.1,56.0,5,H,2,Excellent,4,VVS2,IGI,NN,VG,EX,round
+28293141,320,False,0.31,62.9,56.0,8,K,2,Excellent,6,VS2,GIA,NN,EX,VG,round
+28439529,320,False,0.3,60.1,59.0,7,J,2,Excellent,4,VVS2,GIA,F,EX,EX,round
+28512865,320,False,0.3,59.1,62.0,7,J,3,Very Good,3,VVS1,GIA,F,VG,EX,round
+28513404,320,False,0.3,62.2,58.0,7,J,2,Excellent,3,VVS1,GIA,F,VG,EX,round
+28517682,320,False,0.3,62.7,57.0,8,K,2,Excellent,5,VS1,GIA,NN,EX,EX,round
+27828601,320,False,0.31,61.8,59.0,7,J,2,Excellent,8,SI2,GIA,NN,EX,EX,round
+28038723,320,False,0.4,61.6,59.0,7,J,2,Excellent,3,VVS1,IGI,SLT,EX,EX,round
+28034948,320,False,0.3,61.8,59.0,4,G,2,Excellent,7,SI1,IGI,NN,EX,EX,round
+28034920,320,False,0.3,62.1,57.0,4,G,2,Excellent,7,SI1,IGI,NN,EX,EX,round
+28034947,320,False,0.3,62.3,56.0,4,G,2,Excellent,7,SI1,IGI,NN,EX,EX,round
+28036732,320,False,0.31,60.5,62.0,3,F,2,Excellent,7,SI1,IGI,NN,EX,EX,round
+28037556,320,False,0.4,63.3,56.0,7,J,2,Excellent,6,VS2,IGI,SLT,EX,EX,round
+28043078,320,False,0.32,63.4,56.0,1,D,3,Very Good,8,SI2,GIA,F,VG,GD,round
+28042488,320,False,0.3,58.9,61.0,5,H,2,Excellent,2,IF,IGI,SLT,EX,EX,round
+28042629,320,False,0.3,62.1,58.0,1,D,2,Excellent,7,SI1,IGI,NN,VG,VG,round
+28042626,320,False,0.34,62.3,58.0,1,D,2,Excellent,7,SI1,IGI,S,EX,VG,round
+28619733,320,False,0.3,61.8,60.0,7,J,2,Excellent,4,VVS2,GIA,NN,VG,EX,round
+28938655,320,False,0.32,60.2,61.0,5,H,2,Excellent,4,VVS2,IGI,NN,EX,EX,round
+28729989,320,False,0.3,62.4,56.0,8,K,2,Excellent,6,VS2,GIA,NN,EX,EX,round
+28877734,320,False,0.31,62.5,57.0,7,J,2,Excellent,6,VS2,GIA,NN,EX,EX,round
+28878261,320,False,0.3,62.9,57.0,8,K,2,Excellent,3,VVS1,GIA,F,VG,EX,round
+28854044,320,False,0.3,64.2,59.0,8,K,3,Very Good,5,VS1,GIA,NN,EX,EX,round
+28878162,320,False,0.31,61.4,59.0,8,K,2,Excellent,6,VS2,GIA,F,EX,EX,round
+28892175,320,False,0.3,62.2,57.0,8,K,2,Excellent,6,VS2,GIA,NN,EX,VG,round
+22382182,320,False,0.3,64.5,57.0,1,D,3,Very Good,8,SI2,GIA,NN,GD,GD,round
+26623108,320,False,0.32,62.2,56.0,6,I,2,Excellent,3,VVS1,IGI,NN,EX,EX,round
+27292445,320,False,0.4,64.7,56.0,6,I,3,Very Good,7,SI1,GIA,NN,VG,EX,round
+26261392,320,False,0.41,62.8,60.0,7,J,3,Very Good,8,SI2,GIA,NN,EX,EX,round
+26261393,320,False,0.41,64.1,58.0,7,J,3,Very Good,8,SI2,GIA,NN,EX,EX,round
+28420235,320,False,0.3,62.5,59.0,2,E,3,Very Good,8,SI2,GIA,F,VG,EX,round
+28369107,320,False,0.3,62.9,59.0,6,I,2,Excellent,6,VS2,GIA,M,EX,EX,round
+17487317,330,False,0.35,61.9,55.0,8,K,2,Excellent,7,SI1,GIA,NN,EX,EX,round
+13089466,330,False,0.3,59.6,62.0,8,K,2,Excellent,3,VVS1,GIA,M,EX,EX,round
+13752608,330,False,0.35,62.6,57.0,3,F,2,Excellent,8,SI2,GIA,NN,EX,EX,round
+14033163,330,False,0.4,62.0,55.0,7,J,2,Excellent,8,SI2,GIA,F,EX,EX,round
+14033158,330,False,0.36,62.2,58.0,7,J,2,Excellent,8,SI2,GIA,F,EX,EX,round
+14033154,330,False,0.36,59.8,58.0,7,J,2,Excellent,8,SI2,GIA,F,EX,EX,round
+14033186,330,False,0.41,62.6,56.0,5,H,3,Very Good,9,I1,GIA,F,GD,EX,round
+14119685,330,False,0.37,63.1,57.0,3,F,2,Excellent,8,SI2,GIA,NN,EX,EX,round
+14119665,330,False,0.37,59.6,59.0,6,I,2,Excellent,8,SI2,GIA,F,EX,EX,round
+14119684,330,False,0.37,62.1,58.0,3,F,2,Excellent,8,SI2,GIA,NN,EX,EX,round
+15206326,330,False,0.3,64.4,58.0,7,J,3,Very Good,5,VS1,GIA,F,VG,EX,round
+15971964,330,False,0.35,64.6,60.0,1,D,3,Very Good,9,I1,GIA,M,VG,VG,round
+16606373,330,False,0.3,62.9,57.0,7,J,2,Excellent,7,SI1,GIA,NN,EX,EX,round
+17440974,330,False,0.3,60.1,60.0,6,I,2,Excellent,7,SI1,GIA,F,EX,EX,round
+23102546,330,False,0.34,61.5,57.0,7,J,3,Very Good,8,SI2,GIA,M,EX,GD,round
+12729397,330,False,0.3,62.4,61.0,2,E,3,Very Good,7,SI1,GIA,NN,EX,EX,round
+12729497,330,False,0.32,62.2,58.0,3,F,3,Very Good,7,SI1,GIA,NN,EX,GD,round
+12729507,330,False,0.34,64.1,56.0,5,H,3,Very Good,8,SI2,GIA,F,VG,VG,round
+12138011,330,False,0.3,61.2,58.0,4,G,3,Very Good,8,SI2,GIA,NN,GD,GD,round
+12138048,330,False,0.3,61.5,57.0,5,H,2,Excellent,8,SI2,GIA,F,VG,VG,round
+12138037,330,False,0.31,63.1,58.0,3,F,3,Very Good,8,SI2,GIA,NN,VG,GD,round
+12138091,330,False,0.31,62.7,57.0,5,H,3,Very Good,8,SI2,GIA,F,VG,EX,round
+12138167,330,False,0.31,63.5,57.0,6,I,3,Very Good,7,SI1,GIA,F,VG,GD,round
+12138157,330,False,0.31,61.7,60.0,3,F,3,Very Good,8,SI2,GIA,F,VG,VG,round
+12138182,330,False,0.34,62.5,58.0,7,J,3,Very Good,8,SI2,GIA,F,GD,GD,round
+12138193,330,False,0.31,61.7,58.0,3,F,3,Very Good,8,SI2,GIA,NN,GD,GD,round
+12138223,330,False,0.36,62.8,56.0,6,I,3,Very Good,8,SI2,GIA,F,VG,VG,round
+12149598,330,False,0.31,63.5,56.0,3,F,3,Very Good,8,SI2,GIA,NN,VG,GD,round
+13887879,330,False,0.37,62.1,56.0,3,F,2,Excellent,8,SI2,GIA,NN,EX,EX,round
+13887884,330,False,0.37,60.7,57.0,3,F,2,Excellent,8,SI2,GIA,NN,EX,EX,round
+13887894,330,False,0.38,63.5,57.0,3,F,3,Very Good,8,SI2,GIA,NN,VG,EX,round
+13951407,330,False,0.4,64.1,56.0,4,G,3,Very Good,8,SI2,GIA,F,GD,VG,round
+13951383,330,False,0.4,64.1,59.0,4,G,3,Very Good,9,I1,GIA,F,VG,GD,round
+12567765,330,False,0.3,62.0,59.0,4,G,2,Excellent,7,SI1,GIA,NN,EX,VG,round
+13608520,330,False,0.3,60.6,58.0,8,K,2,Excellent,7,SI1,GIA,NN,EX,VG,round
+14371690,330,False,0.3,62.0,59.0,2,E,3,Very Good,7,SI1,GIA,NN,VG,EX,round
+14371747,330,False,0.35,62.4,57.0,2,E,2,Excellent,8,SI2,GIA,NN,EX,EX,round
+16838981,330,False,0.37,63.1,58.0,6,I,3,Very Good,8,SI2,GIA,F,GD,VG,round
+22334405,330,False,0.3,62.3,58.0,4,G,2,Excellent,8,SI2,GIA,NN,EX,EX,round
+22310574,330,False,0.3,62.1,60.0,7,J,3,Very Good,6,VS2,GIA,NN,EX,EX,round
+22483462,330,False,0.4,63.4,58.0,8,K,2,Excellent,5,VS1,IGI,NN,EX,EX,round
+6881495,330,False,0.32,62.4,58.0,8,K,2,Excellent,4,VVS2,GIA,M,EX,EX,round
+9764344,330,False,0.3,58.7,60.0,8,K,3,Very Good,7,SI1,GIA,NN,VG,EX,round
+11995801,330,False,0.36,61.1,63.0,6,I,3,Very Good,8,SI2,GIA,F,VG,VG,round
+11223121,330,False,0.36,64.2,56.0,6,I,3,Very Good,8,SI2,GIA,F,VG,VG,round
+11223150,330,False,0.37,60.9,55.0,6,I,3,Very Good,8,SI2,GIA,F,VG,VG,round
+11277208,330,False,0.3,62.9,59.0,2,E,3,Very Good,8,SI2,GIA,NN,EX,EX,round
+11277518,330,False,0.33,63.4,57.0,5,H,3,Very Good,8,SI2,GIA,F,VG,EX,round
+11277545,330,False,0.31,60.1,62.0,3,F,3,Very Good,8,SI2,GIA,NN,VG,GD,round
+22310574,330,False,0.3,62.1,60.0,7,J,3,Very Good,6,VS2,GIA,NN,EX,EX,round
+24169957,330,False,0.42,61.3,59.0,8,K,2,Excellent,3,VVS1,IGI,NN,EX,EX,round
+24381200,330,False,0.34,62.3,58.0,7,J,2,Excellent,6,VS2,GIA,F,EX,EX,round
+23102546,330,False,0.34,61.5,57.0,7,J,3,Very Good,8,SI2,GIA,M,EX,GD,round
+23631116,330,False,0.35,63.1,57.0,5,H,2,Excellent,8,SI2,GIA,NN,EX,EX,round
+23631110,330,False,0.3,62.6,57.0,4,G,2,Excellent,8,SI2,GIA,M,EX,EX,round
+25976117,330,False,0.32,62.4,57.0,6,I,2,Excellent,7,SI1,GIA,NN,EX,EX,round
+24456427,330,False,0.43,62.6,58.0,8,K,2,Excellent,3,VVS1,IGI,NN,EX,EX,round
+25640302,330,False,0.48,61.7,58.0,8,K,3,Very Good,5,VS1,IGI,NN,GD,VG,round
+25518045,330,False,0.42,62.6,58.0,7,J,2,Excellent,6,VS2,IGI,SLT,EX,EX,round
+25721894,330,False,0.31,62.9,58.0,6,I,2,Excellent,2,IF,IGI,SLT,EX,EX,round
+25937201,330,False,0.37,61.3,60.0,5,H,2,Excellent,7,SI1,IGI,NN,EX,VG,round
+25937251,330,False,0.36,63.0,57.0,4,G,2,Excellent,7,SI1,IGI,NN,VG,EX,round
+25937276,330,False,0.3,64.9,58.0,3,F,3,Very Good,7,SI1,IGI,NN,VG,VG,round
+25937211,330,False,0.31,64.1,57.0,3,F,3,Very Good,7,SI1,IGI,NN,GD,VG,round
+24901516,330,False,0.46,64.6,57.0,8,K,3,Very Good,6,VS2,GIA,M,VG,EX,round
+24928424,330,False,0.34,63.7,59.0,5,H,3,Very Good,5,VS1,IGI,NN,VG,VG,round
+24993095,330,False,0.35,64.2,58.0,7,J,3,Very Good,4,VVS2,GIA,NN,EX,EX,round
+24993903,330,False,0.34,63.4,58.0,7,J,3,Very Good,3,VVS1,GIA,NN,EX,VG,round
+24994302,330,False,0.42,61.8,59.0,7,J,2,Excellent,7,SI1,GIA,M,EX,EX,round
+24992192,330,False,0.4,61.5,59.0,7,J,2,Excellent,8,SI2,GIA,F,EX,EX,round
+24992600,330,False,0.32,62.8,55.0,8,K,2,Excellent,2,IF,GIA,F,EX,EX,round
+25293180,330,False,0.31,62.1,57.0,2,E,3,Very Good,7,SI1,GIA,NN,EX,EX,round
+22483462,330,False,0.4,63.4,58.0,8,K,2,Excellent,5,VS1,IGI,NN,EX,EX,round
+23683493,330,False,0.37,62.2,55.0,8,K,2,Excellent,8,SI2,GIA,F,EX,EX,round
+23766610,330,False,0.31,61.8,57.0,2,E,2,Excellent,7,SI1,IGI,NN,EX,EX,round
+26084720,330,False,0.3,61.5,59.0,8,K,2,Excellent,6,VS2,GIA,M,EX,EX,round
+27458553,330,False,0.41,62.1,58.0,6,I,2,Excellent,7,SI1,IGI,SLT,EX,EX,round
+27457801,330,False,0.4,61.4,60.0,6,I,2,Excellent,7,SI1,IGI,NN,EX,EX,round
+27463290,330,False,0.35,59.8,57.0,6,I,2,Excellent,4,VVS2,IGI,NN,EX,EX,round
+27519069,330,False,0.34,62.4,57.0,5,H,3,Very Good,6,VS2,IGI,SLT,EX,EX,round
+27383112,330,False,0.3,62.1,55.0,8,K,2,Excellent,5,VS1,GIA,NN,VG,VG,round
+27361889,330,False,0.32,61.1,59.0,4,G,2,Excellent,7,SI1,IGI,NN,EX,EX,round
+27395292,330,False,0.33,62.6,56.0,5,H,2,Excellent,5,VS1,IGI,NN,EX,EX,round
+27430266,330,False,0.4,60.1,58.0,8,K,3,Very Good,3,VVS1,GIA,S,VG,GD,round
+26860657,330,False,0.3,63.2,55.0,2,E,3,Very Good,7,SI1,GIA,NN,EX,EX,round
+26752645,330,False,0.3,64.8,57.0,3,F,3,Very Good,7,SI1,GIA,NN,VG,GD,round
+26623387,330,False,0.34,60.9,58.0,5,H,2,Excellent,5,VS1,IGI,NN,VG,VG,round
+27016077,330,False,0.41,63.2,58.0,7,J,2,Excellent,6,VS2,IGI,NN,EX,EX,round
+27016561,330,False,0.4,61.4,56.0,6,I,2,Excellent,7,SI1,IGI,NN,EX,EX,round
+27016444,330,False,0.35,63.3,55.0,2,E,2,Excellent,7,SI1,IGI,SLT,EX,EX,round
+27016555,330,False,0.4,58.2,62.0,6,I,2,Excellent,7,SI1,IGI,NN,EX,EX,round
+27658928,330,False,0.36,62.9,58.0,7,J,2,Excellent,2,IF,IGI,NN,EX,EX,round
+27661511,330,False,0.34,59.9,59.0,6,I,2,Excellent,4,VVS2,IGI,NN,VG,EX,round
+27689672,330,False,0.42,61.2,58.0,7,J,2,Excellent,7,SI1,IGI,SLT,EX,EX,round
+27689735,330,False,0.3,61.1,58.0,2,E,2,Excellent,7,SI1,IGI,SLT,EX,EX,round
+27689748,330,False,0.34,62.4,56.0,5,H,2,Excellent,7,SI1,IGI,NN,EX,EX,round
+27690091,330,False,0.32,59.0,60.0,3,F,2,Excellent,7,SI1,IGI,NN,EX,EX,round
+27692666,330,False,0.42,63.5,56.0,7,J,2,Excellent,7,SI1,IGI,NN,EX,EX,round
+27692497,330,False,0.35,62.4,57.0,2,E,2,Excellent,7,SI1,IGI,SLT,EX,EX,round
+27707796,330,False,0.3,63.3,55.0,5,H,3,Very Good,4,VVS2,IGI,NN,VG,EX,round
+27707829,330,False,0.4,62.4,57.0,8,K,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+27724600,330,False,0.3,61.8,59.0,8,K,2,Excellent,3,VVS1,GIA,F,EX,EX,round
+28181348,330,False,0.34,62.1,56.0,6,I,2,Excellent,8,SI2,GIA,NN,EX,EX,round
+27943902,330,False,0.3,62.4,62.0,3,F,3,Very Good,8,SI2,GIA,NN,VG,EX,round
+27965218,330,False,0.3,62.4,57.0,7,J,3,Very Good,3,VVS1,GIA,NN,EX,EX,round
+28254968,330,False,0.35,62.5,58.0,7,J,2,Excellent,4,VVS2,GIA,F,EX,EX,round
+28255129,330,False,0.35,61.8,59.0,2,E,2,Excellent,8,SI2,GIA,NN,EX,EX,round
+28349688,330,False,0.3,61.8,58.0,6,I,2,Excellent,6,VS2,GIA,NN,EX,VG,round
+28363851,330,False,0.33,61.5,58.0,7,J,2,Excellent,3,VVS1,GIA,S,EX,EX,round
+28386923,330,False,0.3,61.2,60.0,7,J,2,Excellent,5,VS1,GIA,F,EX,EX,round
+28404063,330,False,0.3,62.3,58.0,7,J,2,Excellent,3,VVS1,GIA,NN,VG,EX,round
+28444923,330,False,0.3,62.0,58.0,8,K,2,Excellent,6,VS2,GIA,NN,EX,EX,round
+28439556,330,False,0.36,60.3,59.0,7,J,2,Excellent,8,SI2,GIA,M,EX,EX,round
+28439656,330,False,0.3,61.2,60.0,7,J,2,Excellent,3,VVS1,GIA,NN,EX,VG,round
+28094377,330,False,0.3,64.4,60.0,5,H,3,Very Good,3,VVS1,IGI,NN,VG,EX,round
+28120484,330,False,0.3,60.0,61.0,7,J,2,Excellent,5,VS1,GIA,NN,VG,EX,round
+28512281,330,False,0.3,62.6,57.0,7,J,2,Excellent,3,VVS1,GIA,NN,VG,EX,round
+28512253,330,False,0.33,61.2,58.0,7,J,2,Excellent,3,VVS1,GIA,S,EX,EX,round
+28512561,330,False,0.31,61.4,59.0,7,J,2,Excellent,4,VVS2,GIA,F,EX,EX,round
+28512347,330,False,0.31,60.5,59.0,8,K,2,Excellent,3,VVS1,GIA,F,EX,EX,round
+28513124,330,False,0.3,61.6,59.0,7,J,2,Excellent,3,VVS1,GIA,NN,VG,EX,round
+28513149,330,False,0.3,62.5,59.0,7,J,2,Excellent,3,VVS1,GIA,NN,VG,EX,round
+28546099,330,False,0.43,62.5,57.0,8,K,2,Excellent,6,VS2,IGI,NN,EX,EX,round
+27835506,330,False,0.34,62.5,58.0,8,K,2,Excellent,7,SI1,GIA,NN,EX,VG,round
+27831028,330,False,0.3,60.5,61.0,1,D,3,Very Good,7,SI1,GIA,NN,GD,VG,round
+27856186,330,False,0.3,62.3,59.0,7,J,2,Excellent,6,VS2,GIA,NN,EX,EX,round
+27899208,330,False,0.3,62.2,57.0,8,K,2,Excellent,3,VVS1,GIA,NN,VG,EX,round
+28041394,330,False,0.4,62.5,56.0,6,I,2,Excellent,7,SI1,IGI,NN,EX,EX,round
+28038642,330,False,0.44,63.0,57.0,8,K,2,Excellent,4,VVS2,IGI,NN,EX,EX,round
+28038804,330,False,0.32,62.6,56.0,4,G,2,Excellent,7,SI1,IGI,NN,EX,EX,round
+28043180,330,False,0.45,61.1,59.0,7,J,2,Excellent,7,SI1,IGI,NN,EX,EX,round
+28043674,330,False,0.34,61.7,58.0,5,H,2,Excellent,6,VS2,IGI,NN,EX,EX,round
+28619725,330,False,0.3,60.8,59.0,2,E,2,Excellent,8,SI2,GIA,M,EX,EX,round
+28619990,330,False,0.3,60.6,61.0,7,J,2,Excellent,3,VVS1,GIA,NN,VG,EX,round
+28702758,330,False,0.3,61.5,57.0,8,K,2,Excellent,3,VVS1,GIA,NN,VG,EX,round
+28817386,330,False,0.3,61.5,54.0,8,K,2,Excellent,6,VS2,GIA,NN,EX,VG,round
+28938657,330,False,0.3,59.7,60.0,5,H,2,Excellent,3,VVS1,IGI,NN,EX,EX,round
+28700741,330,False,0.3,61.9,56.0,6,I,2,Excellent,5,VS1,GIA,F,EX,EX,round
+28700740,330,False,0.31,61.3,58.0,8,K,2,Excellent,4,VVS2,GIA,F,EX,EX,round
+28700759,330,False,0.3,61.0,58.0,6,I,2,Excellent,6,VS2,GIA,NN,VG,EX,round
+28700923,330,False,0.33,61.1,58.0,8,K,2,Excellent,6,VS2,GIA,F,EX,EX,round
+28702648,330,False,0.3,62.3,58.0,8,K,2,Excellent,3,VVS1,GIA,NN,VG,EX,round
+28702688,330,False,0.3,62.2,57.0,2,E,2,Excellent,7,SI1,GIA,NN,EX,EX,round
+28730893,330,False,0.4,63.0,57.0,6,I,2,Excellent,4,VVS2,IGI,NN,EX,EX,round
+28797881,330,False,0.4,63.6,56.0,6,I,2,Excellent,8,SI2,GIA,NN,EX,EX,round
+28640649,330,False,0.4,63.8,59.0,5,H,3,Very Good,7,SI1,GIA,F,VG,EX,round
+28640646,330,False,0.3,59.8,60.0,5,H,2,Excellent,6,VS2,GIA,M,EX,EX,round
+28877631,330,False,0.3,59.1,61.0,8,K,2,Excellent,3,VVS1,GIA,NN,VG,EX,round
+28878068,330,False,0.3,61.5,61.0,7,J,3,Very Good,4,VVS2,GIA,F,VG,EX,round
+28892220,330,False,0.31,62.6,55.0,8,K,2,Excellent,6,VS2,GIA,NN,EX,EX,round
+28892231,330,False,0.31,62.5,56.0,8,K,2,Excellent,6,VS2,GIA,NN,EX,VG,round
+28877631,330,False,0.3,59.1,61.0,8,K,2,Excellent,3,VVS1,GIA,NN,VG,EX,round
+28878068,330,False,0.3,61.5,61.0,7,J,3,Very Good,4,VVS2,GIA,F,VG,EX,round
+28878429,330,False,0.33,62.4,56.0,8,K,2,Excellent,5,VS1,GIA,M,EX,EX,round
+28858158,330,False,0.3,62.9,58.0,6,I,2,Excellent,7,SI1,GIA,NN,EX,EX,round
+28304933,330,False,0.4,61.2,61.0,6,I,3,Very Good,7,SI1,GIA,F,VG,EX,round
+27674302,330,False,0.3,60.7,63.0,1,D,3,Very Good,8,SI2,GIA,NN,GD,VG,round
+27571430,330,False,0.3,61.9,61.0,1,D,3,Very Good,8,SI2,GIA,NN,VG,VG,round
+18904911,340,False,0.3,58.9,59.0,1,D,2,Excellent,9,I1,GIA,NN,EX,EX,round
+18904914,340,False,0.3,62.4,55.0,1,D,2,Excellent,9,I1,GIA,NN,EX,EX,round
+18772102,340,False,0.32,59.5,58.0,2,E,3,Very Good,9,I1,GIA,F,VG,VG,round
+14033128,340,False,0.38,61.7,58.0,3,F,2,Excellent,8,SI2,GIA,NN,EX,EX,round
+14033184,340,False,0.4,63.6,54.0,6,I,3,Very Good,7,SI1,GIA,NN,EX,EX,round
+14164116,340,False,0.36,62.6,58.0,2,E,2,Excellent,9,I1,GIA,M,EX,VG,round
+16493493,340,False,0.33,62.9,56.0,2,E,2,Excellent,8,SI2,GIA,M,EX,EX,round
+19449530,340,False,0.3,63.2,55.0,1,D,3,Very Good,8,SI2,GIA,NN,VG,GD,round
+23375558,340,False,0.33,59.9,60.0,6,I,3,Very Good,8,SI2,GIA,NN,VG,GD,round
+15726324,340,False,0.3,62.1,56.0,1,D,3,Very Good,9,I1,GIA,NN,VG,EX,round
+16210710,340,False,0.3,64.1,58.0,2,E,3,Very Good,8,SI2,GIA,M,VG,GD,round
+12729521,340,False,0.31,62.6,57.0,4,G,2,Excellent,8,SI2,GIA,F,EX,EX,round
+12890153,340,False,0.3,62.4,57.0,8,K,2,Excellent,4,VVS2,GIA,F,EX,EX,round
+12138039,340,False,0.32,63.8,57.0,4,G,3,Very Good,8,SI2,GIA,NN,VG,GD,round
+12138059,340,False,0.31,60.4,59.0,3,F,2,Excellent,8,SI2,GIA,NN,VG,VG,round
+12138070,340,False,0.32,64.3,56.0,5,H,3,Very Good,8,SI2,GIA,NN,GD,VG,round
+12138072,340,False,0.3,61.1,61.0,3,F,2,Excellent,8,SI2,GIA,NN,VG,VG,round
+12138094,340,False,0.3,61.1,60.0,3,F,2,Excellent,8,SI2,GIA,NN,EX,EX,round
+12138144,340,False,0.32,62.4,60.0,3,F,3,Very Good,8,SI2,GIA,F,VG,VG,round
+12138164,340,False,0.31,60.9,61.0,3,F,3,Very Good,8,SI2,GIA,NN,VG,GD,round
+12138160,340,False,0.3,60.5,60.0,3,F,3,Very Good,8,SI2,GIA,NN,VG,VG,round
+12138143,340,False,0.31,60.1,63.0,4,G,3,Very Good,8,SI2,GIA,NN,GD,GD,round
+12103419,340,False,0.3,62.3,58.0,5,H,2,Excellent,8,SI2,GIA,F,EX,EX,round
+12138200,340,False,0.3,59.0,60.0,3,F,3,Very Good,8,SI2,GIA,NN,VG,VG,round
+12138206,340,False,0.3,62.7,57.0,3,F,2,Excellent,8,SI2,GIA,NN,VG,EX,round
+12149605,340,False,0.31,63.1,59.0,4,G,3,Very Good,8,SI2,GIA,NN,VG,GD,round
+13887858,340,False,0.37,58.8,61.0,5,H,2,Excellent,8,SI2,GIA,F,VG,EX,round
+13951427,340,False,0.38,64.0,56.0,5,H,3,Very Good,8,SI2,GIA,F,VG,VG,round
+13951441,340,False,0.4,61.5,57.0,5,H,3,Very Good,8,SI2,GIA,F,GD,VG,round
+13951398,340,False,0.4,63.5,61.0,6,I,3,Very Good,7,SI1,GIA,NN,VG,GD,round
+13887824,340,False,0.42,62.2,56.0,6,I,2,Excellent,8,SI2,GIA,F,EX,EX,round
+13887936,340,False,0.36,62.5,57.0,2,E,2,Excellent,8,SI2,GIA,NN,EX,EX,round
+12567754,340,False,0.3,64.4,57.0,2,E,3,Very Good,7,SI1,GIA,NN,EX,EX,round
+12567776,340,False,0.3,63.9,56.0,4,G,3,Very Good,7,SI1,GIA,NN,VG,EX,round
+21975644,340,False,0.34,62.0,56.0,1,D,3,Very Good,8,SI2,GIA,NN,GD,GD,round
+22334572,340,False,0.3,64.1,62.0,1,D,3,Very Good,7,SI1,GIA,NN,GD,EX,round
+22098931,340,False,0.33,63.0,56.0,2,E,2,Excellent,8,SI2,GIA,NN,EX,EX,round
+22132677,340,False,0.31,62.1,61.0,4,G,3,Very Good,8,SI2,GIA,F,VG,GD,round
+7443722,340,False,0.31,59.2,61.0,2,E,2,Excellent,9,I1,GIA,F,EX,EX,round
+6608991,340,False,0.3,61.9,58.0,8,K,2,Excellent,3,VVS1,GIA,M,EX,EX,round
+9738739,340,False,0.35,60.7,59.0,8,K,2,Excellent,7,SI1,GIA,M,VG,VG,round
+28956748,200,True,0.32,63.1,56.0,1,D,3,Very Good,5,VS1,IGI,NN,GD,VG,round
+28675010,230,True,0.3,60.5,59.0,1,D,1,Ideal,4,VVS2,IGI,NN,EX,VG,round
+24386765,230,True,0.31,60.7,57.0,1,D,1,Ideal,7,SI1,IGI,NN,EX,EX,round
+28565094,230,True,0.31,62.0,58.0,2,E,1,Ideal,6,VS2,IGI,NN,EX,EX,round
+28675039,240,True,0.3,62.2,55.0,1,D,1,Ideal,4,VVS2,IGI,NN,EX,EX,round
+28675054,240,True,0.3,61.3,57.0,1,D,1,Ideal,4,VVS2,IGI,NN,EX,EX,round
+28675052,240,True,0.3,61.8,57.0,1,D,1,Ideal,4,VVS2,IGI,NN,EX,EX,round
+28675029,240,True,0.3,60.8,59.0,1,D,1,Ideal,4,VVS2,IGI,NN,EX,EX,round
+24827023,240,True,0.32,63.1,55.0,1,D,2,Excellent,7,SI1,IGI,NN,EX,EX,round
+28139680,240,True,0.33,61.7,58.0,1,D,1,Ideal,7,SI1,IGI,NN,EX,EX,round
+28625994,240,True,0.32,60.5,58.0,2,E,1,Ideal,6,VS2,IGI,NN,EX,EX,round
+28932382,240,True,0.31,61.3,58.0,2,E,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+28962269,240,True,0.3,60.5,60.0,1,D,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+28962612,240,True,0.31,60.2,59.0,1,D,1,Ideal,6,VS2,IGI,NN,EX,EX,round
+28953345,240,True,0.32,61.3,58.0,2,E,1,Ideal,6,VS2,IGI,NN,EX,EX,round
+28100977,240,True,0.3,60.9,58.0,1,D,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+28675033,250,True,0.31,60.1,58.0,1,D,1,Ideal,4,VVS2,IGI,NN,EX,EX,round
+28675036,250,True,0.31,61.7,57.0,1,D,1,Ideal,4,VVS2,IGI,NN,EX,EX,round
+28675051,250,True,0.31,60.7,58.0,1,D,1,Ideal,4,VVS2,IGI,NN,EX,EX,round
+28675048,250,True,0.32,61.9,55.0,1,D,1,Ideal,4,VVS2,IGI,NN,EX,EX,round
+28675049,250,True,0.31,62.3,54.0,1,D,1,Ideal,4,VVS2,IGI,NN,EX,EX,round
+28675032,250,True,0.32,61.1,56.0,1,D,1,Ideal,4,VVS2,IGI,NN,EX,EX,round
+28675028,250,True,0.31,62.0,57.0,1,D,1,Ideal,4,VVS2,IGI,NN,EX,EX,round
+28675073,250,True,0.32,61.3,58.0,1,D,1,Ideal,4,VVS2,IGI,NN,EX,EX,round
+28406828,250,True,0.3,60.9,57.0,1,D,2,Excellent,4,VVS2,IGI,NN,EX,EX,round
+27587822,250,True,0.33,61.5,59.0,1,D,1,Ideal,6,VS2,IGI,NN,EX,EX,round
+27823410,250,True,0.33,62.5,58.0,1,D,1,Ideal,6,VS2,IGI,NN,EX,EX,round
+27852505,250,True,0.33,60.3,58.0,1,D,1,Ideal,6,VS2,IGI,NN,EX,EX,round
+27852507,250,True,0.33,59.8,58.0,1,D,1,Ideal,6,VS2,IGI,NN,EX,EX,round
+27939649,250,True,0.33,61.8,58.0,1,D,1,Ideal,6,VS2,IGI,NN,EX,EX,round
+28261192,250,True,0.33,62.2,57.0,1,D,1,Ideal,6,VS2,IGI,NN,EX,EX,round
+28146500,250,True,0.34,62.1,58.0,2,E,1,Ideal,6,VS2,IGI,NN,EX,EX,round
+28236032,250,True,0.33,61.7,59.0,1,D,1,Ideal,6,VS2,IGI,NN,EX,EX,round
+28454370,250,True,0.33,61.3,61.0,1,D,1,Ideal,6,VS2,IGI,NN,EX,EX,round
+28454636,250,True,0.32,62.2,57.0,1,D,1,Ideal,6,VS2,IGI,NN,EX,EX,round
+28454711,250,True,0.33,61.3,59.0,1,D,1,Ideal,6,VS2,IGI,NN,EX,EX,round
+28592160,250,True,0.33,61.3,59.0,1,D,1,Ideal,6,VS2,IGI,NN,EX,EX,round
+28592138,250,True,0.33,61.7,59.0,1,D,1,Ideal,6,VS2,IGI,NN,EX,EX,round
+28600465,250,True,0.33,61.3,58.0,1,D,1,Ideal,6,VS2,IGI,NN,EX,EX,round
+28517244,250,True,0.32,59.9,58.0,1,D,1,Ideal,6,VS2,IGI,NN,EX,EX,round
+28517581,250,True,0.32,61.3,57.0,1,D,1,Ideal,6,VS2,IGI,NN,EX,EX,round
+28517579,250,True,0.32,61.4,59.0,1,D,1,Ideal,6,VS2,IGI,NN,EX,EX,round
+28565268,250,True,0.32,62.2,57.0,1,D,1,Ideal,6,VS2,IGI,NN,EX,EX,round
+28810785,250,True,0.33,61.5,57.0,1,D,1,Ideal,6,VS2,IGI,NN,EX,EX,round
+28962620,250,True,0.33,60.3,60.0,1,D,1,Ideal,6,VS2,IGI,NN,EX,EX,round
+28962745,250,True,0.32,61.1,55.0,1,D,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+28962863,250,True,0.31,61.6,57.0,1,D,2,Excellent,5,VS1,IGI,NN,EX,EX,round
+28894717,250,True,0.32,61.2,58.0,1,D,1,Ideal,6,VS2,IGI,NN,EX,EX,round
+28895049,250,True,0.33,61.6,58.0,1,D,1,Ideal,6,VS2,IGI,NN,EX,EX,round
+28064892,250,True,0.35,62.3,59.0,2,E,3,Very Good,4,VVS2,IGI,NN,GD,VG,round
+28675047,260,True,0.34,61.5,57.0,1,D,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+28675068,260,True,0.33,61.3,59.0,1,D,1,Ideal,4,VVS2,IGI,NN,EX,EX,round
+28675069,260,True,0.33,60.2,58.0,1,D,1,Ideal,4,VVS2,IGI,NN,EX,EX,round
+28406543,260,True,0.31,60.9,59.0,1,D,1,Ideal,4,VVS2,IGI,NN,EX,EX,round
+28406740,260,True,0.31,60.5,58.0,1,D,1,Ideal,4,VVS2,IGI,NN,EX,EX,round
+23519040,260,True,0.35,61.3,57.0,2,E,1,Ideal,7,SI1,IGI,NN,EX,EX,round
+23132029,260,True,0.35,60.9,58.0,1,D,1,Ideal,7,SI1,IGI,NN,EX,EX,round
+23159974,260,True,0.35,61.4,57.0,1,D,1,Ideal,7,SI1,IGI,NN,EX,EX,round
+22992086,260,True,0.35,61.1,57.0,1,D,1,Ideal,7,SI1,IGI,NN,EX,EX,round
+23370125,260,True,0.35,60.3,58.0,1,D,1,Ideal,7,SI1,IGI,NN,EX,EX,round
+23385254,260,True,0.35,61.2,57.0,1,D,1,Ideal,7,SI1,IGI,NN,EX,EX,round
+24387397,260,True,0.35,60.8,57.0,1,D,1,Ideal,7,SI1,IGI,NN,EX,EX,round
+25261890,260,True,0.35,60.1,56.0,1,D,1,Ideal,7,SI1,IGI,NN,EX,EX,round
+28139677,260,True,0.35,62.5,58.0,1,D,1,Ideal,7,SI1,IGI,NN,EX,EX,round
+28625821,260,True,0.33,61.8,58.0,3,F,1,Ideal,6,VS2,IGI,NN,EX,EX,round
+28810784,260,True,0.33,61.4,58.0,1,D,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+28962621,260,True,0.33,62.2,58.0,1,D,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+28962795,260,True,0.33,61.4,57.0,1,D,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+28962178,260,True,0.33,62.2,58.0,1,D,2,Excellent,5,VS1,IGI,NN,EX,EX,round
+28932548,260,True,0.33,62.0,57.0,1,D,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+28031266,260,True,0.35,61.3,64.0,2,E,3,Very Good,5,VS1,IGI,NN,GD,VG,round
+26114910,260,True,0.35,59.8,60.0,1,D,2,Excellent,5,VS1,IGI,NN,VG,VG,round
+26560927,260,True,0.36,61.6,58.0,1,D,3,Very Good,4,VVS2,IGI,NN,VG,VG,round
+27555355,260,True,0.32,60.7,58.0,4,G,1,Ideal,4,VVS2,IGI,NN,EX,EX,round
+26285984,260,True,0.35,59.2,64.0,1,D,3,Very Good,4,VVS2,IGI,NN,VG,VG,round
+16195517,270,True,0.39,61.7,57.0,2,E,1,Ideal,7,SI1,IGI,NN,EX,EX,round
+16226806,270,True,0.4,60.5,58.5,1,D,3,Very Good,4,VVS2,IGI,NN,EX,EX,round
+28674531,270,True,0.34,61.5,58.0,1,D,1,Ideal,4,VVS2,IGI,NN,EX,EX,round
+28674533,270,True,0.34,60.7,58.0,1,D,1,Ideal,4,VVS2,IGI,NN,EX,EX,round
+28674542,270,True,0.34,60.1,59.0,1,D,1,Ideal,4,VVS2,IGI,NN,EX,EX,round
+28806022,270,True,0.4,58.1,64.0,1,D,3,Very Good,4,VVS2,IGI,NN,GD,VG,round
+27244135,270,True,0.35,62.2,56.0,1,D,1,Ideal,6,VS2,IGI,NN,EX,EX,round
+28261172,270,True,0.35,62.2,57.0,3,F,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+28261171,270,True,0.35,61.6,58.0,1,D,1,Ideal,6,VS2,IGI,NN,EX,EX,round
+28297559,270,True,0.35,61.7,57.0,1,D,1,Ideal,6,VS2,IGI,NN,EX,EX,round
+27823295,270,True,0.35,61.0,56.0,1,D,1,Ideal,6,VS2,IGI,NN,EX,EX,round
+27893932,270,True,0.35,61.0,57.0,1,D,1,Ideal,6,VS2,IGI,NN,EX,EX,round
+27893930,270,True,0.35,62.1,58.0,1,D,1,Ideal,6,VS2,IGI,NN,EX,EX,round
+28453847,270,True,0.35,61.2,58.0,1,D,1,Ideal,6,VS2,IGI,NN,EX,EX,round
+28101003,270,True,0.35,61.0,58.0,1,D,1,Ideal,6,VS2,IGI,NN,EX,EX,round
+27836689,270,True,0.35,61.4,57.0,1,D,1,Ideal,6,VS2,IGI,NN,EX,EX,round
+27909020,270,True,0.35,60.3,59.0,1,D,1,Ideal,6,VS2,IGI,NN,EX,EX,round
+26889293,270,True,0.36,60.6,60.0,1,D,1,Ideal,5,VS1,IGI,NN,VG,VG,round
+28031270,270,True,0.36,62.9,62.0,1,D,2,Excellent,5,VS1,IGI,NN,VG,VG,round
+26678512,270,True,0.36,59.2,61.0,1,D,2,Excellent,4,VVS2,IGI,NN,VG,VG,round
+26560935,270,True,0.36,60.7,62.0,1,D,3,Very Good,4,VVS2,IGI,NN,VG,EX,round
+26889147,270,True,0.37,61.5,62.0,1,D,3,Very Good,4,VVS2,IGI,NN,VG,VG,round
+26110898,270,True,0.36,60.9,59.0,1,D,2,Excellent,4,VVS2,IGI,NN,VG,VG,round
+27001320,270,True,0.37,61.5,61.0,1,D,3,Very Good,4,VVS2,IGI,NN,GD,VG,round
+16226572,280,True,0.36,60.9,57.0,1,D,1,Ideal,4,VVS2,IGI,NN,EX,EX,round
+16589318,280,True,0.38,59.7,60.5,1,D,2,Excellent,6,VS2,IGI,NN,EX,EX,round
+28674521,280,True,0.35,61.3,57.0,1,D,1,Ideal,4,VVS2,IGI,NN,EX,EX,round
+28674900,280,True,0.35,61.9,56.0,1,D,1,Ideal,4,VVS2,IGI,NN,EX,EX,round
+28674928,280,True,0.35,61.3,60.0,1,D,1,Ideal,4,VVS2,IGI,NN,EX,EX,round
+28674931,280,True,0.36,61.4,57.0,1,D,1,Ideal,4,VVS2,IGI,NN,EX,EX,round
+28674941,280,True,0.36,60.8,58.0,1,D,1,Ideal,4,VVS2,IGI,NN,EX,EX,round
+28674942,280,True,0.36,61.8,55.0,1,D,1,Ideal,4,VVS2,IGI,NN,EX,EX,round
+25157073,280,True,0.38,62.0,53.0,2,E,1,Ideal,6,VS2,IGI,NN,EX,EX,round
+26859935,280,True,0.37,60.2,58.0,1,D,1,Ideal,6,VS2,IGI,NN,EX,EX,round
+28953379,280,True,0.35,61.4,59.0,1,D,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+28894983,280,True,0.35,60.8,58.0,1,D,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+28905303,280,True,0.35,62.8,57.0,1,D,2,Excellent,5,VS1,IGI,NN,EX,EX,round
+28854893,280,True,0.35,61.5,56.0,1,D,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+28854926,280,True,0.35,60.0,59.0,1,D,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+26109166,280,True,0.39,59.8,61.0,2,E,2,Excellent,5,VS1,IGI,NN,VG,VG,round
+26108862,280,True,0.37,60.9,62.0,1,D,2,Excellent,5,VS1,IGI,NN,VG,VG,round
+26110290,280,True,0.37,59.3,55.0,1,D,3,Very Good,5,VS1,IGI,NN,VG,VG,round
+26110357,280,True,0.37,63.1,59.0,1,D,3,Very Good,5,VS1,IGI,NN,EX,VG,round
+26116610,280,True,0.38,59.7,59.0,1,D,2,Excellent,5,VS1,IGI,NN,VG,VG,round
+26111863,280,True,0.38,60.2,60.0,1,D,3,Very Good,5,VS1,IGI,NN,VG,EX,round
+26111862,280,True,0.37,61.8,58.0,1,D,3,Very Good,5,VS1,IGI,NN,VG,VG,round
+26285887,280,True,0.36,62.2,58.0,1,D,1,Ideal,5,VS1,IGI,NN,VG,EX,round
+26678583,280,True,0.37,62.1,60.0,1,D,2,Excellent,5,VS1,IGI,NN,VG,VG,round
+27030253,280,True,0.38,62.8,60.0,1,D,3,Very Good,5,VS1,IGI,NN,VG,VG,round
+26114046,280,True,0.37,61.0,62.0,1,D,2,Excellent,4,VVS2,IGI,NN,VG,VG,round
+26698661,280,True,0.37,61.6,60.0,1,D,3,Very Good,4,VVS2,IGI,NN,EX,VG,round
+26987012,280,True,0.37,60.3,60.0,1,D,1,Ideal,4,VVS2,IGI,NN,VG,VG,round
+27031102,280,True,0.38,62.0,59.0,1,D,3,Very Good,4,VVS2,IGI,NN,GD,VG,round
+27046031,280,True,0.38,62.3,61.0,1,D,3,Very Good,4,VVS2,IGI,NN,VG,VG,round
+26911301,280,True,0.35,59.2,61.0,1,D,2,Excellent,4,VVS2,IGI,NN,EX,VG,round
+26911278,280,True,0.38,62.4,60.0,1,D,3,Very Good,4,VVS2,IGI,NN,VG,VG,round
+24807410,280,True,0.3,59.4,59.0,2,E,2,Excellent,6,VS2,GIA,NN,EX,VG,round
+16037486,290,True,0.42,60.1,59.5,1,D,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+16248240,290,True,0.38,61.7,59.0,2,E,1,Ideal,4,VVS2,IGI,NN,EX,EX,round
+28674845,290,True,0.37,61.0,56.0,1,D,1,Ideal,4,VVS2,IGI,NN,EX,EX,round
+28674850,290,True,0.37,61.4,58.0,1,D,1,Ideal,4,VVS2,IGI,NN,EX,EX,round
+28674855,290,True,0.37,60.2,56.0,1,D,1,Ideal,4,VVS2,IGI,NN,EX,EX,round
+28674934,290,True,0.32,61.4,57.0,1,D,1,Ideal,3,VVS1,IGI,NN,EX,EX,round
+28674673,290,True,0.3,62.1,58.0,3,F,1,Ideal,4,VVS2,IGI,NN,EX,EX,round
+28453961,290,True,0.4,62.1,56.0,3,F,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+21643055,290,True,0.4,62.1,57.0,1,D,1,Ideal,7,SI1,IGI,NN,EX,EX,round
+25157076,290,True,0.4,61.0,55.0,1,D,1,Ideal,7,SI1,IGI,NN,EX,EX,round
+23241066,290,True,0.4,62.5,56.0,1,D,1,Ideal,7,SI1,IGI,NN,EX,EX,round
+23000362,290,True,0.4,61.7,55.0,1,D,1,Ideal,7,SI1,IGI,NN,EX,EX,round
+23011494,290,True,0.4,62.1,58.0,1,D,1,Ideal,7,SI1,IGI,NN,EX,EX,round
+27541565,290,True,0.39,61.5,59.0,1,D,2,Excellent,6,VS2,IGI,NN,EX,EX,round
+26300409,290,True,0.39,61.3,58.0,1,D,1,Ideal,6,VS2,IGI,NN,EX,EX,round
+28610287,290,True,0.38,60.7,60.0,1,D,1,Ideal,6,VS2,IGI,NN,EX,EX,round
+26116644,290,True,0.38,61.7,58.0,2,E,1,Ideal,4,VVS2,IGI,NN,VG,EX,round
+26911280,290,True,0.39,58.9,62.0,1,D,2,Excellent,5,VS1,IGI,NN,VG,VG,round
+26109268,290,True,0.36,61.1,61.0,1,D,3,Very Good,4,VVS2,IGI,NN,EX,EX,round
+26111860,290,True,0.38,62.6,61.0,1,D,2,Excellent,4,VVS2,IGI,NN,VG,VG,round
+27058139,290,True,0.38,61.3,62.0,1,D,2,Excellent,4,VVS2,IGI,NN,VG,VG,round
+26986861,290,True,0.38,59.4,61.0,1,D,2,Excellent,4,VVS2,IGI,NN,VG,VG,round
+16226756,300,True,0.38,61.1,59.5,1,D,1,Ideal,4,VVS2,IGI,NN,EX,EX,round
+16248154,300,True,0.39,62.2,57.5,1,D,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+16589348,300,True,0.39,61.1,57.0,1,D,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+16589287,300,True,0.39,62.4,56.0,1,D,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+16608067,300,True,0.39,61.4,57.0,1,D,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+17027504,300,True,0.39,62.1,56.5,2,E,1,Ideal,4,VVS2,IGI,NN,EX,EX,round
+28956791,300,True,0.47,61.0,61.0,1,D,3,Very Good,4,VVS2,IGI,NN,GD,VG,round
+28674843,300,True,0.38,62.5,55.0,1,D,1,Ideal,4,VVS2,IGI,NN,EX,EX,round
+26943130,300,True,0.39,59.7,59.0,2,E,1,Ideal,4,VVS2,IGI,NN,EX,EX,round
+24827024,300,True,0.41,59.0,59.0,1,D,2,Excellent,7,SI1,IGI,NN,EX,EX,round
+23651931,300,True,0.4,61.3,58.0,2,E,1,Ideal,7,SI1,IGI,NN,EX,EX,round
+28454353,300,True,0.42,60.9,57.0,3,F,1,Ideal,6,VS2,IGI,NN,EX,EX,round
+28453890,300,True,0.41,60.6,57.0,2,E,1,Ideal,6,VS2,IGI,NN,EX,EX,round
+28291114,300,True,0.41,62.0,56.0,2,E,1,Ideal,6,VS2,IGI,NN,EX,EX,round
+28944893,300,True,0.41,61.8,56.0,2,E,1,Ideal,6,VS2,IGI,NN,EX,EX,round
+28962343,300,True,0.4,61.8,61.0,2,E,2,Excellent,5,VS1,IGI,NN,EX,EX,round
+23131662,300,True,0.42,61.3,58.0,1,D,1,Ideal,7,SI1,IGI,NN,EX,EX,round
+23556545,300,True,0.42,61.1,58.0,1,D,1,Ideal,7,SI1,IGI,NN,EX,EX,round
+23491894,300,True,0.41,61.9,59.0,1,D,1,Ideal,7,SI1,IGI,NN,EX,EX,round
+23422094,300,True,0.42,61.4,57.0,1,D,1,Ideal,7,SI1,IGI,NN,EX,EX,round
+25758147,300,True,0.41,60.8,59.0,1,D,1,Ideal,7,SI1,IGI,NN,EX,EX,round
+28592073,300,True,0.4,61.8,57.0,1,D,1,Ideal,6,VS2,IGI,NN,EX,EX,round
+28591894,300,True,0.4,62.0,56.0,1,D,1,Ideal,6,VS2,IGI,NN,EX,EX,round
+28962435,300,True,0.4,60.5,59.0,1,D,1,Ideal,6,VS2,IGI,NN,EX,EX,round
+28811052,300,True,0.4,60.8,57.0,1,D,1,Ideal,6,VS2,IGI,NN,EX,EX,round
+28811258,300,True,0.4,60.4,60.0,1,D,1,Ideal,6,VS2,IGI,NN,EX,EX,round
+28811264,300,True,0.4,61.0,59.0,1,D,1,Ideal,6,VS2,IGI,NN,EX,EX,round
+28728566,300,True,0.4,61.4,57.0,1,D,1,Ideal,6,VS2,IGI,NN,EX,EX,round
+28564552,300,True,0.4,62.1,57.0,1,D,1,Ideal,5,VS1,IGI,NN,EX,VG,round
+28752166,300,True,0.4,61.7,57.0,1,D,1,Ideal,6,VS2,IGI,NN,EX,EX,round
+28064181,300,True,0.38,60.1,60.0,1,D,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+28454332,300,True,0.38,61.1,58.0,1,D,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+28235832,300,True,0.38,63.0,55.0,1,D,2,Excellent,5,VS1,IGI,NN,EX,EX,round
+27002427,300,True,0.38,62.4,60.0,1,D,2,Excellent,5,VS1,IGI,NN,VG,EX,round
+26920661,300,True,0.39,62.2,59.0,1,D,1,Ideal,5,VS1,IGI,NN,EX,VG,round
+26678482,300,True,0.38,57.6,62.0,1,D,2,Excellent,4,VVS2,IGI,NN,EX,VG,round
+26911265,300,True,0.37,61.2,60.0,1,D,3,Very Good,4,VVS2,IGI,NN,EX,EX,round
+24807402,300,True,0.3,62.3,56.0,1,D,2,Excellent,5,VS1,GIA,NN,EX,VG,round
+24826709,300,True,0.3,62.0,58.0,1,D,2,Excellent,5,VS1,GIA,NN,VG,EX,round
+16218452,310,True,0.39,60.3,59.0,1,D,1,Ideal,4,VVS2,IGI,NN,EX,EX,round
+22952268,310,True,0.34,63.0,58.0,1,D,2,Excellent,3,VVS1,IGI,NN,EX,EX,round
+28674413,310,True,0.41,59.5,57.0,1,D,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+28956476,310,True,0.51,61.4,59.0,1,D,3,Very Good,6,VS2,IGI,NN,VG,VG,round
+23849704,310,True,0.43,60.6,57.0,1,D,1,Ideal,6,VS2,IGI,NN,EX,EX,round
+23850035,310,True,0.43,61.1,56.0,1,D,1,Ideal,6,VS2,IGI,NN,EX,EX,round
+23283919,310,True,0.43,60.2,59.0,1,D,1,Ideal,6,VS2,IGI,NN,EX,EX,round
+23741734,310,True,0.43,62.2,58.0,1,D,1,Ideal,6,VS2,IGI,NN,EX,EX,round
+23741828,310,True,0.43,61.1,58.0,1,D,1,Ideal,6,VS2,IGI,NN,EX,EX,round
+23512447,310,True,0.43,61.1,60.0,1,D,1,Ideal,6,VS2,IGI,NN,EX,EX,round
+23511381,310,True,0.43,61.5,57.0,1,D,1,Ideal,6,VS2,IGI,NN,EX,EX,round
+23616946,310,True,0.43,60.8,58.0,1,D,1,Ideal,6,VS2,IGI,NN,EX,EX,round
+23617010,310,True,0.43,62.0,57.0,1,D,1,Ideal,6,VS2,IGI,NN,EX,EX,round
+23617294,310,True,0.42,62.2,56.0,1,D,1,Ideal,6,VS2,IGI,NN,EX,EX,round
+23617229,310,True,0.43,61.0,57.0,1,D,1,Ideal,6,VS2,IGI,NN,EX,EX,round
+28674896,310,True,0.39,61.7,57.0,1,D,1,Ideal,4,VVS2,IGI,NN,EX,EX,round
+28406938,310,True,0.41,61.7,56.0,1,D,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+28406990,310,True,0.41,59.9,59.0,1,D,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+28418792,310,True,0.41,61.1,58.0,1,D,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+28418791,310,True,0.41,61.0,59.0,1,D,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+28674875,310,True,0.34,62.6,57.0,1,D,2,Excellent,3,VVS1,IGI,NN,EX,EX,round
+24827140,310,True,0.42,62.4,57.0,2,E,1,Ideal,7,SI1,IGI,NN,EX,EX,round
+23229410,310,True,0.42,61.8,57.0,2,E,1,Ideal,6,VS2,IGI,NN,EX,EX,round
+23294711,310,True,0.42,60.8,58.0,3,F,1,Ideal,7,SI1,IGI,NN,EX,EX,round
+23316478,310,True,0.42,60.8,58.0,2,E,1,Ideal,6,VS2,IGI,NN,EX,EX,round
+23370271,310,True,0.42,61.7,57.0,2,E,1,Ideal,6,VS2,IGI,NN,EX,EX,round
+23356392,310,True,0.43,62.3,58.0,2,E,1,Ideal,6,VS2,IGI,NN,EX,EX,round
+25184954,310,True,0.42,61.8,52.0,2,E,2,Excellent,6,VS2,IGI,NN,EX,EX,round
+26011526,310,True,0.42,61.4,58.0,2,E,1,Ideal,6,VS2,IGI,NN,EX,EX,round
+24792412,310,True,0.42,59.4,59.0,2,E,1,Ideal,6,VS2,IGI,NN,EX,EX,round
+24943279,310,True,0.43,61.0,57.0,2,E,1,Ideal,6,VS2,IGI,NN,EX,EX,round
+25740459,310,True,0.42,61.2,57.0,2,E,1,Ideal,6,VS2,IGI,NN,EX,EX,round
+25562559,310,True,0.43,60.8,58.0,2,E,1,Ideal,6,VS2,IGI,NN,EX,EX,round
+25562445,310,True,0.43,60.7,57.0,2,E,1,Ideal,6,VS2,IGI,NN,EX,EX,round
+25935242,310,True,0.43,62.4,57.0,2,E,1,Ideal,6,VS2,IGI,NN,EX,EX,round
+23437279,310,True,0.43,61.5,58.0,2,E,1,Ideal,6,VS2,IGI,NN,EX,EX,round
+23492436,310,True,0.43,61.1,58.0,2,E,1,Ideal,6,VS2,IGI,NN,EX,EX,round
+23519077,310,True,0.43,62.1,56.0,2,E,1,Ideal,6,VS2,IGI,NN,EX,EX,round
+25834108,310,True,0.43,60.3,59.0,2,E,1,Ideal,6,VS2,IGI,NN,EX,EX,round
+26439186,310,True,0.43,60.5,59.0,2,E,1,Ideal,6,VS2,IGI,NN,EX,EX,round
+26439077,310,True,0.43,61.2,58.0,2,E,1,Ideal,6,VS2,IGI,NN,EX,EX,round
+26624730,310,True,0.42,61.1,58.0,2,E,1,Ideal,6,VS2,IGI,NN,EX,EX,round
+26810091,310,True,0.42,61.4,57.0,2,E,1,Ideal,6,VS2,IGI,NN,EX,EX,round
+26567444,310,True,0.43,60.6,57.0,2,E,1,Ideal,6,VS2,IGI,NN,EX,EX,round
+26405859,310,True,0.42,62.0,56.0,2,E,1,Ideal,6,VS2,IGI,NN,EX,EX,round
+27643522,310,True,0.43,61.4,58.0,2,E,1,Ideal,6,VS2,IGI,NN,EX,EX,round
+26256572,310,True,0.43,60.2,60.0,2,E,1,Ideal,6,VS2,IGI,NN,EX,EX,round
+26256584,310,True,0.43,61.0,58.0,2,E,1,Ideal,6,VS2,IGI,NN,EX,EX,round
+27071815,310,True,0.43,61.5,58.0,2,E,1,Ideal,6,VS2,IGI,NN,EX,EX,round
+27106789,310,True,0.43,62.1,55.0,2,E,1,Ideal,6,VS2,IGI,NN,EX,EX,round
+26836592,310,True,0.42,60.8,58.0,2,E,1,Ideal,6,VS2,IGI,NN,EX,EX,round
+26966713,310,True,0.43,61.6,56.0,2,E,1,Ideal,6,VS2,IGI,NN,EX,EX,round
+26966760,310,True,0.43,61.1,57.0,2,E,1,Ideal,6,VS2,IGI,NN,EX,EX,round
+26967021,310,True,0.43,61.8,58.0,2,E,1,Ideal,6,VS2,IGI,NN,EX,EX,round
+27198311,310,True,0.43,61.6,57.0,2,E,1,Ideal,6,VS2,IGI,NN,EX,EX,round
+27199288,310,True,0.43,61.9,57.0,2,E,1,Ideal,6,VS2,IGI,NN,EX,EX,round
+27781300,310,True,0.43,61.0,58.0,2,E,1,Ideal,6,VS2,IGI,NN,EX,EX,round
+27781378,310,True,0.43,61.5,56.0,2,E,1,Ideal,6,VS2,IGI,NN,EX,EX,round
+28101213,310,True,0.43,61.3,58.0,2,E,1,Ideal,6,VS2,IGI,NN,EX,EX,round
+28261214,310,True,0.43,61.2,56.0,2,E,1,Ideal,6,VS2,IGI,NN,EX,EX,round
+28250164,310,True,0.43,62.1,57.0,2,E,1,Ideal,6,VS2,IGI,NN,EX,EX,round
+28454329,310,True,0.42,62.0,56.0,2,E,1,Ideal,6,VS2,IGI,NN,EX,EX,round
+28454354,310,True,0.43,60.0,60.0,2,E,1,Ideal,6,VS2,IGI,NN,EX,EX,round
+28047174,310,True,0.43,60.9,59.0,2,E,1,Ideal,6,VS2,IGI,NN,EX,EX,round
+28047110,310,True,0.43,61.1,59.0,2,E,1,Ideal,6,VS2,IGI,NN,EX,EX,round
+28730479,310,True,0.43,62.3,56.0,2,E,1,Ideal,6,VS2,IGI,NN,EX,EX,round
+28653843,310,True,0.43,61.9,56.0,2,E,1,Ideal,6,VS2,IGI,NN,EX,EX,round
+28653881,310,True,0.43,61.1,58.0,2,E,1,Ideal,6,VS2,IGI,NN,EX,EX,round
+28944987,310,True,0.43,62.4,57.0,2,E,1,Ideal,6,VS2,IGI,NN,EX,EX,round
+28600405,310,True,0.41,60.8,58.0,2,E,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+23216008,310,True,0.43,60.4,57.0,1,D,1,Ideal,7,SI1,IGI,NN,EX,EX,round
+25224531,310,True,0.43,62.1,51.0,1,D,3,Very Good,6,VS2,IGI,NN,EX,EX,round
+23437405,310,True,0.43,60.7,59.0,1,D,1,Ideal,7,SI1,IGI,NN,EX,EX,round
+23577683,310,True,0.43,61.1,56.0,1,D,1,Ideal,7,SI1,IGI,NN,EX,EX,round
+27836821,310,True,0.41,60.8,58.0,1,D,1,Ideal,6,VS2,IGI,NN,EX,EX,round
+27781371,310,True,0.41,61.5,58.0,1,D,1,Ideal,6,VS2,IGI,NN,EX,EX,round
+27781405,310,True,0.41,62.5,56.0,1,D,1,Ideal,6,VS2,IGI,NN,EX,EX,round
+28139618,310,True,0.41,60.5,58.0,1,D,1,Ideal,6,VS2,IGI,NN,EX,EX,round
+28433431,310,True,0.41,61.2,58.0,1,D,1,Ideal,6,VS2,IGI,NN,EX,EX,round
+28432812,310,True,0.41,60.8,59.0,1,D,1,Ideal,6,VS2,IGI,NN,EX,EX,round
+28432881,310,True,0.41,61.7,57.0,1,D,1,Ideal,6,VS2,IGI,NN,EX,EX,round
+28453820,310,True,0.41,61.0,58.0,1,D,1,Ideal,6,VS2,IGI,NN,EX,EX,round
+28047101,310,True,0.41,61.9,57.0,1,D,1,Ideal,6,VS2,IGI,NN,EX,EX,round
+28592284,310,True,0.41,61.3,58.0,1,D,1,Ideal,6,VS2,IGI,NN,EX,EX,round
+28517616,310,True,0.41,61.9,57.0,1,D,1,Ideal,6,VS2,IGI,NN,EX,EX,round
+28564700,310,True,0.41,60.5,59.0,1,D,1,Ideal,6,VS2,IGI,NN,EX,EX,round
+28894947,310,True,0.41,61.4,59.0,1,D,1,Ideal,6,VS2,IGI,NN,EX,EX,round
+28895078,310,True,0.41,60.8,60.0,1,D,1,Ideal,6,VS2,IGI,NN,EX,EX,round
+28730524,310,True,0.4,61.4,58.0,1,D,1,Ideal,4,VVS2,IGI,NN,VG,EX,round
+26860195,310,True,0.39,60.6,59.0,1,D,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+27199132,310,True,0.39,60.6,59.0,1,D,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+26914444,310,True,0.39,62.4,58.0,1,D,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+28433229,310,True,0.39,60.1,59.0,1,D,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+24807391,310,True,0.32,60.1,59.0,1,D,2,Excellent,6,VS2,GIA,NN,EX,VG,round
+28956444,320,True,0.49,61.8,63.0,1,D,3,Very Good,5,VS1,IGI,NN,VG,VG,round
+23849280,320,True,0.42,61.4,58.0,1,D,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+23743081,320,True,0.42,61.8,58.0,1,D,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+23742109,320,True,0.42,59.9,59.0,1,D,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+23512733,320,True,0.42,61.1,59.0,1,D,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+23618204,320,True,0.42,62.3,55.0,1,D,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+28674889,320,True,0.35,62.7,57.0,1,D,2,Excellent,3,VVS1,IGI,NN,EX,EX,round
+23422202,320,True,0.43,62.1,58.0,2,E,1,Ideal,7,SI1,IGI,NN,EX,EX,round
+25850506,320,True,0.44,60.7,57.0,2,E,1,Ideal,6,VS2,IGI,NN,EX,EX,round
+28433355,320,True,0.44,62.3,56.0,2,E,1,Ideal,6,VS2,IGI,NN,EX,EX,round
+26438893,320,True,0.43,61.5,58.0,2,E,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+26439196,320,True,0.43,61.2,58.0,2,E,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+26439066,320,True,0.43,61.9,57.0,2,E,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+26439179,320,True,0.43,60.2,59.0,2,E,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+26617467,320,True,0.43,60.9,57.0,2,E,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+26624652,320,True,0.43,61.2,58.0,2,E,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+26624625,320,True,0.43,61.4,58.0,2,E,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+26780712,320,True,0.43,61.7,57.0,2,E,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+26781269,320,True,0.43,61.7,59.0,2,E,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+26548255,320,True,0.43,61.5,57.0,2,E,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+26506673,320,True,0.43,61.6,56.0,2,E,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+26601086,320,True,0.43,62.0,58.0,2,E,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+26601616,320,True,0.43,62.1,56.0,2,E,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+26256600,320,True,0.43,59.6,59.0,2,E,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+26386911,320,True,0.43,61.9,57.0,2,E,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+26386788,320,True,0.43,61.4,58.0,2,E,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+27852226,320,True,0.43,60.8,59.0,2,E,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+27072102,320,True,0.43,61.5,58.0,2,E,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+27129088,320,True,0.43,61.2,58.0,2,E,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+27128975,320,True,0.43,61.0,58.0,2,E,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+27106755,320,True,0.43,61.4,57.0,2,E,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+27115769,320,True,0.43,61.1,58.0,2,E,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+26859780,320,True,0.43,60.5,59.0,2,E,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+26859897,320,True,0.43,61.6,60.0,2,E,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+26836534,320,True,0.43,61.9,58.0,2,E,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+26836375,320,True,0.43,61.2,58.0,2,E,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+26947926,320,True,0.43,62.5,56.0,2,E,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+26966931,320,True,0.43,61.5,58.0,2,E,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+27271699,320,True,0.43,62.3,58.0,2,E,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+26718086,320,True,0.43,61.2,58.0,2,E,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+26757881,320,True,0.43,61.1,57.0,2,E,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+26914457,320,True,0.43,61.5,58.0,2,E,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+27781273,320,True,0.43,61.3,57.0,2,E,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+27762694,320,True,0.43,60.9,58.0,2,E,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+28101212,320,True,0.43,60.5,60.0,2,E,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+28116914,320,True,0.43,60.9,58.0,2,E,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+28260953,320,True,0.43,60.5,59.0,2,E,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+28250138,320,True,0.42,60.4,59.0,2,E,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+28146290,320,True,0.43,61.1,58.0,2,E,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+28454592,320,True,0.42,62.0,57.0,2,E,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+28014372,320,True,0.42,61.1,58.0,2,E,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+28014477,320,True,0.43,61.3,58.0,2,E,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+28517587,320,True,0.43,61.2,59.0,2,E,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+28714008,320,True,0.43,61.4,56.0,2,E,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+28962899,320,True,0.42,60.7,60.0,2,E,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+28634960,320,True,0.43,60.3,60.0,2,E,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+19816639,320,True,0.43,61.0,56.0,1,D,1,Ideal,6,VS2,IGI,NN,EX,EX,round
+20894096,320,True,0.42,61.7,59.0,1,D,1,Ideal,6,VS2,IGI,NN,EX,EX,round
+19222933,320,True,0.44,61.6,57.0,1,D,1,Ideal,7,SI1,IGI,NN,EX,EX,round
+22958046,320,True,0.43,61.8,56.0,1,D,1,Ideal,6,VS2,IGI,NN,EX,EX,round
+22991003,320,True,0.43,59.6,59.0,1,D,1,Ideal,6,VS2,IGI,NN,EX,EX,round
+23229335,320,True,0.43,60.7,60.0,1,D,1,Ideal,6,VS2,IGI,NN,EX,EX,round
+23200130,320,True,0.43,61.5,57.0,1,D,1,Ideal,6,VS2,IGI,NN,EX,EX,round
+24387136,320,True,0.42,61.0,59.0,1,D,1,Ideal,6,VS2,IGI,NN,EX,EX,round
+24586646,320,True,0.42,61.0,57.0,1,D,1,Ideal,6,VS2,IGI,NN,EX,EX,round
+24586696,320,True,0.42,60.7,58.0,1,D,1,Ideal,6,VS2,IGI,NN,EX,EX,round
+23200130,320,True,0.43,61.5,57.0,1,D,1,Ideal,6,VS2,IGI,NN,EX,EX,round
+23280769,320,True,0.42,61.5,56.0,1,D,1,Ideal,6,VS2,IGI,NN,EX,EX,round
+23280781,320,True,0.42,62.0,57.0,1,D,1,Ideal,6,VS2,IGI,NN,EX,EX,round
+23309738,320,True,0.42,61.2,57.0,1,D,1,Ideal,6,VS2,IGI,NN,EX,EX,round
+23309732,320,True,0.42,61.8,56.0,1,D,1,Ideal,6,VS2,IGI,NN,EX,EX,round
+23309742,320,True,0.43,62.6,56.0,1,D,2,Excellent,6,VS2,IGI,NN,EX,EX,round
+23369703,320,True,0.43,61.5,58.0,1,D,1,Ideal,6,VS2,IGI,NN,EX,EX,round
+23338882,320,True,0.42,61.2,58.0,1,D,1,Ideal,6,VS2,IGI,NN,EX,EX,round
+23247037,320,True,0.43,60.7,58.0,1,D,1,Ideal,6,VS2,IGI,NN,EX,EX,round
+23215937,320,True,0.43,61.1,58.0,1,D,1,Ideal,6,VS2,IGI,NN,EX,EX,round
+23556632,320,True,0.42,60.9,58.0,1,D,1,Ideal,6,VS2,IGI,NN,EX,EX,round
+23556635,320,True,0.43,62.1,57.0,1,D,1,Ideal,6,VS2,IGI,NN,EX,EX,round
+23556593,320,True,0.42,61.9,55.0,1,D,1,Ideal,6,VS2,IGI,NN,EX,EX,round
+23583569,320,True,0.43,60.8,57.0,1,D,1,Ideal,6,VS2,IGI,NN,EX,EX,round
+23584085,320,True,0.43,61.6,57.0,1,D,1,Ideal,6,VS2,IGI,NN,EX,EX,round
+23577357,320,True,0.42,61.9,56.0,1,D,1,Ideal,6,VS2,IGI,NN,EX,EX,round
+23574201,320,True,0.42,61.1,56.0,1,D,1,Ideal,6,VS2,IGI,NN,EX,EX,round
+25059560,320,True,0.43,61.4,58.0,1,D,1,Ideal,6,VS2,IGI,NN,EX,EX,round
+25097496,320,True,0.42,61.6,57.0,1,D,1,Ideal,6,VS2,IGI,NN,EX,EX,round
+25184944,320,True,0.43,61.5,53.0,1,D,1,Ideal,6,VS2,IGI,NN,EX,EX,round
+25184956,320,True,0.45,61.5,51.0,1,D,3,Very Good,6,VS2,IGI,NN,EX,EX,round
+23229335,320,True,0.43,60.7,60.0,1,D,1,Ideal,6,VS2,IGI,NN,EX,EX,round
+23519245,320,True,0.43,61.0,57.0,1,D,1,Ideal,6,VS2,IGI,NN,EX,EX,round
+23519285,320,True,0.42,61.1,59.0,1,D,2,Excellent,6,VS2,IGI,NN,EX,EX,round
+23519352,320,True,0.42,62.4,57.0,1,D,1,Ideal,6,VS2,IGI,NN,EX,EX,round
+23519407,320,True,0.42,60.5,58.0,1,D,1,Ideal,6,VS2,IGI,NN,EX,EX,round
+23519378,320,True,0.43,60.7,57.0,1,D,1,Ideal,6,VS2,IGI,NN,EX,EX,round
+23519812,320,True,0.43,61.2,58.0,1,D,1,Ideal,6,VS2,IGI,NN,EX,EX,round
+23419351,320,True,0.43,60.4,59.0,1,D,1,Ideal,6,VS2,IGI,NN,EX,EX,round
+23422304,320,True,0.42,61.4,57.0,1,D,1,Ideal,6,VS2,IGI,NN,EX,EX,round
+25376031,320,True,0.43,60.9,55.0,1,D,1,Ideal,6,VS2,IGI,NN,EX,EX,round
+25991208,320,True,0.42,61.9,58.0,1,D,1,Ideal,6,VS2,IGI,NN,EX,EX,round
+25991261,320,True,0.42,61.3,57.0,1,D,1,Ideal,6,VS2,IGI,NN,EX,EX,round
+25991280,320,True,0.43,61.8,57.0,1,D,1,Ideal,6,VS2,IGI,NN,EX,EX,round
+25991429,320,True,0.42,61.4,59.0,1,D,1,Ideal,6,VS2,IGI,NN,EX,EX,round
+25991443,320,True,0.42,62.4,57.0,1,D,1,Ideal,6,VS2,IGI,NN,EX,EX,round
+25991588,320,True,0.43,61.7,57.0,1,D,1,Ideal,6,VS2,IGI,NN,EX,EX,round
+25965602,320,True,0.42,60.1,59.0,1,D,1,Ideal,6,VS2,IGI,NN,EX,EX,round
+24464783,320,True,0.43,61.4,57.0,1,D,1,Ideal,6,VS2,IGI,NN,EX,EX,round
+24234308,320,True,0.43,61.7,57.0,1,D,1,Ideal,6,VS2,IGI,NN,EX,EX,round
+25462526,320,True,0.42,60.4,56.0,1,D,1,Ideal,6,VS2,IGI,NN,EX,EX,round
+25462518,320,True,0.42,60.8,57.0,1,D,1,Ideal,6,VS2,IGI,NN,EX,EX,round
+25574633,320,True,0.42,61.1,54.0,1,D,1,Ideal,5,VS1,IGI,NN,EX,VG,round
+25606820,320,True,0.42,62.4,58.0,1,D,2,Excellent,6,VS2,IGI,NN,EX,EX,round
+25665971,320,True,0.42,59.7,59.0,1,D,1,Ideal,6,VS2,IGI,NN,EX,EX,round
+25633966,320,True,0.43,61.4,54.0,1,D,1,Ideal,6,VS2,IGI,NN,EX,EX,round
+25734356,320,True,0.42,62.2,55.0,1,D,1,Ideal,6,VS2,IGI,NN,EX,EX,round
+25757193,320,True,0.43,61.0,59.0,1,D,1,Ideal,6,VS2,IGI,NN,EX,EX,round
+25755528,320,True,0.43,60.8,58.0,1,D,1,Ideal,6,VS2,IGI,NN,EX,EX,round
+25686691,320,True,0.43,61.0,54.0,1,D,1,Ideal,6,VS2,IGI,NN,EX,EX,round
+25714319,320,True,0.43,61.1,58.0,1,D,1,Ideal,6,VS2,IGI,NN,EX,EX,round
+25768910,320,True,0.42,61.2,57.0,1,D,1,Ideal,6,VS2,IGI,NN,EX,EX,round
+25787508,320,True,0.43,61.7,53.0,1,D,1,Ideal,6,VS2,IGI,NN,EX,EX,round
+25787504,320,True,0.42,62.2,54.0,1,D,1,Ideal,6,VS2,IGI,NN,EX,EX,round
+25821906,320,True,0.43,61.0,58.0,1,D,1,Ideal,6,VS2,IGI,NN,EX,EX,round
+25821888,320,True,0.43,61.0,58.0,1,D,1,Ideal,6,VS2,IGI,NN,EX,EX,round
+25821997,320,True,0.42,60.7,59.0,1,D,1,Ideal,6,VS2,IGI,NN,EX,EX,round
+25822190,320,True,0.43,61.8,56.0,1,D,1,Ideal,6,VS2,IGI,NN,EX,EX,round
+24830680,320,True,0.42,61.0,59.0,1,D,1,Ideal,6,VS2,IGI,NN,EX,EX,round
+25238361,320,True,0.42,61.6,53.0,1,D,1,Ideal,6,VS2,IGI,NN,EX,EX,round
+22958046,320,True,0.43,61.8,56.0,1,D,1,Ideal,6,VS2,IGI,NN,EX,EX,round
+22991003,320,True,0.43,59.6,59.0,1,D,1,Ideal,6,VS2,IGI,NN,EX,EX,round
+26098544,320,True,0.43,60.2,60.0,1,D,1,Ideal,6,VS2,IGI,NN,EX,EX,round
+26098545,320,True,0.42,61.6,57.0,1,D,1,Ideal,6,VS2,IGI,NN,EX,EX,round
+27243863,320,True,0.43,61.4,57.0,1,D,1,Ideal,6,VS2,IGI,NN,EX,EX,round
+27243873,320,True,0.43,61.2,58.0,1,D,1,Ideal,6,VS2,IGI,NN,EX,EX,round
+27243991,320,True,0.43,61.7,56.0,1,D,1,Ideal,6,VS2,IGI,NN,EX,EX,round
+27244035,320,True,0.42,62.6,57.0,1,D,1,Ideal,6,VS2,IGI,NN,EX,EX,round
+27244158,320,True,0.43,60.9,59.0,1,D,1,Ideal,6,VS2,IGI,NN,EX,EX,round
+27244328,320,True,0.43,61.2,57.0,1,D,1,Ideal,6,VS2,IGI,NN,EX,EX,round
+27272266,320,True,0.42,62.1,57.0,1,D,1,Ideal,6,VS2,IGI,NN,EX,EX,round
+27272461,320,True,0.42,61.2,56.0,1,D,1,Ideal,6,VS2,IGI,NN,EX,EX,round
+27271694,320,True,0.43,61.3,57.0,1,D,1,Ideal,6,VS2,IGI,NN,EX,EX,round
+27271688,320,True,0.42,62.0,56.0,1,D,1,Ideal,6,VS2,IGI,NN,EX,EX,round
+27569194,320,True,0.43,60.8,59.0,1,D,1,Ideal,6,VS2,IGI,NN,EX,EX,round
+27569278,320,True,0.42,60.8,58.0,1,D,1,Ideal,6,VS2,IGI,NN,EX,EX,round
+27569443,320,True,0.43,60.4,60.0,1,D,1,Ideal,6,VS2,IGI,NN,EX,EX,round
+27106917,320,True,0.42,61.5,57.0,1,D,1,Ideal,6,VS2,IGI,NN,EX,EX,round
+27128839,320,True,0.43,60.9,58.0,1,D,1,Ideal,6,VS2,IGI,NN,EX,EX,round
+27128841,320,True,0.43,62.3,57.0,1,D,1,Ideal,6,VS2,IGI,NN,EX,EX,round
+27128966,320,True,0.43,61.1,56.0,1,D,1,Ideal,6,VS2,IGI,NN,EX,EX,round
+27129152,320,True,0.42,60.6,59.0,1,D,1,Ideal,6,VS2,IGI,NN,EX,EX,round
+27116103,320,True,0.43,61.0,58.0,1,D,1,Ideal,6,VS2,IGI,NN,EX,EX,round
+26205346,320,True,0.42,60.7,58.0,1,D,1,Ideal,6,VS2,IGI,NN,EX,EX,round
+26205442,320,True,0.42,61.9,56.0,1,D,1,Ideal,6,VS2,IGI,NN,EX,EX,round
+26256547,320,True,0.42,60.8,59.0,1,D,1,Ideal,6,VS2,IGI,NN,EX,EX,round
+26272960,320,True,0.43,60.8,59.0,1,D,1,Ideal,6,VS2,IGI,NN,EX,EX,round
+26229883,320,True,0.43,61.3,58.0,1,D,1,Ideal,6,VS2,IGI,NN,EX,EX,round
+26300465,320,True,0.42,61.2,58.0,1,D,1,Ideal,6,VS2,IGI,NN,EX,EX,round
+26300434,320,True,0.43,61.2,58.0,1,D,1,Ideal,6,VS2,IGI,NN,EX,EX,round
+26300436,320,True,0.43,61.2,58.0,1,D,1,Ideal,6,VS2,IGI,NN,EX,EX,round
+26300412,320,True,0.43,60.8,57.0,1,D,1,Ideal,6,VS2,IGI,NN,EX,EX,round
+26397855,320,True,0.42,60.9,57.0,1,D,1,Ideal,6,VS2,IGI,NN,EX,EX,round
+26397773,320,True,0.43,61.4,56.0,1,D,1,Ideal,6,VS2,IGI,NN,EX,EX,round
+26386915,320,True,0.43,60.7,58.0,1,D,1,Ideal,6,VS2,IGI,NN,EX,EX,round
+26386644,320,True,0.43,61.0,57.0,1,D,1,Ideal,6,VS2,IGI,NN,EX,EX,round
+26386686,320,True,0.43,61.9,57.0,1,D,1,Ideal,6,VS2,IGI,NN,EX,EX,round
+26386686,320,True,0.43,61.9,57.0,1,D,1,Ideal,6,VS2,IGI,NN,EX,EX,round
+27823322,320,True,0.43,61.3,57.0,1,D,1,Ideal,6,VS2,IGI,NN,EX,EX,round
+27836726,320,True,0.43,61.1,58.0,1,D,1,Ideal,6,VS2,IGI,NN,EX,EX,round
+27128839,320,True,0.43,60.9,58.0,1,D,1,Ideal,6,VS2,IGI,NN,EX,EX,round
+27128841,320,True,0.43,62.3,57.0,1,D,1,Ideal,6,VS2,IGI,NN,EX,EX,round
+27128966,320,True,0.43,61.1,56.0,1,D,1,Ideal,6,VS2,IGI,NN,EX,EX,round
+27129152,320,True,0.42,60.6,59.0,1,D,1,Ideal,6,VS2,IGI,NN,EX,EX,round
+27106917,320,True,0.42,61.5,57.0,1,D,1,Ideal,6,VS2,IGI,NN,EX,EX,round
+27116103,320,True,0.43,61.0,58.0,1,D,1,Ideal,6,VS2,IGI,NN,EX,EX,round
+26859933,320,True,0.42,61.1,57.0,1,D,1,Ideal,6,VS2,IGI,NN,EX,EX,round
+26859898,320,True,0.43,62.0,58.0,1,D,1,Ideal,6,VS2,IGI,NN,EX,EX,round
+26859941,320,True,0.42,61.4,58.0,1,D,1,Ideal,6,VS2,IGI,NN,EX,EX,round
+26822502,320,True,0.43,61.8,56.0,1,D,1,Ideal,6,VS2,IGI,NN,EX,EX,round
+26836401,320,True,0.43,62.0,58.0,1,D,1,Ideal,6,VS2,IGI,NN,EX,EX,round
+26967023,320,True,0.42,60.9,57.0,1,D,1,Ideal,6,VS2,IGI,NN,EX,EX,round
+26967096,320,True,0.42,60.9,58.0,1,D,1,Ideal,6,VS2,IGI,NN,EX,EX,round
+27198000,320,True,0.43,62.2,57.0,1,D,1,Ideal,6,VS2,IGI,NN,EX,EX,round
+27198260,320,True,0.43,61.2,57.0,1,D,1,Ideal,6,VS2,IGI,NN,EX,EX,round
+27198391,320,True,0.42,60.9,58.0,1,D,1,Ideal,6,VS2,IGI,NN,EX,EX,round
+27198393,320,True,0.43,61.6,57.0,1,D,1,Ideal,6,VS2,IGI,NN,EX,EX,round
+27199131,320,True,0.42,61.1,59.0,1,D,1,Ideal,6,VS2,IGI,NN,EX,EX,round
+27272266,320,True,0.42,62.1,57.0,1,D,1,Ideal,6,VS2,IGI,NN,EX,EX,round
+27272461,320,True,0.42,61.2,56.0,1,D,1,Ideal,6,VS2,IGI,NN,EX,EX,round
+27271694,320,True,0.43,61.3,57.0,1,D,1,Ideal,6,VS2,IGI,NN,EX,EX,round
+27271688,320,True,0.42,62.0,56.0,1,D,1,Ideal,6,VS2,IGI,NN,EX,EX,round
+27243863,320,True,0.43,61.4,57.0,1,D,1,Ideal,6,VS2,IGI,NN,EX,EX,round
+27243873,320,True,0.43,61.2,58.0,1,D,1,Ideal,6,VS2,IGI,NN,EX,EX,round
+27243991,320,True,0.43,61.7,56.0,1,D,1,Ideal,6,VS2,IGI,NN,EX,EX,round
+27244035,320,True,0.42,62.6,57.0,1,D,1,Ideal,6,VS2,IGI,NN,EX,EX,round
+27244158,320,True,0.43,60.9,59.0,1,D,1,Ideal,6,VS2,IGI,NN,EX,EX,round
+27244328,320,True,0.43,61.2,57.0,1,D,1,Ideal,6,VS2,IGI,NN,EX,EX,round
+26757732,320,True,0.43,60.7,59.0,1,D,1,Ideal,6,VS2,IGI,NN,EX,EX,round
+26822466,320,True,0.42,60.6,59.0,1,D,1,Ideal,6,VS2,IGI,NN,EX,EX,round
+26822245,320,True,0.43,61.4,57.0,1,D,1,Ideal,6,VS2,IGI,NN,EX,EX,round
+26822339,320,True,0.43,60.4,58.0,1,D,1,Ideal,6,VS2,IGI,NN,EX,EX,round
+26822358,320,True,0.43,61.4,58.0,1,D,1,Ideal,6,VS2,IGI,NN,EX,EX,round
+26822340,320,True,0.42,61.5,57.0,1,D,1,Ideal,6,VS2,IGI,NN,EX,EX,round
+26885946,320,True,0.42,61.7,58.0,1,D,1,Ideal,6,VS2,IGI,NN,EX,EX,round
+26914383,320,True,0.42,61.5,58.0,1,D,1,Ideal,6,VS2,IGI,NN,EX,EX,round
+26914449,320,True,0.43,61.6,58.0,1,D,1,Ideal,6,VS2,IGI,NN,EX,EX,round
+26914456,320,True,0.43,61.4,58.0,1,D,1,Ideal,6,VS2,IGI,NN,EX,EX,round
+27762790,320,True,0.43,60.9,58.0,1,D,1,Ideal,6,VS2,IGI,NN,EX,EX,round
+27762813,320,True,0.43,62.0,56.0,1,D,1,Ideal,6,VS2,IGI,NN,EX,EX,round
+27762745,320,True,0.43,62.1,58.0,1,D,1,Ideal,6,VS2,IGI,NN,EX,EX,round
+27939664,320,True,0.42,60.9,58.0,1,D,1,Ideal,6,VS2,IGI,NN,EX,EX,round
+28101161,320,True,0.42,61.7,56.0,1,D,1,Ideal,6,VS2,IGI,NN,EX,EX,round
+28101215,320,True,0.43,60.7,60.0,1,D,1,Ideal,6,VS2,IGI,NN,EX,EX,round
+28101249,320,True,0.41,60.8,59.0,1,D,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+28249716,320,True,0.41,61.1,58.0,1,D,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+28261452,320,True,0.41,61.4,59.0,1,D,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+28433031,320,True,0.41,61.6,57.0,1,D,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+28432960,320,True,0.42,62.4,57.0,1,D,1,Ideal,6,VS2,IGI,NN,EX,EX,round
+28433223,320,True,0.41,61.3,58.0,1,D,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+28433373,320,True,0.43,60.3,60.0,1,D,1,Ideal,6,VS2,IGI,NN,EX,EX,round
+28444836,320,True,0.42,61.7,57.0,1,D,1,Ideal,6,VS2,IGI,NN,EX,EX,round
+28297358,320,True,0.41,61.7,56.0,1,D,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+28297356,320,True,0.42,61.2,58.0,1,D,1,Ideal,6,VS2,IGI,NN,EX,EX,round
+28297596,320,True,0.41,61.2,58.0,1,D,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+28453833,320,True,0.41,60.9,57.0,1,D,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+28453790,320,True,0.41,61.5,57.0,1,D,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+28453834,320,True,0.41,61.0,59.0,1,D,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+28454102,320,True,0.41,62.0,57.0,1,D,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+28250136,320,True,0.43,61.3,58.0,1,D,1,Ideal,6,VS2,IGI,NN,EX,EX,round
+28261452,320,True,0.41,61.4,59.0,1,D,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+28260969,320,True,0.41,61.3,57.0,1,D,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+28277506,320,True,0.41,61.5,58.0,1,D,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+28249716,320,True,0.41,61.1,58.0,1,D,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+28291034,320,True,0.42,60.9,58.0,1,D,1,Ideal,6,VS2,IGI,NN,EX,EX,round
+27836726,320,True,0.43,61.1,58.0,1,D,1,Ideal,6,VS2,IGI,NN,EX,EX,round
+27823322,320,True,0.43,61.3,57.0,1,D,1,Ideal,6,VS2,IGI,NN,EX,EX,round
+28516853,320,True,0.41,61.6,56.0,1,D,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+28517082,320,True,0.41,61.4,58.0,1,D,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+28517648,320,True,0.41,61.3,57.0,1,D,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+28517371,320,True,0.41,61.2,57.0,1,D,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+27939664,320,True,0.42,60.9,58.0,1,D,1,Ideal,6,VS2,IGI,NN,EX,EX,round
+28047249,320,True,0.42,60.2,60.0,1,D,1,Ideal,6,VS2,IGI,NN,EX,EX,round
+28047182,320,True,0.42,61.5,58.0,1,D,1,Ideal,6,VS2,IGI,NN,EX,EX,round
+28101161,320,True,0.42,61.7,56.0,1,D,1,Ideal,6,VS2,IGI,NN,EX,EX,round
+28101215,320,True,0.43,60.7,60.0,1,D,1,Ideal,6,VS2,IGI,NN,EX,EX,round
+28101249,320,True,0.41,60.8,59.0,1,D,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+28146580,320,True,0.41,60.7,59.0,1,D,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+28146616,320,True,0.41,60.6,58.0,1,D,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+28600436,320,True,0.41,61.3,58.0,1,D,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+28592259,320,True,0.41,62.0,57.0,1,D,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+28592136,320,True,0.4,61.4,57.0,1,D,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+28592349,320,True,0.43,61.3,57.0,1,D,1,Ideal,6,VS2,IGI,NN,EX,EX,round
+28592329,320,True,0.4,60.8,60.0,1,D,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+28592077,320,True,0.4,61.1,58.0,1,D,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+28591932,320,True,0.4,61.6,57.0,1,D,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+28591998,320,True,0.4,62.3,56.0,1,D,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+28592025,320,True,0.41,61.8,57.0,1,D,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+28962443,320,True,0.4,61.4,57.0,1,D,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+28962491,320,True,0.4,61.9,56.0,1,D,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+28962828,320,True,0.41,60.9,58.0,1,D,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+28962913,320,True,0.4,60.7,60.0,1,D,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+28962149,320,True,0.4,60.8,59.0,1,D,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+28810749,320,True,0.43,61.8,57.0,1,D,1,Ideal,6,VS2,IGI,NN,EX,EX,round
+28810991,320,True,0.41,62.2,55.0,1,D,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+28634906,320,True,0.43,60.8,57.0,1,D,1,Ideal,6,VS2,IGI,NN,EX,EX,round
+28730495,320,True,0.4,61.4,60.0,1,D,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+28591932,320,True,0.4,61.6,57.0,1,D,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+28591998,320,True,0.4,62.3,56.0,1,D,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+28592025,320,True,0.41,61.8,57.0,1,D,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+28592259,320,True,0.41,62.0,57.0,1,D,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+28592136,320,True,0.4,61.4,57.0,1,D,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+28592349,320,True,0.43,61.3,57.0,1,D,1,Ideal,6,VS2,IGI,NN,EX,EX,round
+28592329,320,True,0.4,60.8,60.0,1,D,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+28592077,320,True,0.4,61.1,58.0,1,D,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+28730687,320,True,0.4,62.3,57.0,1,D,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+28730692,320,True,0.4,61.0,58.0,1,D,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+28730495,320,True,0.4,61.4,60.0,1,D,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+28653874,320,True,0.41,60.6,59.0,1,D,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+28653890,320,True,0.41,61.1,60.0,1,D,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+28634906,320,True,0.43,60.8,57.0,1,D,1,Ideal,6,VS2,IGI,NN,EX,EX,round
+28681424,320,True,0.41,61.3,58.0,1,D,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+28681536,320,True,0.41,60.6,59.0,1,D,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+28854946,320,True,0.41,61.1,59.0,1,D,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+28854944,320,True,0.41,61.2,58.0,1,D,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+28854917,320,True,0.41,60.8,59.0,1,D,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+28894642,320,True,0.4,63.1,56.0,1,D,2,Excellent,5,VS1,IGI,NN,EX,EX,round
+28894647,320,True,0.4,60.1,60.0,1,D,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+28894582,320,True,0.41,62.2,57.0,1,D,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+28714437,320,True,0.4,61.8,56.0,1,D,1,Ideal,4,VVS2,IGI,NN,EX,EX,round
+28962508,320,True,0.41,61.3,58.0,2,E,1,Ideal,4,VVS2,IGI,NN,EX,EX,round
+28962753,320,True,0.4,61.1,60.0,1,D,1,Ideal,4,VVS2,IGI,NN,EX,EX,round
+28592017,320,True,0.39,60.5,58.0,1,D,1,Ideal,4,VVS2,IGI,NN,EX,EX,round
+24807398,320,True,0.31,61.0,57.0,2,E,2,Excellent,5,VS1,GIA,NN,EX,VG,round
+24827512,320,True,0.31,61.4,58.0,2,E,2,Excellent,5,VS1,GIA,NN,VG,EX,round
+28956792,330,True,0.5,60.6,63.0,1,D,3,Very Good,4,VVS2,IGI,NN,VG,VG,round
+23742209,330,True,0.43,61.1,57.0,1,D,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+23742397,330,True,0.43,60.9,57.0,1,D,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+23742973,330,True,0.43,61.4,56.0,1,D,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+23743128,330,True,0.43,61.0,57.0,1,D,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+23741879,330,True,0.43,61.5,57.0,1,D,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+23741966,330,True,0.43,63.0,57.0,1,D,2,Excellent,5,VS1,IGI,NN,EX,EX,round
+23742073,330,True,0.43,60.6,58.0,1,D,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+23849505,330,True,0.43,60.6,58.0,1,D,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+23849519,330,True,0.43,61.3,56.0,1,D,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+23849664,330,True,0.43,62.1,57.0,1,D,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+23849969,330,True,0.43,60.8,58.0,1,D,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+23618240,330,True,0.43,61.9,56.0,1,D,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+23511987,330,True,0.43,61.1,57.0,1,D,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+23511653,330,True,0.43,60.9,58.0,1,D,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+23512145,330,True,0.43,60.3,59.0,1,D,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+23512540,330,True,0.43,60.4,58.0,1,D,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+23513064,330,True,0.43,61.6,58.0,1,D,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+23513128,330,True,0.43,61.0,59.0,1,D,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+23513227,330,True,0.43,61.4,57.0,1,D,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+23513912,330,True,0.43,61.8,56.0,1,D,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+23513970,330,True,0.43,60.9,58.0,1,D,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+23616788,330,True,0.43,62.1,56.0,1,D,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+23616597,330,True,0.43,61.2,57.0,1,D,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+23617835,330,True,0.43,62.4,58.0,1,D,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+23617334,330,True,0.43,61.8,56.0,1,D,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+23618240,330,True,0.43,61.9,56.0,1,D,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+28675130,330,True,0.4,62.1,58.0,2,E,2,Excellent,3,VVS1,IGI,NN,EX,EX,round
+28674394,330,True,0.37,62.1,56.0,1,D,1,Ideal,3,VVS1,IGI,NN,EX,EX,round
+28674401,330,True,0.36,62.3,59.0,1,D,1,Ideal,3,VVS1,IGI,NN,EX,EX,round
+28674404,330,True,0.37,62.0,56.0,1,D,1,Ideal,3,VVS1,IGI,NN,EX,EX,round
+28674391,330,True,0.37,62.0,57.0,1,D,1,Ideal,3,VVS1,IGI,NN,EX,EX,round
+28674702,330,True,0.36,61.2,57.0,1,D,1,Ideal,3,VVS1,IGI,NN,EX,EX,round
+23294784,330,True,0.45,60.8,57.0,2,E,1,Ideal,7,SI1,IGI,NN,EX,EX,round
+23369485,330,True,0.45,61.0,58.0,2,E,1,Ideal,7,SI1,IGI,NN,EX,EX,round
+25297578,330,True,0.45,61.2,54.0,2,E,1,Ideal,6,VS2,IGI,NN,EX,EX,round
+24386770,330,True,0.45,60.9,58.0,2,E,1,Ideal,6,VS2,IGI,NN,EX,EX,round
+24831292,330,True,0.45,61.0,58.0,2,E,1,Ideal,7,SI1,IGI,NN,EX,EX,round
+25574538,330,True,0.45,60.4,55.0,2,E,1,Ideal,7,SI1,IGI,NN,EX,EX,round
+23492390,330,True,0.45,60.9,59.0,2,E,1,Ideal,7,SI1,IGI,NN,EX,EX,round
+23519068,330,True,0.45,61.5,59.0,2,E,1,Ideal,7,SI1,IGI,NN,EX,EX,round
+25821931,330,True,0.45,62.4,54.0,2,E,1,Ideal,6,VS2,IGI,NN,EX,EX,round
+26780959,330,True,0.45,60.6,58.0,2,E,1,Ideal,6,VS2,IGI,NN,EX,EX,round
+28564847,330,True,0.45,61.8,57.0,2,E,1,Ideal,6,VS2,IGI,NN,EX,EX,round
+28714179,330,True,0.44,61.1,59.0,2,E,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+22990904,330,True,0.45,60.3,59.0,1,D,1,Ideal,7,SI1,IGI,NN,EX,EX,round
+23159923,330,True,0.45,61.2,58.0,1,D,1,Ideal,7,SI1,IGI,NN,EX,EX,round
+25757114,330,True,0.44,61.1,57.0,1,D,1,Ideal,6,VS2,IGI,NN,EX,EX,round
+23385571,330,True,0.45,61.2,59.0,1,D,1,Ideal,7,SI1,IGI,NN,EX,EX,round
+23556144,330,True,0.45,60.5,58.0,1,D,1,Ideal,7,SI1,IGI,NN,EX,EX,round
+23519856,330,True,0.45,61.1,58.0,1,D,1,Ideal,7,SI1,IGI,NN,EX,EX,round
+23573875,330,True,0.45,60.7,57.0,1,D,1,Ideal,7,SI1,IGI,NN,EX,EX,round
+25822289,330,True,0.44,61.2,58.0,1,D,1,Ideal,6,VS2,IGI,NN,EX,EX,round
+27387106,330,True,0.42,60.8,57.0,1,D,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+26601115,330,True,0.42,61.4,57.0,1,D,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+27642802,330,True,0.42,61.8,57.0,1,D,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+27642809,330,True,0.42,60.5,59.0,1,D,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+27643483,330,True,0.42,61.1,57.0,1,D,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+27823317,330,True,0.42,60.3,58.0,1,D,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+27836692,330,True,0.42,60.4,59.0,1,D,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+27199281,330,True,0.42,61.1,58.0,1,D,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+27781335,330,True,0.42,61.5,57.0,1,D,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+27762735,330,True,0.42,61.7,59.0,1,D,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+28101246,330,True,0.42,61.7,57.0,1,D,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+28139668,330,True,0.42,61.1,58.0,1,D,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+28249770,330,True,0.42,60.9,58.0,1,D,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+28261205,330,True,0.42,61.5,56.0,1,D,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+28261129,330,True,0.42,60.4,59.0,1,D,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+28297362,330,True,0.42,61.4,59.0,1,D,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+28236016,330,True,0.42,61.4,57.0,1,D,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+28385572,330,True,0.42,61.2,57.0,1,D,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+28444838,330,True,0.42,61.1,60.0,1,D,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+28433055,330,True,0.42,60.9,58.0,1,D,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+28433160,330,True,0.42,60.4,58.0,1,D,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+28433487,330,True,0.42,61.1,59.0,1,D,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+28432970,330,True,0.42,62.0,57.0,1,D,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+28454549,330,True,0.42,61.9,57.0,1,D,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+28047256,330,True,0.42,60.6,59.0,1,D,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+28032922,330,True,0.42,61.7,58.0,1,D,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+28032705,330,True,0.42,61.6,57.0,1,D,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+28592071,330,True,0.42,61.6,58.0,1,D,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+28600448,330,True,0.42,61.6,58.0,1,D,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+28516746,330,True,0.42,62.2,58.0,1,D,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+28517318,330,True,0.42,62.2,57.0,1,D,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+28564483,330,True,0.42,61.1,59.0,1,D,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+28564524,330,True,0.42,61.6,58.0,1,D,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+28565131,330,True,0.42,60.6,59.0,1,D,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+28565190,330,True,0.42,61.9,58.0,1,D,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+28565266,330,True,0.42,61.8,57.0,1,D,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+28625700,330,True,0.42,61.1,59.0,1,D,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+28713993,330,True,0.42,61.3,58.0,1,D,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+28714050,330,True,0.42,62.2,56.0,1,D,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+28905539,330,True,0.42,61.8,57.0,1,D,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+28932545,330,True,0.42,60.2,61.0,1,D,2,Excellent,5,VS1,IGI,NN,EX,EX,round
+28653847,330,True,0.42,60.4,60.0,1,D,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+28653833,330,True,0.42,61.2,58.0,1,D,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+28653934,330,True,0.42,61.1,58.0,1,D,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+28751978,330,True,0.42,60.6,59.0,1,D,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+28894994,330,True,0.42,61.6,57.0,1,D,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+28945012,330,True,0.42,61.9,56.0,1,D,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+28385428,330,True,0.42,61.1,59.0,2,E,1,Ideal,4,VVS2,IGI,NN,EX,EX,round
+28454356,330,True,0.42,60.3,59.0,2,E,1,Ideal,4,VVS2,IGI,NN,EX,EX,round
+28454568,330,True,0.42,61.5,57.0,2,E,1,Ideal,4,VVS2,IGI,NN,EX,EX,round
+28648583,330,True,0.42,61.7,56.0,2,E,1,Ideal,4,VVS2,IGI,NN,EX,EX,round
+26113965,330,True,0.43,62.4,61.0,1,D,2,Excellent,5,VS1,IGI,NN,VG,EX,round
+26603210,330,True,0.46,60.1,59.0,2,E,3,Very Good,4,VVS2,IGI,NN,VG,VG,round
+26118133,330,True,0.46,63.4,59.0,1,D,3,Very Good,4,VVS2,IGI,NN,VG,VG,round
+26810519,330,True,0.46,62.3,61.0,1,D,3,Very Good,4,VVS2,IGI,NN,VG,VG,round
+27058101,330,True,0.46,61.3,61.0,1,D,3,Very Good,4,VVS2,IGI,NN,VG,VG,round
+24807385,330,True,0.33,61.0,57.0,1,D,2,Excellent,5,VS1,GIA,NN,VG,EX,round
+28674772,340,True,0.43,62.3,57.0,1,D,1,Ideal,4,VVS2,IGI,NN,EX,EX,round
+28956731,340,True,0.49,61.6,63.0,1,D,2,Excellent,5,VS1,IGI,NN,VG,VG,round
+20140345,340,True,0.44,61.6,58.0,1,D,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+23742570,340,True,0.45,61.4,58.0,1,D,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+23742975,340,True,0.44,60.9,60.0,1,D,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+23742277,340,True,0.45,61.2,59.0,1,D,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+23513288,340,True,0.45,62.2,59.0,1,D,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+23616755,340,True,0.45,62.1,58.0,1,D,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+23616775,340,True,0.45,61.4,60.0,1,D,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+28674773,340,True,0.41,61.7,57.0,2,E,1,Ideal,3,VVS1,IGI,NN,EX,EX,round
+23291889,340,True,0.38,60.1,58.0,1,D,1,Ideal,3,VVS1,IGI,NN,EX,EX,round
+23586084,340,True,0.38,62.2,56.0,1,D,1,Ideal,3,VVS1,IGI,NN,EX,EX,round
+28674392,340,True,0.38,61.5,59.0,1,D,1,Ideal,3,VVS1,IGI,NN,EX,EX,round
+28674386,340,True,0.38,61.0,56.0,1,D,1,Ideal,3,VVS1,IGI,NN,EX,EX,round
+28674390,340,True,0.38,62.3,57.0,1,D,1,Ideal,3,VVS1,IGI,NN,EX,EX,round
+28674414,340,True,0.38,60.1,57.0,1,D,1,Ideal,3,VVS1,IGI,NN,EX,EX,round
+25462375,340,True,0.45,60.4,56.0,2,E,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+23519500,340,True,0.45,61.7,59.0,2,E,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+25906002,340,True,0.45,62.3,56.0,2,E,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+23491572,340,True,0.45,61.8,58.0,2,E,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+26836438,340,True,0.45,60.4,59.0,2,E,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+27823227,340,True,0.45,59.1,60.0,2,E,2,Excellent,5,VS1,IGI,NN,EX,EX,round
+28100945,340,True,0.45,60.4,58.0,2,E,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+25493934,340,True,0.45,61.1,57.0,1,D,1,Ideal,6,VS2,IGI,NN,EX,EX,round
+25686558,340,True,0.45,60.7,56.0,1,D,1,Ideal,6,VS2,IGI,NN,EX,EX,round
+25718072,340,True,0.45,60.9,58.0,1,D,1,Ideal,6,VS2,IGI,NN,EX,EX,round
+25548856,340,True,0.45,60.5,54.0,1,D,1,Ideal,6,VS2,IGI,NN,EX,EX,round
+25500180,340,True,0.45,60.8,59.0,1,D,1,Ideal,6,VS2,IGI,NN,EX,EX,round
+25734153,340,True,0.45,60.9,58.0,1,D,1,Ideal,6,VS2,IGI,NN,EX,EX,round
+24158625,340,True,0.45,61.5,58.0,1,D,1,Ideal,6,VS2,IGI,NN,EX,EX,round
+24792408,340,True,0.45,60.8,57.0,1,D,1,Ideal,6,VS2,IGI,NN,EX,EX,round
+25334183,340,True,0.45,60.4,56.0,1,D,1,Ideal,6,VS2,IGI,NN,EX,EX,round
+25376145,340,True,0.45,61.0,55.0,1,D,1,Ideal,6,VS2,IGI,NN,EX,EX,round
+24298331,340,True,0.45,59.7,61.0,1,D,1,Ideal,6,VS2,IGI,NN,EX,EX,round
+24307310,340,True,0.45,61.6,56.0,1,D,1,Ideal,6,VS2,IGI,NN,EX,EX,round
+24739957,340,True,0.45,61.7,55.0,1,D,1,Ideal,6,VS2,IGI,NN,EX,EX,round
+24751276,340,True,0.45,60.9,58.0,1,D,1,Ideal,6,VS2,IGI,NN,EX,EX,round
+24450383,340,True,0.45,60.4,58.0,1,D,1,Ideal,6,VS2,IGI,NN,EX,EX,round
+24450344,340,True,0.45,60.1,59.0,1,D,1,Ideal,6,VS2,IGI,NN,EX,EX,round
+24450325,340,True,0.45,61.3,56.0,1,D,1,Ideal,6,VS2,IGI,NN,EX,EX,round
+24386792,340,True,0.45,61.0,59.0,1,D,1,Ideal,6,VS2,IGI,NN,EX,EX,round
+24387102,340,True,0.45,60.4,59.0,1,D,1,Ideal,6,VS2,IGI,NN,EX,EX,round
+25210555,340,True,0.45,60.8,59.0,1,D,1,Ideal,6,VS2,IGI,NN,EX,EX,round
+25224853,340,True,0.45,61.3,55.0,1,D,1,Ideal,6,VS2,IGI,NN,EX,EX,round
+25157099,340,True,0.45,61.1,55.0,1,D,1,Ideal,6,VS2,IGI,NN,EX,EX,round
+25991642,340,True,0.45,62.3,57.0,1,D,1,Ideal,6,VS2,IGI,NN,EX,EX,round
+26718085,340,True,0.43,60.9,58.0,1,D,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+26718504,340,True,0.43,61.5,56.0,1,D,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+26757171,340,True,0.43,61.8,59.0,1,D,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+26757380,340,True,0.43,61.7,58.0,1,D,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+26757375,340,True,0.43,61.3,59.0,1,D,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+26757779,340,True,0.43,60.5,58.0,1,D,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+26757784,340,True,0.43,61.4,57.0,1,D,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+27072258,340,True,0.43,61.7,58.0,1,D,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+27072294,340,True,0.43,61.4,56.0,1,D,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+27072210,340,True,0.43,61.5,58.0,1,D,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+27072105,340,True,0.45,60.5,60.0,1,D,1,Ideal,6,VS2,IGI,NN,EX,EX,round
+26567446,340,True,0.43,60.3,59.0,1,D,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+26567561,340,True,0.43,61.6,58.0,1,D,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+26567576,340,True,0.43,61.5,58.0,1,D,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+26548480,340,True,0.43,61.6,58.0,1,D,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+26548572,340,True,0.43,60.5,58.0,1,D,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+26506707,340,True,0.43,61.4,57.0,1,D,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+26506949,340,True,0.43,61.2,57.0,1,D,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+26506967,340,True,0.43,61.8,57.0,1,D,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+26506802,340,True,0.43,62.2,56.0,1,D,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+26548259,340,True,0.43,61.5,57.0,1,D,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+26469626,340,True,0.43,61.9,57.0,1,D,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+26469765,340,True,0.43,61.0,57.0,1,D,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+26601518,340,True,0.43,62.0,56.0,1,D,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+26601627,340,True,0.43,62.1,57.0,1,D,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+26601661,340,True,0.43,61.2,58.0,1,D,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+26601113,340,True,0.43,62.4,56.0,1,D,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+26601713,340,True,0.43,60.9,58.0,1,D,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+26617460,340,True,0.43,61.7,55.0,1,D,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+26617465,340,True,0.43,61.4,56.0,1,D,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+26617619,340,True,0.43,61.1,58.0,1,D,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+26487127,340,True,0.43,61.4,58.0,1,D,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+26439145,340,True,0.43,60.7,59.0,1,D,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+26439003,340,True,0.43,61.3,59.0,1,D,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+26617843,340,True,0.43,61.3,57.0,1,D,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+26617842,340,True,0.43,61.0,58.0,1,D,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+26822407,340,True,0.43,61.6,58.0,1,D,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+26822437,340,True,0.43,61.6,57.0,1,D,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+26822562,340,True,0.43,60.8,60.0,1,D,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+26822479,340,True,0.43,61.1,57.0,1,D,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+26822576,340,True,0.43,61.4,58.0,1,D,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+26822332,340,True,0.43,60.4,59.0,1,D,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+26822337,340,True,0.43,60.8,59.0,1,D,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+26822408,340,True,0.43,60.6,59.0,1,D,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+26822214,340,True,0.43,59.4,60.0,1,D,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+26822203,340,True,0.43,61.2,57.0,1,D,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+26822216,340,True,0.43,61.9,57.0,1,D,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+26822206,340,True,0.43,61.6,57.0,1,D,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+26822241,340,True,0.43,60.9,58.0,1,D,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+26914424,340,True,0.43,61.4,57.0,1,D,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+26914464,340,True,0.43,60.5,59.0,1,D,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+26914386,340,True,0.43,61.6,57.0,1,D,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+26914446,340,True,0.45,61.8,56.0,1,D,2,Excellent,6,VS2,IGI,NN,EX,EX,round
+26885891,340,True,0.43,61.6,58.0,1,D,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+26885978,340,True,0.43,61.0,58.0,1,D,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+26886201,340,True,0.43,61.6,56.0,1,D,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+26886229,340,True,0.43,62.0,58.0,1,D,2,Excellent,5,VS1,IGI,NN,EX,EX,round
+26886385,340,True,0.43,61.6,58.0,1,D,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+26886387,340,True,0.43,60.9,59.0,1,D,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+27106818,340,True,0.43,61.7,57.0,1,D,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+27128766,340,True,0.43,61.7,58.0,1,D,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+27129081,340,True,0.43,60.9,60.0,1,D,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+27115798,340,True,0.43,61.2,58.0,1,D,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+27115808,340,True,0.43,61.0,58.0,1,D,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+27116096,340,True,0.43,61.6,56.0,1,D,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+27116146,340,True,0.43,61.6,57.0,1,D,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+27096946,340,True,0.43,61.6,58.0,1,D,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+27097188,340,True,0.43,62.0,57.0,1,D,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+27198004,340,True,0.43,62.4,56.0,1,D,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+27198001,340,True,0.43,61.5,59.0,1,D,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+27198258,340,True,0.43,61.2,58.0,1,D,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+27198140,340,True,0.43,61.2,59.0,1,D,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+27198231,340,True,0.43,61.5,58.0,1,D,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+27198118,340,True,0.43,62.0,56.0,1,D,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+27198257,340,True,0.43,61.2,58.0,1,D,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+27198278,340,True,0.43,61.0,60.0,1,D,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+27198283,340,True,0.43,62.4,55.0,1,D,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+27198522,340,True,0.43,61.1,59.0,1,D,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+27198657,340,True,0.43,60.6,59.0,1,D,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+27198652,340,True,0.43,61.4,57.0,1,D,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+27199317,340,True,0.43,61.8,55.0,1,D,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+27333808,340,True,0.43,61.9,56.0,1,D,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+27432745,340,True,0.43,61.0,58.0,1,D,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+27510759,340,True,0.43,61.6,56.0,1,D,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+27555320,340,True,0.43,61.3,58.0,1,D,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+27555370,340,True,0.43,61.1,58.0,1,D,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+27555493,340,True,0.43,62.1,56.0,1,D,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+27555496,340,True,0.43,61.5,56.0,1,D,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+27555479,340,True,0.43,61.5,56.0,1,D,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+27588031,340,True,0.43,60.6,58.0,1,D,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+27587815,340,True,0.43,61.4,57.0,1,D,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+27587633,340,True,0.43,61.6,58.0,1,D,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+26273272,340,True,0.43,61.3,57.0,1,D,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+26319900,340,True,0.43,61.6,57.0,1,D,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+26300651,340,True,0.43,60.9,58.0,1,D,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+26204822,340,True,0.43,62.1,57.0,1,D,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+26205121,340,True,0.43,62.6,57.0,1,D,2,Excellent,5,VS1,IGI,NN,EX,EX,round
+26205363,340,True,0.43,60.8,58.0,1,D,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+26229729,340,True,0.43,61.8,58.0,1,D,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+26256553,340,True,0.43,60.8,58.0,1,D,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+26256576,340,True,0.43,60.8,58.0,1,D,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+26256591,340,True,0.43,61.5,58.0,1,D,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+26397889,340,True,0.43,60.6,58.0,1,D,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+26397867,340,True,0.43,60.1,61.0,1,D,2,Excellent,5,VS1,IGI,NN,EX,EX,round
+26439204,340,True,0.43,60.8,57.0,1,D,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+26438899,340,True,0.43,60.6,59.0,1,D,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+26405863,340,True,0.43,60.0,58.0,1,D,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+26405891,340,True,0.43,59.9,57.0,1,D,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+26407873,340,True,0.43,61.1,59.0,1,D,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+26386642,340,True,0.43,61.2,58.0,1,D,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+26386781,340,True,0.43,61.7,58.0,1,D,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+26386790,340,True,0.43,62.0,57.0,1,D,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+26386784,340,True,0.43,61.6,56.0,1,D,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+26624728,340,True,0.43,61.7,57.0,1,D,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+26624546,340,True,0.43,61.6,58.0,1,D,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+26624583,340,True,0.43,61.2,58.0,1,D,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+26836373,340,True,0.43,61.8,58.0,1,D,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+26836439,340,True,0.43,61.5,57.0,1,D,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+26836406,340,True,0.43,61.7,56.0,1,D,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+26948017,340,True,0.43,61.8,57.0,1,D,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+26948124,340,True,0.43,61.9,57.0,1,D,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+26948130,340,True,0.43,60.8,59.0,1,D,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+26966645,340,True,0.43,61.1,58.0,1,D,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+26967086,340,True,0.43,61.1,58.0,1,D,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+27005018,340,True,0.43,61.2,59.0,1,D,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+27198004,340,True,0.43,62.4,56.0,1,D,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+27198001,340,True,0.43,61.5,59.0,1,D,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+27198258,340,True,0.43,61.2,58.0,1,D,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+27198140,340,True,0.43,61.2,59.0,1,D,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+27198231,340,True,0.43,61.5,58.0,1,D,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+27198118,340,True,0.43,62.0,56.0,1,D,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+27198257,340,True,0.43,61.2,58.0,1,D,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+27198278,340,True,0.43,61.0,60.0,1,D,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+27198283,340,True,0.43,62.4,55.0,1,D,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+27198522,340,True,0.43,61.1,59.0,1,D,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+27198657,340,True,0.43,60.6,59.0,1,D,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+27198652,340,True,0.43,61.4,57.0,1,D,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+27199317,340,True,0.43,61.8,55.0,1,D,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+27272379,340,True,0.43,60.5,58.0,1,D,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+27272420,340,True,0.43,61.6,57.0,1,D,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+27271696,340,True,0.43,60.6,57.0,1,D,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+27243860,340,True,0.43,61.5,57.0,1,D,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+27244039,340,True,0.43,61.1,56.0,1,D,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+27245060,340,True,0.43,60.2,59.0,1,D,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+27245064,340,True,0.43,60.9,59.0,1,D,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+26718085,340,True,0.43,60.9,58.0,1,D,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+26718504,340,True,0.43,61.5,56.0,1,D,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+26757171,340,True,0.43,61.8,59.0,1,D,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+26757380,340,True,0.43,61.7,58.0,1,D,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+26757375,340,True,0.43,61.3,59.0,1,D,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+26757779,340,True,0.43,60.5,58.0,1,D,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+26757784,340,True,0.43,61.4,57.0,1,D,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+26822407,340,True,0.43,61.6,58.0,1,D,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+26822437,340,True,0.43,61.6,57.0,1,D,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+26822562,340,True,0.43,60.8,60.0,1,D,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+26822479,340,True,0.43,61.1,57.0,1,D,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+26822576,340,True,0.43,61.4,58.0,1,D,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+26822332,340,True,0.43,60.4,59.0,1,D,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+26822337,340,True,0.43,60.8,59.0,1,D,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+26822408,340,True,0.43,60.6,59.0,1,D,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+26885891,340,True,0.43,61.6,58.0,1,D,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+26885978,340,True,0.43,61.0,58.0,1,D,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+26886201,340,True,0.43,61.6,56.0,1,D,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+26886229,340,True,0.43,62.0,58.0,1,D,2,Excellent,5,VS1,IGI,NN,EX,EX,round
+26886385,340,True,0.43,61.6,58.0,1,D,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+26886387,340,True,0.43,60.9,59.0,1,D,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+27762713,340,True,0.43,61.1,59.0,1,D,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+27762797,340,True,0.43,62.0,57.0,1,D,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+27762724,340,True,0.43,61.6,57.0,1,D,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+28032636,340,True,0.43,61.2,58.0,1,D,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+28032730,340,True,0.43,61.6,56.0,1,D,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+28064063,340,True,0.43,61.2,57.0,1,D,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+28139783,340,True,0.45,61.6,57.0,1,D,1,Ideal,6,VS2,IGI,NN,EX,EX,round
+28139704,340,True,0.43,61.2,58.0,1,D,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+28385470,340,True,0.43,61.3,57.0,1,D,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+28385238,340,True,0.43,61.5,58.0,1,D,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+28385873,340,True,0.43,62.3,57.0,1,D,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+28432823,340,True,0.43,61.9,58.0,1,D,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+28433064,340,True,0.43,62.2,57.0,1,D,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+28433470,340,True,0.43,62.1,57.0,1,D,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+28433516,340,True,0.43,61.2,57.0,1,D,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+28433510,340,True,0.45,61.1,59.0,1,D,1,Ideal,6,VS2,IGI,NN,EX,EX,round
+28453883,340,True,0.43,61.8,58.0,1,D,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+28454227,340,True,0.43,61.3,57.0,1,D,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+28454559,340,True,0.45,60.6,58.0,1,D,1,Ideal,6,VS2,IGI,NN,EX,EX,round
+28454716,340,True,0.46,62.3,57.0,1,D,1,Ideal,6,VS2,IGI,NN,EX,EX,round
+28454674,340,True,0.43,60.9,58.0,1,D,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+28250165,340,True,0.43,60.5,59.0,1,D,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+28270325,340,True,0.43,61.7,57.0,1,D,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+28249815,340,True,0.43,61.7,58.0,1,D,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+27823393,340,True,0.43,61.3,57.0,1,D,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+27823413,340,True,0.43,61.3,57.0,1,D,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+27823290,340,True,0.43,60.8,60.0,1,D,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+27823348,340,True,0.43,61.6,56.0,1,D,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+27823347,340,True,0.43,61.3,56.0,1,D,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+27823291,340,True,0.43,60.6,57.0,1,D,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+28517666,340,True,0.43,61.0,58.0,1,D,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+28517366,340,True,0.43,60.6,59.0,1,D,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+27939532,340,True,0.43,61.4,58.0,1,D,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+27939534,340,True,0.43,60.9,58.0,1,D,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+28047255,340,True,0.43,60.9,59.0,1,D,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+28047248,340,True,0.43,60.8,57.0,1,D,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+28047061,340,True,0.43,61.5,58.0,1,D,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+28047141,340,True,0.43,61.7,57.0,1,D,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+28047064,340,True,0.43,61.3,59.0,1,D,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+28047203,340,True,0.43,61.2,58.0,1,D,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+28014364,340,True,0.43,60.9,59.0,1,D,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+28014572,340,True,0.43,60.8,56.0,1,D,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+28100981,340,True,0.43,61.3,58.0,1,D,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+28101252,340,True,0.43,61.6,57.0,1,D,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+28146208,340,True,0.43,61.0,58.0,1,D,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+28600413,340,True,0.45,61.4,57.0,1,D,1,Ideal,6,VS2,IGI,NN,EX,EX,round
+28962432,340,True,0.43,61.6,57.0,1,D,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+28811140,340,True,0.43,61.1,58.0,1,D,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+28728740,340,True,0.45,62.2,57.0,1,D,1,Ideal,6,VS2,IGI,NN,EX,EX,round
+28730693,340,True,0.43,61.5,57.0,1,D,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+28610314,340,True,0.43,61.2,59.0,1,D,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+28730693,340,True,0.43,61.5,57.0,1,D,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+28728740,340,True,0.45,62.2,57.0,1,D,1,Ideal,6,VS2,IGI,NN,EX,EX,round
+28653841,340,True,0.43,61.5,58.0,1,D,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+28654079,340,True,0.43,61.9,56.0,1,D,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+28895094,340,True,0.43,62.1,57.0,1,D,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+27097774,340,True,0.43,61.8,54.0,2,E,1,Ideal,4,VVS2,IGI,NN,EX,EX,round
+27198012,340,True,0.43,61.3,58.0,2,E,1,Ideal,4,VVS2,IGI,NN,EX,EX,round
+27198659,340,True,0.43,61.5,58.0,2,E,1,Ideal,4,VVS2,IGI,NN,EX,EX,round
+27643252,340,True,0.43,60.3,59.0,2,E,1,Ideal,4,VVS2,IGI,NN,EX,EX,round
+28297410,340,True,0.43,61.9,57.0,2,E,1,Ideal,4,VVS2,IGI,NN,EX,EX,round
+28386166,340,True,0.42,60.7,58.0,1,D,1,Ideal,4,VVS2,IGI,NN,EX,EX,round
+28101000,340,True,0.43,61.2,58.0,2,E,1,Ideal,4,VVS2,IGI,NN,EX,EX,round
+28516964,340,True,0.43,61.3,57.0,2,E,1,Ideal,4,VVS2,IGI,NN,EX,EX,round
+28014371,340,True,0.44,60.8,59.0,2,E,1,Ideal,4,VVS2,IGI,NN,EX,EX,round
+28564730,340,True,0.43,61.5,57.0,2,E,1,Ideal,4,VVS2,IGI,NN,EX,EX,round
+28810869,340,True,0.42,60.8,58.0,1,D,1,Ideal,4,VVS2,IGI,NN,EX,EX,round
+28811257,340,True,0.42,60.4,59.0,1,D,1,Ideal,4,VVS2,IGI,NN,EX,EX,round
+28945010,340,True,0.42,61.4,57.0,1,D,1,Ideal,4,VVS2,IGI,NN,EX,EX,round
+28962393,340,True,0.42,60.7,58.0,1,D,1,Ideal,4,VVS2,IGI,NN,EX,EX,round
+28962829,340,True,0.42,61.7,58.0,1,D,1,Ideal,4,VVS2,IGI,NN,EX,EX,round
+28932424,340,True,0.42,61.8,59.0,1,D,1,Ideal,4,VVS2,IGI,NN,EX,EX,round
+28730497,340,True,0.42,61.6,56.0,1,D,1,Ideal,4,VVS2,IGI,NN,EX,EX,round
+28728671,340,True,0.43,61.9,56.0,2,E,1,Ideal,4,VVS2,IGI,NN,EX,EX,round
+28681402,340,True,0.42,61.6,56.0,1,D,1,Ideal,4,VVS2,IGI,NN,EX,EX,round
+26111778,340,True,0.46,61.0,63.0,2,E,3,Very Good,5,VS1,IGI,NN,VG,EX,round
+26111786,340,True,0.46,62.0,59.0,2,E,3,Very Good,5,VS1,IGI,NN,VG,VG,round
+24807383,340,True,0.34,60.7,56.0,2,E,2,Excellent,5,VS1,GIA,NN,EX,VG,round
+28674786,350,True,0.44,61.8,58.0,1,D,1,Ideal,4,VVS2,IGI,NN,EX,EX,round
+25568260,350,True,0.39,60.1,58.0,1,D,1,Ideal,3,VVS1,IGI,NN,EX,EX,round
+24175256,350,True,0.39,60.5,58.0,1,D,1,Ideal,3,VVS1,IGI,NN,EX,EX,round
+24189839,350,True,0.39,59.4,59.0,1,D,1,Ideal,3,VVS1,IGI,NN,EX,EX,round
+27170907,350,True,0.39,60.5,57.0,1,D,1,Ideal,3,VVS1,IGI,NN,EX,EX,round
+28674424,350,True,0.39,61.7,56.0,1,D,1,Ideal,3,VVS1,IGI,NN,EX,EX,round
+28674429,350,True,0.39,62.1,57.0,1,D,1,Ideal,3,VVS1,IGI,NN,EX,EX,round
+28674835,350,True,0.35,60.6,56.0,2,E,1,Ideal,3,VVS1,IGI,NN,EX,EX,round
+27612846,350,True,0.31,60.2,58.0,2,E,1,Ideal,2,IF,IGI,NN,EX,EX,round
+28261020,350,True,0.46,61.8,57.0,2,E,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+28146605,350,True,0.46,61.5,58.0,2,E,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+27071929,350,True,0.44,61.6,59.0,1,D,2,Excellent,5,VS1,IGI,NN,EX,EX,round
+27198011,350,True,0.44,61.1,57.0,1,D,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+27511104,350,True,0.44,61.5,57.0,1,D,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+28235672,350,True,0.44,62.6,57.0,1,D,2,Excellent,5,VS1,IGI,NN,EX,EX,round
+28433136,350,True,0.44,62.1,58.0,1,D,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+28139670,350,True,0.44,61.9,58.0,1,D,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+28014204,350,True,0.44,61.3,58.0,1,D,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+28564729,350,True,0.44,63.3,57.0,1,D,2,Excellent,5,VS1,IGI,NN,EX,EX,round
+28752227,350,True,0.44,61.3,58.0,1,D,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+28854945,350,True,0.44,60.4,59.0,1,D,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+26757106,350,True,0.43,61.9,56.0,1,D,1,Ideal,4,VVS2,IGI,NN,EX,EX,round
+26757178,350,True,0.43,61.7,57.0,1,D,1,Ideal,4,VVS2,IGI,NN,EX,EX,round
+26757181,350,True,0.43,62.1,56.0,1,D,1,Ideal,4,VVS2,IGI,NN,EX,EX,round
+27072010,350,True,0.43,61.8,58.0,1,D,1,Ideal,4,VVS2,IGI,NN,EX,EX,round
+27071983,350,True,0.43,60.6,59.0,1,D,1,Ideal,4,VVS2,IGI,NN,EX,EX,round
+26506843,350,True,0.43,61.8,56.0,1,D,1,Ideal,4,VVS2,IGI,NN,EX,EX,round
+26469528,350,True,0.43,61.9,58.0,1,D,1,Ideal,4,VVS2,IGI,NN,EX,EX,round
+26601723,350,True,0.43,62.0,58.0,1,D,2,Excellent,4,VVS2,IGI,NN,EX,EX,round
+26487178,350,True,0.43,61.1,59.0,1,D,1,Ideal,4,VVS2,IGI,NN,EX,EX,round
+26438903,350,True,0.43,61.9,56.0,1,D,1,Ideal,4,VVS2,IGI,NN,EX,EX,round
+26822213,350,True,0.43,62.4,56.0,1,D,1,Ideal,4,VVS2,IGI,NN,EX,EX,round
+26914342,350,True,0.43,60.1,59.0,1,D,1,Ideal,4,VVS2,IGI,NN,EX,EX,round
+26914396,350,True,0.43,62.0,57.0,1,D,1,Ideal,4,VVS2,IGI,NN,EX,EX,round
+26886170,350,True,0.43,61.3,59.0,1,D,1,Ideal,4,VVS2,IGI,NN,EX,EX,round
+27106758,350,True,0.43,61.8,56.0,1,D,1,Ideal,4,VVS2,IGI,NN,EX,EX,round
+27128821,350,True,0.43,61.2,58.0,1,D,1,Ideal,4,VVS2,IGI,NN,EX,EX,round
+27128917,350,True,0.43,61.7,58.0,1,D,1,Ideal,4,VVS2,IGI,NN,EX,EX,round
+27129102,350,True,0.43,61.8,57.0,1,D,1,Ideal,4,VVS2,IGI,NN,EX,EX,round
+27115811,350,True,0.43,61.6,57.0,1,D,1,Ideal,4,VVS2,IGI,NN,EX,EX,round
+27116065,350,True,0.43,61.9,58.0,1,D,1,Ideal,4,VVS2,IGI,NN,EX,EX,round
+27097423,350,True,0.43,61.2,58.0,1,D,1,Ideal,4,VVS2,IGI,NN,EX,EX,round
+27198280,350,True,0.43,61.9,57.0,1,D,1,Ideal,4,VVS2,IGI,NN,EX,EX,round
+27198458,350,True,0.43,61.5,58.0,1,D,1,Ideal,4,VVS2,IGI,NN,EX,EX,round
+27198516,350,True,0.43,61.7,58.0,1,D,1,Ideal,4,VVS2,IGI,NN,EX,EX,round
+27198581,350,True,0.43,60.4,59.0,1,D,1,Ideal,4,VVS2,IGI,NN,EX,EX,round
+27198999,350,True,0.43,61.0,57.0,1,D,1,Ideal,4,VVS2,IGI,NN,EX,EX,round
+27199122,350,True,0.43,61.2,58.0,1,D,1,Ideal,4,VVS2,IGI,NN,EX,EX,round
+27199182,350,True,0.43,61.5,57.0,1,D,1,Ideal,4,VVS2,IGI,NN,EX,EX,round
+27199283,350,True,0.43,60.5,60.0,1,D,1,Ideal,4,VVS2,IGI,NN,EX,EX,round
+27390531,350,True,0.43,62.1,59.0,1,D,1,Ideal,4,VVS2,IGI,NN,EX,EX,round
+27555573,350,True,0.43,60.7,59.0,1,D,1,Ideal,4,VVS2,IGI,NN,EX,EX,round
+26624763,350,True,0.43,61.6,57.0,1,D,1,Ideal,4,VVS2,IGI,NN,EX,EX,round
+26628047,350,True,0.43,61.7,58.0,1,D,1,Ideal,4,VVS2,IGI,NN,EX,EX,round
+27243862,350,True,0.43,61.6,57.0,1,D,1,Ideal,4,VVS2,IGI,NN,EX,EX,round
+27244095,350,True,0.43,62.1,57.0,1,D,1,Ideal,4,VVS2,IGI,NN,EX,EX,round
+27244327,350,True,0.43,60.9,58.0,1,D,1,Ideal,4,VVS2,IGI,NN,EX,EX,round
+27244234,350,True,0.43,61.2,59.0,1,D,1,Ideal,4,VVS2,IGI,NN,EX,EX,round
+27272263,350,True,0.43,61.8,57.0,1,D,1,Ideal,4,VVS2,IGI,NN,EX,EX,round
+27271693,350,True,0.43,61.5,57.0,1,D,1,Ideal,4,VVS2,IGI,NN,EX,EX,round
+27271819,350,True,0.43,61.7,57.0,1,D,1,Ideal,4,VVS2,IGI,NN,EX,EX,round
+27272136,350,True,0.43,61.6,59.0,1,D,1,Ideal,4,VVS2,IGI,NN,EX,EX,round
+27272215,350,True,0.43,62.2,56.0,1,D,1,Ideal,4,VVS2,IGI,NN,EX,EX,round
+26780794,350,True,0.43,61.7,56.0,1,D,1,Ideal,4,VVS2,IGI,NN,EX,EX,round
+26810005,350,True,0.43,61.8,59.0,1,D,1,Ideal,4,VVS2,IGI,NN,EX,EX,round
+26859835,350,True,0.43,61.9,57.0,1,D,1,Ideal,4,VVS2,IGI,NN,EX,EX,round
+26860046,350,True,0.43,61.1,58.0,1,D,1,Ideal,4,VVS2,IGI,NN,EX,EX,round
+26859888,350,True,0.43,62.2,57.0,1,D,1,Ideal,4,VVS2,IGI,NN,EX,EX,round
+26859950,350,True,0.43,61.9,57.0,1,D,1,Ideal,4,VVS2,IGI,NN,EX,EX,round
+26948127,350,True,0.43,61.3,58.0,1,D,1,Ideal,4,VVS2,IGI,NN,EX,EX,round
+26948129,350,True,0.43,61.0,57.0,1,D,1,Ideal,4,VVS2,IGI,NN,EX,EX,round
+26948229,350,True,0.43,61.1,59.0,1,D,1,Ideal,4,VVS2,IGI,NN,EX,EX,round
+26886170,350,True,0.43,61.3,59.0,1,D,1,Ideal,4,VVS2,IGI,NN,EX,EX,round
+26914342,350,True,0.43,60.1,59.0,1,D,1,Ideal,4,VVS2,IGI,NN,EX,EX,round
+26914396,350,True,0.43,62.0,57.0,1,D,1,Ideal,4,VVS2,IGI,NN,EX,EX,round
+28116926,350,True,0.43,60.9,58.0,1,D,1,Ideal,4,VVS2,IGI,NN,EX,EX,round
+28117056,350,True,0.43,61.0,57.0,1,D,1,Ideal,4,VVS2,IGI,NN,EX,EX,round
+28261159,350,True,0.43,61.5,59.0,1,D,1,Ideal,4,VVS2,IGI,NN,EX,EX,round
+28270603,350,True,0.43,61.0,59.0,1,D,1,Ideal,4,VVS2,IGI,NN,EX,EX,round
+28064217,350,True,0.43,61.0,58.0,1,D,1,Ideal,4,VVS2,IGI,NN,EX,EX,round
+28146539,350,True,0.45,61.0,60.0,2,E,1,Ideal,4,VVS2,IGI,NN,EX,EX,round
+28385222,350,True,0.43,61.7,58.0,1,D,1,Ideal,4,VVS2,IGI,NN,EX,EX,round
+28454483,350,True,0.43,61.1,59.0,1,D,1,Ideal,4,VVS2,IGI,NN,EX,EX,round
+28454521,350,True,0.43,61.7,60.0,1,D,1,Ideal,4,VVS2,IGI,NN,EX,EX,round
+28454554,350,True,0.43,60.8,58.0,1,D,1,Ideal,4,VVS2,IGI,NN,EX,EX,round
+28014735,350,True,0.43,61.4,59.0,1,D,2,Excellent,4,VVS2,IGI,NN,EX,EX,round
+28014726,350,True,0.43,61.5,58.0,1,D,1,Ideal,4,VVS2,IGI,NN,EX,EX,round
+28032813,350,True,0.43,61.8,56.0,1,D,1,Ideal,4,VVS2,IGI,NN,EX,EX,round
+28014264,350,True,0.43,61.5,58.0,1,D,1,Ideal,4,VVS2,IGI,NN,EX,EX,round
+28592155,350,True,0.43,60.7,59.0,1,D,1,Ideal,4,VVS2,IGI,NN,EX,EX,round
+28516881,350,True,0.43,60.9,58.0,1,D,1,Ideal,4,VVS2,IGI,NN,EX,EX,round
+28564768,350,True,0.43,61.3,57.0,1,D,1,Ideal,4,VVS2,IGI,NN,EX,EX,round
+28810751,350,True,0.43,61.5,57.0,1,D,1,Ideal,4,VVS2,IGI,NN,EX,EX,round
+28714053,350,True,0.43,61.3,57.0,1,D,1,Ideal,4,VVS2,IGI,NN,EX,EX,round
+28713792,350,True,0.43,60.9,58.0,1,D,1,Ideal,4,VVS2,IGI,NN,EX,EX,round
+28681576,350,True,0.43,61.3,58.0,1,D,1,Ideal,4,VVS2,IGI,NN,EX,EX,round
+28894641,350,True,0.43,61.0,59.0,1,D,1,Ideal,4,VVS2,IGI,NN,EX,EX,round
+28895100,350,True,0.43,61.0,59.0,1,D,1,Ideal,4,VVS2,IGI,NN,EX,EX,round
+28944947,350,True,0.43,62.3,55.0,1,D,1,Ideal,4,VVS2,IGI,NN,EX,EX,round
+26109107,350,True,0.45,57.6,59.0,1,D,3,Very Good,5,VS1,IGI,NN,VG,VG,round
+26782523,350,True,0.45,60.4,58.0,1,D,2,Excellent,5,VS1,IGI,NN,VG,VG,round
+26118135,350,True,0.46,60.4,58.0,1,D,3,Very Good,4,VVS2,IGI,NN,EX,VG,round
+26729018,350,True,0.49,61.9,58.0,1,D,3,Very Good,4,VVS2,IGI,NN,VG,VG,round
+26889404,350,True,0.46,61.0,59.0,1,D,2,Excellent,4,VVS2,IGI,NN,VG,VG,round
+28674780,360,True,0.43,62.2,58.0,2,E,1,Ideal,3,VVS1,IGI,NN,EX,EX,round
+23159873,360,True,0.45,61.6,56.0,1,D,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+23241099,360,True,0.45,61.9,58.0,1,D,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+23241216,360,True,0.45,60.7,57.0,1,D,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+23280329,360,True,0.45,61.5,55.0,1,D,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+23280565,360,True,0.45,60.7,57.0,1,D,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+23280617,360,True,0.45,61.2,58.0,1,D,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+23294820,360,True,0.45,60.9,56.0,1,D,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+23294789,360,True,0.45,62.2,55.0,1,D,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+23309602,360,True,0.45,60.4,59.0,1,D,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+23309836,360,True,0.45,61.0,59.0,1,D,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+23316612,360,True,0.45,62.4,56.0,1,D,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+23316902,360,True,0.45,61.0,59.0,1,D,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+23317056,360,True,0.45,61.2,56.0,1,D,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+23338729,360,True,0.45,62.6,57.0,1,D,2,Excellent,5,VS1,IGI,NN,EX,EX,round
+23338852,360,True,0.45,61.2,59.0,1,D,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+23247043,360,True,0.45,61.8,60.0,1,D,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+23247167,360,True,0.45,61.0,59.0,1,D,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+23247184,360,True,0.45,61.5,59.0,1,D,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+23370055,360,True,0.45,61.6,56.0,1,D,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+23369807,360,True,0.45,61.3,58.0,1,D,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+23369759,360,True,0.45,61.7,57.0,1,D,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+23369746,360,True,0.45,61.2,57.0,1,D,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+23369981,360,True,0.45,62.3,56.0,1,D,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+24158652,360,True,0.45,61.3,57.0,1,D,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+24158806,360,True,0.45,61.1,57.0,1,D,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+24184633,360,True,0.45,61.1,56.0,1,D,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+24346482,360,True,0.45,61.4,57.0,1,D,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+24233526,360,True,0.45,60.6,58.0,1,D,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+24233669,360,True,0.45,61.8,55.0,1,D,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+24233518,360,True,0.45,61.0,58.0,1,D,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+24233901,360,True,0.45,60.8,58.0,1,D,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+24298476,360,True,0.45,61.6,57.0,1,D,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+24298080,360,True,0.45,61.7,56.0,1,D,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+24751307,360,True,0.45,60.9,59.0,1,D,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+24751765,360,True,0.45,61.4,56.0,1,D,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+24739971,360,True,0.45,61.5,57.0,1,D,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+24216442,360,True,0.45,61.4,58.0,1,D,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+24233174,360,True,0.45,61.3,57.0,1,D,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+25184877,360,True,0.45,61.1,55.0,1,D,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+25184929,360,True,0.45,61.3,55.0,1,D,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+25147376,360,True,0.45,61.6,57.0,1,D,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+25157243,360,True,0.45,60.4,55.0,1,D,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+25157098,360,True,0.45,60.9,54.0,1,D,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+25147359,360,True,0.45,61.1,54.0,1,D,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+25147945,360,True,0.45,61.6,55.0,1,D,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+25147731,360,True,0.45,60.8,59.0,1,D,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+25147876,360,True,0.45,60.6,56.0,1,D,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+25297911,360,True,0.45,61.2,59.0,1,D,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+25276913,360,True,0.45,61.6,52.0,1,D,2,Excellent,5,VS1,IGI,NN,EX,EX,round
+25462392,360,True,0.45,60.9,55.0,1,D,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+25462517,360,True,0.45,61.3,58.0,1,D,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+24586664,360,True,0.45,60.9,56.0,1,D,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+24586685,360,True,0.45,61.0,55.0,1,D,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+24386763,360,True,0.45,61.1,56.0,1,D,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+24386740,360,True,0.45,61.1,57.0,1,D,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+24387396,360,True,0.45,60.8,57.0,1,D,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+25991404,360,True,0.45,61.7,57.0,1,D,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+24853153,360,True,0.45,61.1,58.0,1,D,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+24853457,360,True,0.45,61.2,56.0,1,D,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+24943280,360,True,0.45,61.2,57.0,1,D,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+25334180,360,True,0.45,61.0,57.0,1,D,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+25365566,360,True,0.45,62.1,54.0,1,D,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+25375960,360,True,0.45,61.4,55.0,1,D,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+25375936,360,True,0.45,61.2,55.0,1,D,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+25210692,360,True,0.45,60.5,56.0,1,D,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+25210093,360,True,0.45,61.1,57.0,1,D,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+25261683,360,True,0.45,61.6,54.0,1,D,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+25607026,360,True,0.45,61.1,55.0,1,D,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+25606895,360,True,0.45,61.5,56.0,1,D,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+25606725,360,True,0.45,61.0,55.0,1,D,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+25714485,360,True,0.45,61.6,57.0,1,D,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+25714486,360,True,0.45,61.1,59.0,1,D,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+25734026,360,True,0.45,61.1,58.0,1,D,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+25563002,360,True,0.45,60.7,56.0,1,D,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+25562614,360,True,0.45,62.8,54.0,1,D,2,Excellent,5,VS1,IGI,NN,EX,EX,round
+25604231,360,True,0.45,61.6,58.0,1,D,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+25493891,360,True,0.45,61.3,57.0,1,D,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+25674282,360,True,0.45,60.8,59.0,1,D,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+25666198,360,True,0.45,61.1,58.0,1,D,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+25787503,360,True,0.45,62.3,55.0,1,D,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+25787658,360,True,0.45,61.3,54.0,1,D,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+25757141,360,True,0.45,62.4,58.0,1,D,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+25935243,360,True,0.45,61.7,61.0,1,D,2,Excellent,5,VS1,IGI,NN,EX,EX,round
+23556435,360,True,0.45,61.3,58.0,1,D,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+23556681,360,True,0.45,62.3,57.0,1,D,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+23556640,360,True,0.45,61.1,59.0,1,D,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+23556599,360,True,0.45,61.3,58.0,1,D,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+23555687,360,True,0.45,62.6,55.0,1,D,2,Excellent,5,VS1,IGI,NN,EX,EX,round
+23556398,360,True,0.45,61.4,58.0,1,D,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+23555896,360,True,0.45,61.6,58.0,1,D,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+23555657,360,True,0.45,60.7,58.0,1,D,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+23491375,360,True,0.45,60.8,58.0,1,D,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+23491874,360,True,0.45,62.1,58.0,1,D,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+23491760,360,True,0.45,61.4,57.0,1,D,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+23491791,360,True,0.45,61.9,56.0,1,D,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+23491236,360,True,0.45,61.3,57.0,1,D,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+23492154,360,True,0.45,61.6,60.0,1,D,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+23519238,360,True,0.45,61.0,58.0,1,D,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+23519289,360,True,0.45,62.2,58.0,1,D,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+23519339,360,True,0.45,60.8,59.0,1,D,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+23519397,360,True,0.45,61.8,57.0,1,D,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+23519463,360,True,0.45,61.6,55.0,1,D,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+23519363,360,True,0.45,61.7,56.0,1,D,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+23519503,360,True,0.45,61.1,55.0,1,D,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+23519511,360,True,0.45,61.7,56.0,1,D,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+23519834,360,True,0.45,62.0,56.0,1,D,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+23519814,360,True,0.45,62.5,56.0,1,D,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+23519713,360,True,0.45,61.5,59.0,1,D,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+23419307,360,True,0.45,61.5,60.0,1,D,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+23419365,360,True,0.45,61.7,55.0,1,D,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+23422201,360,True,0.45,62.2,57.0,1,D,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+23422104,360,True,0.45,62.3,59.0,1,D,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+23421850,360,True,0.45,61.9,59.0,1,D,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+23539808,360,True,0.45,61.2,57.0,1,D,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+23584020,360,True,0.45,62.2,56.0,1,D,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+23583180,360,True,0.45,61.4,57.0,1,D,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+23582887,360,True,0.45,61.5,57.0,1,D,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+25147945,360,True,0.45,61.6,55.0,1,D,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+25147731,360,True,0.45,60.8,59.0,1,D,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+25147376,360,True,0.45,61.6,57.0,1,D,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+25147876,360,True,0.45,60.6,56.0,1,D,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+25276913,360,True,0.45,61.6,52.0,1,D,2,Excellent,5,VS1,IGI,NN,EX,EX,round
+25297911,360,True,0.45,61.2,59.0,1,D,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+25991404,360,True,0.45,61.7,57.0,1,D,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+25935243,360,True,0.45,61.7,61.0,1,D,2,Excellent,5,VS1,IGI,NN,EX,EX,round
+26506853,360,True,0.45,62.2,56.0,1,D,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+26914406,360,True,0.45,62.0,56.0,1,D,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+27097134,360,True,0.45,61.3,58.0,1,D,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+27198357,360,True,0.45,62.2,56.0,1,D,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+27303147,360,True,0.45,60.8,58.0,1,D,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+26810177,360,True,0.45,61.8,59.0,1,D,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+26948207,360,True,0.45,60.5,60.0,1,D,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+28249820,360,True,0.45,61.8,58.0,1,D,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+28249736,360,True,0.45,61.2,59.0,1,D,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+28249732,360,True,0.45,60.4,59.0,1,D,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+28385139,360,True,0.45,61.2,58.0,1,D,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+28385971,360,True,0.48,61.4,57.0,1,D,1,Ideal,6,VS2,IGI,NN,EX,EX,round
+28433124,360,True,0.46,60.6,59.0,1,D,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+28516835,360,True,0.45,62.5,57.0,1,D,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+28564426,360,True,0.48,61.2,59.0,1,D,1,Ideal,6,VS2,IGI,NN,EX,EX,round
+28564666,360,True,0.45,61.5,58.0,1,D,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+28565279,360,True,0.45,60.0,60.0,1,D,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+28714270,360,True,0.45,60.4,59.0,1,D,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+28810752,360,True,0.45,60.8,58.0,1,D,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+28962761,360,True,0.45,62.0,57.0,1,D,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+28932426,360,True,0.45,61.2,57.0,1,D,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+28953374,360,True,0.45,60.9,59.0,1,D,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+28592210,360,True,0.45,62.3,57.0,1,D,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+28592121,360,True,0.45,61.0,59.0,1,D,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+28730682,360,True,0.45,61.8,58.0,1,D,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+28730680,360,True,0.45,60.6,58.0,1,D,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+28728683,360,True,0.45,61.0,57.0,1,D,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+28728685,360,True,0.46,60.7,58.0,1,D,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+28728888,360,True,0.45,61.7,55.0,1,D,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+28752164,360,True,0.45,61.2,58.0,1,D,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+28752162,360,True,0.45,60.8,59.0,1,D,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+28654085,360,True,0.45,61.5,57.0,1,D,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+28681375,360,True,0.45,59.8,57.0,1,D,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+28648687,360,True,0.45,61.6,57.0,1,D,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+28854939,360,True,0.45,61.5,57.0,1,D,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+28905485,360,True,0.45,61.5,58.0,1,D,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+28895050,360,True,0.45,61.1,60.0,1,D,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+28894570,360,True,0.45,61.9,57.0,1,D,1,Ideal,5,VS1,IGI,NN,EX,EX,round
+25633988,360,True,0.45,62.2,56.0,1,D,1,Ideal,4,VVS2,IGI,NN,EX,EX,round
+25574536,360,True,0.45,62.5,54.0,1,D,1,Ideal,4,VVS2,IGI,NN,EX,EX,round
+25850877,360,True,0.45,62.0,58.0,1,D,1,Ideal,4,VVS2,IGI,NN,EX,EX,round
+25965062,360,True,0.45,62.1,58.0,1,D,1,Ideal,4,VVS2,IGI,NN,EX,EX,round
