@@ -17,14 +17,15 @@ HEADERS = {
 
 QUERY = "query ($currency: currencies, $isOnSale: Boolean, $sort: sortBy, $lab: [Int] , $price: intRange, $page: pager, $depth: floatRange, $ratio: floatRange, $carat: floatRange, $tableSize: floatRange, $color: intRange, $cut: intRange, $shapeID: [Int], $clarity: intRange, $shippingDays: Int, $isExpressShipping: Boolean, $addBannerPlaceholder: Boolean, $colorIntensityID: [Int]\n    $isFancy: Boolean, $isLabDiamond: Boolean, $polish: [Int], $symmetry: [Int], $flour: [Int], $fancyColorID: Int, $supplierID: Int) {\n    searchByIDs(currency : $currency ,lab: $lab ,isOnSale: $isOnSale, sort: $sort, price: $price, page: $page, depth: $depth, ratio: $ratio, carat: $carat, tableSize: $tableSize, color: $color, cut: $cut, shapeID: $shapeID, clarity: $clarity, shippingDays: $shippingDays, isExpressShipping: $isExpressShipping, addBannerPlaceholder: $addBannerPlaceholder, colorIntensityID: $colorIntensityID, isFancy: $isFancy, isLabDiamond: $isLabDiamond, polish: $polish, symmetry:$symmetry, flour: $flour, fancyColorID: $fancyColorID, supplierID: $supplierID) {\n      hits\n      pageNumber\n      numberOfPages\n      total\n      items {\n        \n    productID\n    sku\n    price\n    stone {\n      isLabDiamond\n      carat\n      depth\n      tableSize\n      shape { id name }\n      color { id name }\n      cut { id name }\n      clarity { id name }\n      lab { id name }\n      flour { id name }\n      symmetry { id name }\n      polish { id name }\n    }\n    \n      }\n    }\n  }\n  "
 
-def build_payload(page_number, is_lab):
+# Scrape a specific carat range to get coverage across the full price distribution
+def build_payload(page_number, is_lab, carat_min, carat_max):
     return {
         "query": QUERY,
         "variables": {
             "price": {"from": 200, "to": 5000000},
             "page": {"count": 4, "size": 50, "number": page_number},
             "depth": {"from": 46, "to": 78},
-            "carat": {"from": 0.3, "to": 30},
+            "carat": {"from": carat_min, "to": carat_max},
             "tableSize": {"from": 50, "to": 80},
             "color": {"from": 1, "to": 10},
             "cut": {"from": 0, "to": 3},
@@ -41,39 +42,34 @@ def build_payload(page_number, is_lab):
     }
 
 def extract_items(raw_items):
-    # API returns list of lists - flatten it
     if not raw_items:
         return []
     if isinstance(raw_items[0], list):
         return raw_items[0]
     return raw_items
 
-def scrape_diamonds(is_lab, max_pages=60):
+def scrape_range(is_lab, carat_min, carat_max, max_pages=25):
     all_diamonds = []
     label = "lab" if is_lab else "natural"
-    print(f"\nStarting {label} diamond scrape...")
 
-    response = requests.post(URL, headers=HEADERS, json=build_payload(1, is_lab))
-    data = response.json()
-    
-    if not data.get("data"):
-        print("No data returned on first request")
+    try:
+        response = requests.post(URL, headers=HEADERS, json=build_payload(1, is_lab, carat_min, carat_max))
+        data = response.json()
+        if not data.get("data"):
+            return []
+        search = data["data"]["searchByIDs"]
+        total_pages = min(search["numberOfPages"], max_pages)
+        print(f"  {label} {carat_min}-{carat_max}ct: {search['total']} diamonds, scraping {total_pages} pages")
+    except Exception as e:
+        print(f"  Error on first request: {e}")
         return []
-    
-    search = data["data"]["searchByIDs"]
-    total_pages = min(search["numberOfPages"], max_pages)
-    total = search["total"]
-    print(f"Found {total} {label} diamonds across {total_pages} pages")
 
     for page in range(1, total_pages + 1):
         try:
-            response = requests.post(URL, headers=HEADERS, json=build_payload(page, is_lab))
+            response = requests.post(URL, headers=HEADERS, json=build_payload(page, is_lab, carat_min, carat_max))
             data = response.json()
-            
             if not data.get("data"):
-                print(f"Page {page} - empty response, skipping")
-                continue
-                
+                break
             raw_items = data["data"]["searchByIDs"]["items"]
             items = extract_items(raw_items)
 
@@ -104,21 +100,43 @@ def scrape_diamonds(is_lab, max_pages=60):
                 }
                 all_diamonds.append(record)
 
-            print(f"Page {page}/{total_pages} - {len(all_diamonds)} diamonds collected")
             time.sleep(0.3)
 
         except Exception as e:
-            print(f"Error on page {page}: {e}")
-            continue
+            print(f"  Error on page {page}: {e}")
+            break
 
     return all_diamonds
 
-natural = scrape_diamonds(is_lab=False, max_pages=60)
-lab = scrape_diamonds(is_lab=True, max_pages=60)
+# Scrape across carat ranges to get full price distribution
+# Each range gets 25 pages = ~1250 diamonds per range
+CARAT_RANGES = [
+    (0.3, 0.7),
+    (0.7, 1.0),
+    (1.0, 1.5),
+    (1.5, 2.0),
+    (2.0, 3.0),
+    (3.0, 5.0),
+]
 
-df = pd.DataFrame(natural + lab)
+all_diamonds = []
+
+for carat_min, carat_max in CARAT_RANGES:
+    print(f"\nScraping {carat_min}-{carat_max} carat range...")
+    natural = scrape_range(is_lab=False, carat_min=carat_min, carat_max=carat_max, max_pages=25)
+    lab = scrape_range(is_lab=True, carat_min=carat_min, carat_max=carat_max, max_pages=25)
+    all_diamonds.extend(natural)
+    all_diamonds.extend(lab)
+    print(f"  Collected {len(natural)} natural and {len(lab)} lab so far in this range")
+    print(f"  Running total: {len(all_diamonds)} diamonds")
+    time.sleep(1)
+
+df = pd.DataFrame(all_diamonds)
+df = df.drop_duplicates(subset="productID")
 df.to_csv("diamonds_raw.csv", index=False)
 
-print(f"\nDone! {len(natural)} natural and {len(lab)} lab diamonds")
-print(f"Total: {len(df)} saved to diamonds_raw.csv")
-print(df.head(10))
+print(f"\nDone! {len(df)} unique diamonds saved to diamonds_raw.csv")
+print(f"Natural: {len(df[df['is_lab']==False])}, Lab: {len(df[df['is_lab']==True])}")
+print(f"\nPrice range: ${df['price_usd'].min()} - ${df['price_usd'].max()}")
+print(f"Carat range: {df['carat'].min()} - {df['carat'].max()}")
+print(df.head())
