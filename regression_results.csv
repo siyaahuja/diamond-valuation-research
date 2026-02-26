@@ -1,0 +1,4 @@
+model,r_squared,n_obs,origin_coef,origin_pval
+Baseline (natural only),0.9738060162697497,6676.0,,
+Full model with origin,0.9315602564937523,13876.0,2.2264839325494235,0.0
+With interactions,0.9748638687459655,13876.0,1.62065638663851,0.0
